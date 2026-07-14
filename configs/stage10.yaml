@@ -1,0 +1,9 @@
+# Stage 10 config — fill in per design doc
+paths:
+  input: data/processed/schools_master.parquet
+  output_dir: outputs/tables/
+seed: 42
+cv:
+  splitter: group_kfold
+  group_col: district_id
+  n_splits: 5
