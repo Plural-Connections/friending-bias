@@ -1,0 +1,33 @@
+{
+  "metadata_version": 1,
+  "task": "Classify",
+  "output_base_name": "classify_responses",
+  "model": "gpt-5-mini",
+  "identifier_hash_bits": 64,
+  "n_attributes_per_run": null,
+  "attribute_count": 20,
+  "attribute_batches": [
+    [
+      "circle entries report more administrative and governance dysfunction plus operational failures in support services (turnover, secrecy, favoritism, misallocation, cover\u2011ups, counselor/scheduling/records breakdowns) than square entries",
+      "square entries report more administrative and governance dysfunction plus operational failures in support services (turnover, secrecy, favoritism, misallocation, cover\u2011ups, counselor/scheduling/records breakdowns) than circle entries",
+      "circle entries report more chronic facilities, resource, and operational shortfalls (overcrowding, HVAC/pests, missing materials, mandatory fees and opaque charges) than square entries",
+      "square entries report more chronic facilities, resource, and operational shortfalls (overcrowding, HVAC/pests, missing materials, mandatory fees and opaque charges) than circle entries",
+      "circle entries report more concrete operational and facility shortcomings (outdated curriculum/technology gaps, missing textbooks, overcrowding, cleanliness/food safety problems, parking/traffic hazards, and mixed renovation/funding narratives) than square entries",
+      "square entries report more concrete operational and facility shortcomings (outdated curriculum/technology gaps, missing textbooks, overcrowding, cleanliness/food safety problems, parking/traffic hazards, and mixed renovation/funding narratives) than circle entries",
+      "circle entries emphasize a smaller, close\u2011knit, family\u2011like community, higher personalized attention, and active alumni/parent involvement more than square entries",
+      "square entries emphasize a smaller, close\u2011knit, family\u2011like community, higher personalized attention, and active alumni/parent involvement more than circle entries",
+      "circle entries report pervasive safety, bullying, harassment, substance\u2011use, and discriminatory/toxic student\u2011climate problems with administrative inaction more than square entries",
+      "square entries report pervasive safety, bullying, harassment, substance\u2011use, and discriminatory/toxic student\u2011climate problems with administrative inaction more than circle entries",
+      "square entries display a more polarized instructional experience than circle entries: distinct pockets of high\u2011intensity individualized support and advanced teaching alongside uneven classroom quality and neglect of average/struggling students",
+      "circle entries display a more polarized instructional experience than square entries: distinct pockets of high\u2011intensity individualized support and advanced teaching alongside uneven classroom quality and neglect of average/struggling students",
+      "square entries document more systemic administrative and governance failures \u2014 corruption/favoritism, hiring problems, grade manipulation, fiscal misprioritization, consolidation/board mismanagement, and routine communication/accountability breakdowns \u2014 than circle entries",
+      "circle entries document more systemic administrative and governance failures \u2014 corruption/favoritism, hiring problems, grade manipulation, fiscal misprioritization, consolidation/board mismanagement, and routine communication/accountability breakdowns \u2014 than square entries",
+      "square entries emphasize broader extracurricular/arts/athletics breadth and stronger community/booster support but also more athletic prioritization and favoritism than circle entries",
+      "circle entries emphasize broader extracurricular/arts/athletics breadth and stronger community/booster support but also more athletic prioritization and favoritism than square entries",
+      "square entries report more acute facility, operational and resourcing constraints (overcrowding, infrastructure problems, scheduling, technology and material shortages, sanitation and cafeteria concerns) than circle entries",
+      "circle entries report more acute facility, operational and resourcing constraints (overcrowding, infrastructure problems, scheduling, technology and material shortages, sanitation and cafeteria concerns) than square entries",
+      "square entries report more pervasive student-safety, bullying, harassment, substance\u2011use and racial/sexual\u2011orientation hostility \u2014 often paired with ineffective administrative responses \u2014 than circle entries",
+      "circle entries report more pervasive student-safety, bullying, harassment, substance\u2011use and racial/sexual\u2011orientation hostility \u2014 often paired with ineffective administrative responses \u2014 than square entries"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "metadata_version": 1,
+  "task": "Classify",
+  "output_base_name": "classify_responses",
+  "model": "gpt-5-mini",
+  "identifier_hash_bits": 64,
+  "n_attributes_per_run": null,
+  "attribute_count": 20,
+  "attribute_batches": [
+    [
+      "circle entries document more administrative and governance dysfunction in concrete policies and procedures (unresponsive offices, punitive/inconsistent discipline policies, nepotism/favoritism, grade manipulation or exam/tuition enforcement, residency/credit transfer problems, and record-keeping errors) than square entries",
+      "square entries document more administrative and governance dysfunction in concrete policies and procedures (unresponsive offices, punitive/inconsistent discipline policies, nepotism/favoritism, grade manipulation or exam/tuition enforcement, residency/credit transfer problems, and record-keeping errors) than circle entries",
+      "circle entries report more pervasive student-safety and disciplinary breakdowns (bullying, fights, gangs, sexual harassment, substance use) and more frequent failure to remediate them than square entries",
+      "square entries report more pervasive student-safety and disciplinary breakdowns (bullying, fights, gangs, sexual harassment, substance use) and more frequent failure to remediate them than circle entries",
+      "circle entries report stronger and more extensive advanced academic programs, college\u2011preparation pathways, CTE/dual\u2011enrollment and measurable student outcomes than square entries",
+      "square entries report stronger and more extensive advanced academic programs, college\u2011preparation pathways, CTE/dual\u2011enrollment and measurable student outcomes than circle entries",
+      "circle entries report more concrete operational, facility, and day\u2011to\u2011day student support failures and inconsistencies (food safety, transportation, pest/mold, lost records, IEP/counseling problems, aftercare costs) than square entries",
+      "square entries report more concrete operational, facility, and day\u2011to\u2011day student support failures and inconsistencies (food safety, transportation, pest/mold, lost records, IEP/counseling problems, aftercare costs) than circle entries",
+      "circle entries report stronger community/parental/alumni engagement and richer localized extracurricular identity (small-town family continuity, active parent/alumni mobilization, celebrated band/arts/FFA/vocational programs and student-driven clubs) than square entries",
+      "square entries report stronger community/parental/alumni engagement and richer localized extracurricular identity (small-town family continuity, active parent/alumni mobilization, celebrated band/arts/FFA/vocational programs and student-driven clubs) than circle entries",
+      "square entries show greater variability and polarization in teacher/staff performance, morale, and student support \u2014 including both high\u2011contact committed teachers and widespread apathy, counselor failures, special\u2011education mismanagement, turnover, and low morale \u2014 compared with circle entries",
+      "circle entries show greater variability and polarization in teacher/staff performance, morale, and student support \u2014 including both high\u2011contact committed teachers and widespread apathy, counselor failures, special\u2011education mismanagement, turnover, and low morale \u2014 compared with square entries",
+      "square entries describe more administrative and governance failures (turnover, mismanagement, favoritism, policy experiments, scheduling/operational errors, unresponsiveness) than circle entries",
+      "circle entries describe more administrative and governance failures (turnover, mismanagement, favoritism, policy experiments, scheduling/operational errors, unresponsiveness) than square entries",
+      "square entries report more facility, capacity, transportation, and resource\u2011prioritization problems (overcrowding, poor layout, cafeteria/bathroom failures, and athletic funding skew) than circle entries",
+      "circle entries report more facility, capacity, transportation, and resource\u2011prioritization problems (overcrowding, poor layout, cafeteria/bathroom failures, and athletic funding skew) than square entries",
+      "square entries report more facility, capacity, sanitation, and resource/funding shortfalls and operational constraints (overcrowding, dilapidated buildings, unsanitary cafeterias/bathrooms, lack of books/computers, traffic/entry congestion) than circle entries",
+      "circle entries report more facility, capacity, sanitation, and resource/funding shortfalls and operational constraints (overcrowding, dilapidated buildings, unsanitary cafeterias/bathrooms, lack of books/computers, traffic/entry congestion) than square entries",
+      "square entries show greater variability and extremes in teacher/instructional quality and student support (from highly committed/inspirational teachers to abusive, neglectful, or discriminatory staff) than circle entries",
+      "circle entries show greater variability and extremes in teacher/instructional quality and student support (from highly committed/inspirational teachers to abusive, neglectful, or discriminatory staff) than square entries"
+    ]
+  ]
+}

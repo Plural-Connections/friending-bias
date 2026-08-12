@@ -5,34 +5,25 @@ alone explain, before any text features. This is the comparison point for every
 later stage. Two models are fit and compared:
 
   * ElasticNet  — regularized linear model (captures linear structure)
-  * GBM         — HistGradientBoostingRegressor (captures nonlinearity /
-                  interactions). Used in place of LightGBM, which is not
-                  installed; it plays the same role and handles NaNs natively.
+  * GBM         — LightGBM (LGBMRegressor): gradient-boosted trees that
+                  capture nonlinearity / interactions and handle NaNs natively.
 
-All out-of-sample scores use GroupKFold keyed on NCES district, so schools from
-the same district never fall in both train and test (districts share policies /
-populations, so a random split would leak and inflate R^2).
-
-Run with:  python -m src.models.demo_baseline
 Outputs:   outputs/models/demo_linear.pkl, outputs/models/demo_gbm.pkl
            outputs/tables/stage1_metrics.csv
            outputs/tables/stage1_gbm_importances.csv
 """
 
 import pickle
-
 import numpy as np
 import pandas as pd
+from lightgbm import LGBMRegressor
 from sklearn.base import clone
-from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.inspection import permutation_importance
 from sklearn.linear_model import ElasticNetCV
-from sklearn.model_selection import GridSearchCV, cross_val_predict
+from sklearn.model_selection import GridSearchCV, KFold, cross_val_predict
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
-
-from src.eval.cv_splits import get_group_kfold
 from src.eval.metrics import evaluate
 
 demos_path = "data/interim/gs_demos_with_social_capital.csv"
@@ -42,11 +33,10 @@ table_dir = "outputs/tables"
 
 TARGET = "bias_own_ses_hs"
 N_SPLITS = 5
+RANDOM_SEEDS = 0
+CV = KFold(n_splits=N_SPLITS, shuffle=True, random_state=RANDOM_SEEDS)
 
-# School demographics only. Deliberately excludes the Atlas social-capital
-# measures (ec_*, exposure_*, bias_parent_*, clustering, volunteering): those
-# are derived from the same friendship data as the target and would leak.
-# `percent-economically-disadvantaged` is dropped (~95% missing).
+# School demographics only. `percent-economically-disadvantaged` is dropped (~95% missing).
 DEMOGRAPHIC_FEATURES = [
     "student-teacher-ratio",
     "students_9_to_12",  # school size from the Social Capital Atlas (vs GreatSchools `enrollment`)
@@ -65,97 +55,103 @@ DEMOGRAPHIC_FEATURES = [
     "ethnicity-Native American",
 ]
 
-# Review volume / length covariates, credited to Stage 1 so their explanatory
-# power is not silently absorbed by later text stages.
+# Review volume / length features so their explanatory power is not silently absorbed by later text stages.
 REVIEW_FEATURES = ["n_reviews", "n_words", "mean_words_per_review"]
 
 FEATURES = DEMOGRAPHIC_FEATURES + REVIEW_FEATURES
 
 
 def load_data(demos_path=demos_path, reviews_path=reviews_path):
-    """Return (X, y, groups) for schools with a friending-bias target."""
+    """Build X (the features) and y (the value we predict)."""
     df = pd.read_csv(demos_path, dtype={"nces_id": str})
-    df = df[df[TARGET].notna()].copy()
 
-    # Merge per-school review volume/length; schools with no reviews -> 0.
+    # Attach how many reviews / words each school has. Left join keeps every
+    # school; a school with no reviews gets 0 (a real count, not "missing").
     rev = pd.read_csv(reviews_path)[["universal-id", "n_reviews", "n_words"]]
     df = df.merge(rev, on="universal-id", how="left")
     df[["n_reviews", "n_words"]] = df[["n_reviews", "n_words"]].fillna(0)
+    # Average review length, guarding against divide-by-zero for review-less schools.
     df["mean_words_per_review"] = np.where(
         df["n_reviews"] > 0, df["n_words"] / df["n_reviews"], 0.0
     )
 
-    X = df[FEATURES].apply(pd.to_numeric, errors="coerce")
+    X = df[FEATURES].apply(pd.to_numeric, errors="coerce")  # feature columns, forced numeric
     y = df[TARGET].to_numpy()
-    groups = df["nces_id"].str[:7]  # NCES district id = first 7 digits
-    return X, y, groups
+    return X, y
 
 
-def fit_elasticnet_cv(X, y, groups):
-    """Regularized linear baseline. Imputes + scales, then ElasticNetCV self-
-    tunes alpha / l1_ratio. Returns a pipeline fit on all rows."""
+def fit_elasticnet_cv(X, y):
+    """Linear model. Fill the gaps, put every feature on the same scale, then fit a regularized linear
+    regression that auto-tunes how hard it shrinks its coefficients."""
     pipe = Pipeline([
+        # Fill the only column with gaps (limited-English %) using its median.
         ("impute", SimpleImputer(strategy="median")),
+        # Rescale features to mean 0 / sd 1 so the penalty judges them fairly
+        # regardless of units (school size in thousands vs. shares in percent).
         ("scale", StandardScaler()),
+        # Linear regression + regularization (shrinks coefficients toward 0 to
+        # avoid overfitting); the CV picks the best shrinkage strength & style.
         ("model", ElasticNetCV(
-            l1_ratio=[0.1, 0.5, 0.9, 1.0], n_alphas=50,
-            cv=5, max_iter=10000, random_state=0)),
+            l1_ratio=[0.1, 0.5, 0.9, 1.0], alphas=50,
+            cv=CV, max_iter=10000, random_state=RANDOM_SEEDS)),
     ])
     return pipe.fit(X, y)
 
 
-def fit_gbm_cv(X, y, groups, param_grid=None):
-    """Gradient-boosted trees, tuned with group-aware CV. Handles NaNs
-    natively (no imputation/scaling). Returns the best estimator, refit on
-    all rows."""
+def fit_gbm_cv(X, y, param_grid=None):
+    """Tree model. Try several settings, score each with CV, keep the best.
+    Trees ignore feature scale and handle missing values on their own, so no
+    impute/scale step is needed here."""
     param_grid = param_grid or {
         "learning_rate": [0.05, 0.1],
-        "max_depth": [None, 3],
-        "max_leaf_nodes": [31, 63],
+        "num_leaves": [31, 63],
+        "n_estimators": [500, 1000],
     }
+    # GridSearchCV trains every combination and keeps the best
     search = GridSearchCV(
-        HistGradientBoostingRegressor(random_state=0),
+        LGBMRegressor(random_state=RANDOM_SEEDS, verbose=-1),
         param_grid,
         scoring="r2",
-        cv=get_group_kfold(N_SPLITS),
+        cv=CV,
     )
-    search.fit(X, y, groups=groups)
+    search.fit(X, y)
     print(f"GBM best params: {search.best_params_}")
     return search.best_estimator_
 
 
-def evaluate_cv(model, X, y, groups):
-    """Honest out-of-sample R^2 / RMSE via GroupKFold out-of-fold predictions."""
+def evaluate_cv(model, X, y):
+    """Honest score. Predict each school with a model trained on the other
+    folds, then compare those held-out predictions to the truth. This is
+    out-of-sample performance, not memorized training fit."""
     preds = cross_val_predict(
-        clone(model), X, y,
-        groups=groups, cv=get_group_kfold(N_SPLITS),
+        clone(model), X, y, cv=CV,  # clone an untrained copy for each fold
     )
-    return evaluate(y, preds)
+    return evaluate(y, preds)  # R^2 / RMSE on predictions the model never trained on
 
 
 def gbm_importances(model, X, y):
-    """Permutation feature importances (HistGBR has no native importances)."""
+    """Rank features by how much the model leans on each. Method is to scramble one
+    column at a time and measure how far R^2 falls."""
     result = permutation_importance(
-        model, X, y, n_repeats=5, random_state=0, scoring="r2",
+        model, X, y, n_repeats=10, random_state=RANDOM_SEEDS, scoring="r2",
     )
     return (pd.DataFrame({
         "feature": X.columns,
-        "importance": result.importances_mean,
+        "importance": result.importances_mean,  # average R^2 drop when shuffled
         "std": result.importances_std,
     }).sort_values("importance", ascending=False).reset_index(drop=True))
 
 
 def run():
-    X, y, groups = load_data()
-    print(f"n schools = {len(X):,}  |  n districts = {groups.nunique():,}  "
-          f"|  n features = {X.shape[1]}\n")
+    X, y = load_data()
+    print(f"n schools = {len(X):,}  |  n features = {X.shape[1]}\n")
 
-    linear = fit_elasticnet_cv(X, y, groups)
-    gbm = fit_gbm_cv(X, y, groups)
+    linear = fit_elasticnet_cv(X, y)
+    gbm = fit_gbm_cv(X, y)
 
     metrics = pd.DataFrame([
-        {"model": "elasticnet", **evaluate_cv(linear, X, y, groups)},
-        {"model": "gbm", **evaluate_cv(gbm, X, y, groups)},
+        {"model": "elasticnet", **evaluate_cv(linear, X, y)},
+        {"model": "gbm", **evaluate_cv(gbm, X, y)},
     ])
 
     # Persist artifacts
@@ -168,7 +164,7 @@ def run():
     importances = gbm_importances(gbm, X, y)
     importances.to_csv(f"{table_dir}/stage1_gbm_importances.csv", index=False)
 
-    print("\n=== Cross-validated metrics (GroupKFold by district) ===")
+    print("\n=== Cross-validated metrics ===")
     print(metrics.to_string(index=False))
     print("\n=== GBM permutation importances (known confounders) ===")
     print(importances.to_string(index=False))

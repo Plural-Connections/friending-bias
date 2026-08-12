@@ -4,18 +4,13 @@ Replicates the binned-scatter methodology from the Social Capital Atlas papers
 (Chetty et al.): the horizontal-axis variable (each predictor) is split into
 ventiles (20 bins of 5 percentile points); within each bin we plot the
 student-weighted mean of friending bias against the student-weighted mean of
-the predictor. A quadratic best-fit line from weighted OLS is overlaid as a
-visual guide to the (possibly non-parametric) relationship. All predictors are
-drawn as panels of a single figure and a summary table is written to
-outputs/tables/.
+the predictor. All predictors are drawn as panels of a single figure and a
+summary table is written to outputs/tables/.
 """
 
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from scipy import stats
-from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import PolynomialFeatures
 
 merged_path = "data/interim/gs_demos_with_social_capital.csv"
 fig_dir = "outputs/figures"
@@ -42,6 +37,7 @@ HHI_COL = "ethnicity_hhi"  # racial concentration (1 = single group, low = diver
 
 # Predictors to plot against friending bias. Add more here as needed.
 FACTORS = [
+    "students_9_to_12",
     HHI_COL,
     "ethnicity-White",
     "ethnicity-Black",
@@ -51,6 +47,7 @@ FACTORS = [
 ]
 
 LABELS = {
+    "students_9_to_12": "School size (grades 9–12)",
     HHI_COL: "Racial Diversity (HHI)",
     "ethnicity-White": "% White students",
     "ethnicity-Black": "% Black students",
@@ -75,31 +72,6 @@ def add_ethnicity_hhi(df, eth_cols=ETHNICITY_COLS, out_col=HHI_COL):
     fracs = shares.div(totals.where(totals > 0), axis=0)
     df[out_col] = (fracs ** 2).sum(axis=1, min_count=1)
     return df
-
-
-def wls_quadratic(x, y, w):
-    """Weighted OLS of y on [1, x, x^2]. Returns (coeffs, r2, p_quad).
-
-    coeffs are ordered for np.polyval: [a2, a1, a0] (a2*x^2 + a1*x + a0).
-    r2 is the weight-adjusted coefficient of determination; p_quad is the
-    two-sided p-value on the quadratic term.
-    """
-    # Design matrix [1, x, x^2] and a student-weighted quadratic fit
-    X = PolynomialFeatures(degree=2).fit_transform(x.reshape(-1, 1))
-    model = LinearRegression(fit_intercept=False).fit(X, y, sample_weight=w)
-    beta = model.coef_                         # [a0, a1, a2]
-    r2 = model.score(X, y, sample_weight=w)    # weighted coefficient of determination
-
-    # sklearn gives no standard errors, so derive the p-value on a2 by hand
-    resid = y - model.predict(X)
-    n, k = X.shape
-    W = np.diag(w)
-    cov = (resid @ W @ resid) / (n - k) * np.linalg.inv(X.T @ W @ X)
-    se_a2 = np.sqrt(cov[2, 2])
-    t_a2 = beta[2] / se_a2 if se_a2 > 0 else np.nan
-    p_quad = 2 * stats.t.sf(abs(t_a2), df=n - k) if np.isfinite(t_a2) else np.nan
-
-    return beta[::-1], r2, p_quad  # reverse -> [a2, a1, a0] for np.polyval
 
 
 def _binned_means(x, y, w, n_bins=N_BINS):
@@ -134,13 +106,8 @@ def plot_factor_panel(ax, df, factor, bias_col=BIAS_COL, weight_col=WEIGHT_COL):
         print(f"Skipping {factor}: only {n} weighted observations")
         return None
 
-    # Quadratic weighted OLS fit as a visual guide, drawn over the bin range
-    coeffs, r2, p_quad = wls_quadratic(x, y, w)
-
     # Binned scatter points (weighted means within ventiles of the predictor)
     bx, by = _binned_means(x, y, w)
-    xs = np.linspace(bx.min(), bx.max(), 200)
-    ax.plot(xs, np.polyval(coeffs, xs), linewidth=2, zorder=2)
     ax.scatter(bx, by, s=40, zorder=3)
     ax.axhline(0, linewidth=0.8, linestyle="--", zorder=1)
 
@@ -151,18 +118,12 @@ def plot_factor_panel(ax, df, factor, bias_col=BIAS_COL, weight_col=WEIGHT_COL):
     ax.grid(True, alpha=0.3)
     ax.set_axisbelow(True)
 
-    stats_text = f"$R^2$ = {r2:.3f}\n$p_{{quad}}$ = {p_quad:.0e}\nn = {n:,}"
+    stats_text = f"n = {n:,}"
     ax.text(0.04, 0.96, stats_text, transform=ax.transAxes,
             va="top", ha="left", fontsize=9,
             bbox=dict(boxstyle="round", facecolor="white", alpha=0.85))
 
-    return {
-        "predictor": factor,
-        "n_schools": n,
-        "r_squared": r2,
-        "p_quad": p_quad,
-        "quad_coef": coeffs[0],   # x^2 term: sign = shape of the curve
-    }
+    return {"predictor": factor, "n_schools": n}
 
 
 def run_correlations(merged_path=merged_path, factors=FACTORS,
@@ -185,8 +146,7 @@ def run_correlations(merged_path=merged_path, factors=FACTORS,
     fig.suptitle("Predictors of Friending Bias in High Schools Using Own SES",
                  fontsize=16, fontweight="bold")
     fig.text(0.5, 0.945,
-             "Binned scatter (20 ventiles), student-weighted; "
-             "solid line = weighted quadratic fit",
+             "Binned scatter (20 ventiles), student-weighted",
              ha="center", fontsize=10)
     fig.tight_layout(rect=[0, 0, 1, 0.93], h_pad=2.5, w_pad=2.0)
     fig_path = f"{out_dir}/predictors_of_friending_bias.png"
@@ -195,7 +155,6 @@ def run_correlations(merged_path=merged_path, factors=FACTORS,
     print(f"Wrote {fig_path}")
 
     summary = pd.DataFrame([r for r in results if r is not None])
-    summary = summary.sort_values("r_squared", ascending=False)
     table_path = f"{table_dir}/bias_correlations.csv"
     summary.to_csv(table_path, index=False)
     print(f"Wrote {table_path}\n")

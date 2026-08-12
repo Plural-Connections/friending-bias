@@ -1,0 +1,33 @@
+{
+  "metadata_version": 1,
+  "task": "Classify",
+  "output_base_name": "classify_responses",
+  "model": "gpt-5-mini",
+  "identifier_hash_bits": 64,
+  "n_attributes_per_run": null,
+  "attribute_count": 20,
+  "attribute_batches": [
+    [
+      "circle entries describe stronger, more concrete advanced-academic and college-preparation pathways and supports (AP/IB, dual\u2011enrollment, early\u2011college, external partnerships, conservatory tracks) than square entries",
+      "square entries describe stronger, more concrete advanced-academic and college-preparation pathways and supports (AP/IB, dual\u2011enrollment, early\u2011college, external partnerships, conservatory tracks) than circle entries",
+      "circle entries describe richer, more active community & extracurricular ecosystems (parent/PTA/booster involvement, alumni networks, business/nonprofit mentoring, robust arts/athletics) than square entries",
+      "square entries describe richer, more active community & extracurricular ecosystems (parent/PTA/booster involvement, alumni networks, business/nonprofit mentoring, robust arts/athletics) than circle entries",
+      "circle entries report more administrative and staff dysfunctional practices (unresponsiveness, nepotism/favoritism, hiring problems, inconsistent teacher quality, counseling/special\u2011education failures, allegations of misconduct and discriminatory discipline) than square entries",
+      "square entries report more administrative and staff dysfunctional practices (unresponsiveness, nepotism/favoritism, hiring problems, inconsistent teacher quality, counseling/special\u2011education failures, allegations of misconduct and discriminatory discipline) than circle entries",
+      "circle entries report stronger formal college\u2011preparatory programs, measurable academic outcomes, and advanced\u2011course/dual\u2011enrollment opportunities than square entries",
+      "square entries report stronger formal college\u2011preparatory programs, measurable academic outcomes, and advanced\u2011course/dual\u2011enrollment opportunities than circle entries",
+      "circle entries report more pervasive student-safety problems, bullying, fights, racial harassment, sexual harassment, gang activity, and administrative minimization or nonresponse than square entries",
+      "square entries report more pervasive student-safety problems, bullying, fights, racial harassment, sexual harassment, gang activity, and administrative minimization or nonresponse than circle entries",
+      "Square entries show greater within\u2011school variability and inconsistent student supports (uneven teacher quality, mixed special\u2011education/IEP and counseling implementation, polarized student outcomes, and repeated parental advocacy) than circle entries",
+      "circle entries show greater within\u2011school variability and inconsistent student supports (uneven teacher quality, mixed special\u2011education/IEP and counseling implementation, polarized student outcomes, and repeated parental advocacy) than square entries",
+      "square entries report more frequent and severe student-safety and social-climate problems (bullying, drug/vaping use, fights, gang/weapon incidents, racism/transphobia, self-harm) than circle entries",
+      "circle entries report more frequent and severe student-safety and social-climate problems (bullying, drug/vaping use, fights, gang/weapon incidents, racism/transphobia, self-harm) than square entries",
+      "Square entries document more administrative and governance dysfunction \u2014 unresponsiveness, favoritism/athletic/wealth bias, leadership turnover, fiscal scandal and punitive or opaque policies \u2014 than circle entries",
+      "circle entries document more administrative and governance dysfunction \u2014 unresponsiveness, favoritism/athletic/wealth bias, leadership turnover, fiscal scandal and punitive or opaque policies \u2014 than square entries",
+      "Square entries describe more concrete, diverse advanced academic and career-readiness programs and measurable postsecondary outcomes (AP/IB/dual-credit/CTE/academies) than circle entries",
+      "circle entries describe more concrete, diverse advanced academic and career-readiness programs and measurable postsecondary outcomes (AP/IB/dual-credit/CTE/academies) than square entries",
+      "square entries report more failures and strain in student support services, counseling, and special education compliance than circle entries",
+      "circle entries report more failures and strain in student support services, counseling, and special education compliance than square entries"
+    ]
+  ]
+}

@@ -5,17 +5,22 @@ sort_by_day_review.py). A stable group-by on "universal-id" therefore
 preserves that chronological order within each school, so joining the
 "comments" of each group yields one concatenated review per school,
 oldest first.
+
+Also attaches each school's "nces_id" from gs_demos_with_social_capital.csv
+(joined on "universal-id") so downstream NCES-keyed joins don't need to go
+through that file again. Schools with no match there get a null nces_id.
 """
 
 import pandas as pd
 
 input_path = "data/interim/gs_reviews_sorted_by_day_posted.csv"
+demos_path = "data/interim/gs_demos_with_social_capital.csv"
 output_path = "data/interim/gs_reviews_concat_by_school.csv"
 
 SEPARATOR = " "
 
-def concat_reviews(input_path, output_path, group="universal-id",
-                   text="comments", sep=SEPARATOR):
+def concat_reviews(input_path, output_path, demos_path=demos_path,
+                   group="universal-id", text="comments", sep=SEPARATOR):
     df = pd.read_csv(input_path)
     # Drop rows with no review text so they don't leak in as "nan" or
     # inflate n_reviews.
@@ -29,6 +34,10 @@ def concat_reviews(input_path, output_path, group="universal-id",
         df.groupby(group, sort=False)[text].size().values
     )
     grouped["n_words"] = grouped[text].str.split().str.len()
+
+    nces_by_school = pd.read_csv(demos_path)[[group, "nces_id"]]
+    grouped = grouped.merge(nces_by_school, on=group, how="left")
+
     grouped.to_csv(output_path, index=False)
     print(f"Wrote {len(grouped)} schools to {output_path}")
 

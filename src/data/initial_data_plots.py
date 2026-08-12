@@ -5,7 +5,7 @@ import pandas as pd
 
 merged_path = "data/interim/gs_demos_with_social_capital.csv"
 reviews_path = "data/interim/gs_reviews_concat_by_school.csv"
-out_dir = "outputs"
+out_dir = "outputs/figures"
 
 BIAS_COL = "bias_own_ses_hs"  # friending bias by own SES (primary Atlas measure)
 

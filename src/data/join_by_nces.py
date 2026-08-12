@@ -17,6 +17,7 @@ demos_path = "data/raw/gs_demos.csv"
 output_path = "data/interim/gs_demos_with_social_capital.csv"
 
 NCES_WIDTH = 12
+TARGET = "bias_own_ses_hs"  # friending bias; rows without it can't be modeled
 
 def normalize_nces(s):
     """Strip whitespace and zero-pad NCES ids to the canonical 12 digits."""
@@ -58,6 +59,11 @@ def join_by_nces(atlas_path, demos_path, output_path, how="inner"):
     print(f"Matched atlas schools: {n_matched_ids} ({atlas_match_rate:.1%})")
     print(f"Dropped demos schools: {demos_dropped} ({demos_rate:.1%})")
     print(f"Dropped atlas schools: {atlas_dropped} ({atlas_rate:.1%})")
+
+    # Drop schools with no friending-bias value — they can't be used downstream.
+    n_before = len(merged)
+    merged = merged[merged[TARGET].notna()]
+    print(f"Dropped {n_before - len(merged)} schools with no {TARGET}")
 
     merged.to_csv(output_path, index=False)
     print(f"Wrote {len(merged)} rows to {output_path}")

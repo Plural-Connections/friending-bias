@@ -13,4 +13,5 @@ Matched demos schools: 17311 (12.9%)
 Matched atlas schools: 17311 (98.8%)
 Dropped demos schools: 116601 (87.1%) (elementary/middle schools dropped)
 Dropped atlas schools: 214 (1.2%) (private schools, charter schools, with overlaps such that the name appears somewhere else under different nces id)
-Wrote 17311 rows to data/interim/gs_demos_with_social_capital.csv
+Dropped 3353 matched schools with no bias_own_ses_hs (can't be modeled without the target)
+Wrote 13958 rows to data/interim/gs_demos_with_social_capital.csv
