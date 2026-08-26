@@ -1,0 +1,10 @@
+{
+  "metadata_version": 1,
+  "task": "Compare",
+  "output_base_name": "comparison_responses",
+  "model": "gpt-5-mini",
+  "identifier_hash_bits": 64,
+  "n_attributes_per_run": null,
+  "attribute_count": 0,
+  "attribute_batches": []
+}

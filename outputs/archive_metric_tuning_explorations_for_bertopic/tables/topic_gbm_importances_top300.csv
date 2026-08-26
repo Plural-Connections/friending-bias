@@ -1,0 +1,301 @@
+feature,importance,std
+"topic_26 (ap, ap classes, honors)",0.07785766575514622,0.002811419901977398
+"topic_25 (ib, ib program, baccalaureate)",0.05335218935336926,0.002221799895740203
+"topic_4 (great school, excellent school, school great)",0.02506675161952786,0.0005278622824396969
+"topic_181 (counselors, counselor, counseling)",0.024318762984102082,0.0013336060693996039
+"topic_1 (staff, great teachers, caring)",0.015257804444963297,0.0004796494052489983
+"topic_8 (worst school, worst, horrible)",0.0131204563571523,0.00038515085587435805
+"topic_239 (small town, town school, small school)",0.012865266972195278,0.0006376506848215012
+"topic_118 (drugs, drug, drug problem)",0.011007915646818,0.000722782386745852
+"topic_9 (band, music, arts)",0.010882553545854079,0.0008921021763758075
+"topic_275 (love school, school love, love)",0.010727864295749045,0.00031998101581732683
+"topic_176 (great school, school principal, principal great)",0.010563075777331832,0.00038045423675727645
+"topic_196 (ivy, ivy league, league)",0.010294738752728993,0.0007834373377285196
+"topic_17 (love school, love, school love)",0.010281385487169458,0.0003545237870789212
+"topic_51 (send, horrible, terrible)",0.010167660769362107,0.000696094387615187
+"topic_62 (sports, athletic, sports program)",0.010094819816107926,0.0007136968654193886
+"topic_190 (best school, school best, best)",0.009676992335119827,0.0003761829974935807
+"topic_55 (send, send child, child school)",0.009300362466136181,0.00037905124965327514
+"topic_37 (sizes, class sizes, small class)",0.00923796343748844,0.0006900967586389932
+"topic_56 (office, rude, office staff)",0.009203243461569288,0.0006744735787672919
+"topic_29 (special, special needs, special education)",0.008495110092037027,0.0005338356580951171
+"topic_60 (prep, preparatory, college prep)",0.008235709930286328,0.00043205123645777824
+"topic_144 (experience school, experience, great experience)",0.007848031294279356,0.00031026369349180204
+"topic_161 (average, school average, average school)",0.007681661076123591,0.0005662529475111476
+"topic_19 (scores, test, test scores)",0.007668180560661764,0.0004477749400456177
+"topic_265 (6th, 6th grade, 7th)",0.007605183161178175,0.0006882293805502342
+"topic_18 (special, special needs, special education)",0.007286556680711431,0.0003950734677365211
+"topic_50 (magnet, magnet program, magnet school)",0.006938397159206888,0.00040435399733026285
+"topic_117 (best school, best, school best)",0.00689227041298116,0.00037603958485237334
+"topic_31 (catholic, catholic school, catholic education)",0.00683737130032055,0.0008733016819724876
+"topic_158 (school awesome, awesome, cool)",0.006784417813466825,0.0004569807630106681
+"topic_80 (private school, private, private schools)",0.006589948176500504,0.0003331555564449299
+"topic_109 (experience, experience far, experience good)",0.00607404630406726,0.0002453144182513586
+"topic_23 (dress, dress code, code)",0.005912220399409795,0.0003530529221622035
+"topic_38 (stars, school stars, star)",0.005856192074671862,0.00036963992851260063
+"topic_127 (county, best elementary, school county)",0.0058396197693376005,0.0002605179640054978
+"topic_124 (new principal, new, principal)",0.0057665269534775245,0.0004329440895361914
+"topic_24 (gifted, gifted program, gifted students)",0.005522949563063118,0.0008684431796095948
+"topic_234 (san, diego, san diego)",0.005431282694529071,0.0006948346727643096
+"topic_14 (reviews, review, negative)",0.005393845288925991,0.00044841603811988695
+"topic_241 (stars, stars stars, star)",0.0050527268806016545,0.00029476034247329905
+"topic_6 (middle school, middle, best middle)",0.004903576739132965,0.0002710386365652993
+"topic_34 (coach, sports, coaches)",0.004696436844187546,0.0004191009545391397
+"topic_52 (horrible, terrible, worst)",0.004578072093559049,0.0002571296001487595
+"topic_142 (problems, complaints, problems school)",0.004552982973954412,0.0003583363312528251
+"topic_94 (bhs, bms, bls)",0.004541260315186202,0.0008832356073072947
+"topic_168 (high school, high, college)",0.004251735993305283,0.00029264592258718705
+"topic_10 (10, 10 10, rate)",0.003988438652380133,0.00032653767644568767
+"topic_199 (great place, place, place kids)",0.0039395021909538475,0.00036087742196212893
+"topic_28 (rating, ratings, rated)",0.0038620268513092416,0.00025040451791205756
+"topic_48 (parking, bus, traffic)",0.003819061891535336,0.00038698587284781124
+"topic_73 (stem, stem program, stem school)",0.003736630376203831,0.00043609376696460714
+"topic_65 (love school, school principal, principal)",0.003521078337370598,0.00020420430560257315
+"topic_21 (principal, great principal, principal teachers)",0.0034803849343404527,0.00033271664165265017
+"topic_160 (ca, california, cal)",0.00334831088182167,0.0007712467759236109
+"topic_242 (poor, school poor, extremely poor)",0.0032641987500827696,0.0002298930557373026
+"topic_206 (honor roll, roll, honor)",0.0031725702049395068,0.00024955592608042203
+"topic_27 (iep, child iep, ieps)",0.0029482199019838506,0.0002367047703672895
+"topic_16 (white, black, racism)",0.0029433766888127045,0.0001869305246322716
+"topic_166 (hate school, hate, hated)",0.002779409030951208,0.00021806069069147448
+"topic_72 (florida, tampa, fl)",0.0027567539242489337,0.0003666247580935703
+"topic_209 (central, central elementary, central school)",0.0026629812269706845,0.0004560993649160197
+"topic_76 (gcs, ghs, gw)",0.002564387927139411,0.0006853446560321923
+"topic_11 (charter, charter school, charter schools)",0.002520780183406568,0.00021187163355963157
+"topic_287 (rude, teachers rude, rude teachers)",0.00246276248717191,0.0002524158524567813
+"topic_195 (improvement, school improved, room improvement)",0.0024303678567105026,0.00015436110265475549
+"topic_92 (principle, new principle, principle great)",0.002404461090434196,0.00029368598344159613
+"topic_83 (bathrooms, bathroom, roaches)",0.0023874721158424705,0.0001299439339938729
+"topic_227 (ratio, teacher ratio, student teacher)",0.002341098274887832,0.0004031124682578415
+"topic_45 (west, westside, westview)",0.002320936700591103,0.0002809754046272175
+"topic_180 (math, math program, math teacher)",0.0022643325492239684,0.00022667103681785347
+"topic_114 (northside, north, northridge)",0.002219099359763543,0.00020072634980001288
+"topic_221 (hispanic, hispanics, latino)",0.002208122406027835,0.00030914205767810447
+"topic_2 (christian, christian school, christ)",0.0021873952008283236,0.0004175766144967193
+"topic_53 (turnover, administration, teacher turnover)",0.002126170883086709,0.000292108782827638
+"topic_30 (memories, remember, miss)",0.0020703130973517394,9.474600509096231e-05
+"topic_187 (safe, clean, school safe)",0.002005799483424331,0.00018217101145306843
+"topic_35 (covid, pandemic, covid 19)",0.001955198120915269,0.00027304814783298817
+"topic_15 (principal, new principal, rude)",0.0018684232341710239,0.00022015059877037748
+"topic_189 (jersey, nj, new jersey)",0.00185274086003403,0.0003979782135057587
+"topic_101 (friends, college, high school)",0.0018323622441381749,0.00030129980179276813
+"topic_167 (disappointed, disappointed school, disappointment)",0.001808745258947142,0.00021509210547141668
+"topic_43 (pre, pre program, prek)",0.0017132587947101153,0.00044764056438618293
+"topic_7 (spanish, immersion, language)",0.001706148582724043,0.00021063003988833152
+"topic_79 (nyc, york, brooklyn)",0.0016869916076064917,0.00026384019426117414
+"topic_39 (military, military family, military families)",0.0015297925522027912,0.0002879651037681487
+"topic_0 (bullying, bullied, bully)",0.0013971316541610546,9.863881029730362e-05
+"topic_162 (bay, bayview, bay area)",0.0013557139460204203,0.00029710048792409697
+"topic_253 (bishop, archbishop, luers)",0.0013425618773533765,0.0004130717290777355
+"topic_224 (smith, smith school, smithfield)",0.0013363558418648558,0.0002051454032678219
+"topic_136 (east, eastern, eastside)",0.0013287655704813273,0.00022007251827973546
+"topic_12 (kindergarten, preschool, kindergarten year)",0.0012950403721891934,0.00018225110628294805
+"topic_99 (south, southside, south lake)",0.0012478873668719027,0.00021379510086912994
+"topic_46 (adhd, son adhd, child adhd)",0.0012392415322726614,0.00036752286993961856
+"topic_193 (substitute, substitute teacher, sub)",0.0012314847537800433,0.00018908450318912032
+"topic_33 (que, escuela, en)",0.0012256633478464174,0.00020623204286630324
+"topic_84 (ridge, ridgeview, ridgeway)",0.0012185927226841752,0.00034315071323263183
+"topic_279 (pros, cons, pro)",0.0012147791407458696,0.00020971168369370938
+"topic_215 (yes yes, ok ok, quandale dingle)",0.0011626097055456252,0.00016331788446127083
+"topic_163 (blue, ribbon, blue ribbon)",0.0011378050504082249,0.00022794808969954419
+"topic_139 (ipads, ipad, technology)",0.0011200528676099885,0.0002471370081259457
+"topic_5 (pta, pto, active)",0.0010212981420804957,0.00011958531598789698
+"topic_148 (care children, care kids, helped)",0.0009854755594660425,0.0002736883278547855
+"topic_274 (hope, hopewell, hope academy)",0.0009748914095319416,0.0001488783225562286
+"topic_57 (valley, valley view, view)",0.0009638073403407166,0.0001576490860838413
+"topic_116 (georgia, atlanta, ga)",0.0009615518339316398,0.00012672718157953684
+"topic_214 (daycare, infant, day care)",0.0009411412311142953,0.00031858479579847075
+"topic_188 (miami, dade, school miami)",0.0009072810888655746,0.00018730104010340385
+"topic_89 (hhs, hfs, hta)",0.0008944471975053436,0.00017393169524645128
+"topic_281 (jackson, jackson elementary, school jackson)",0.0008775958078888202,0.0002718825600774569
+"topic_78 (green, greene, greenbrier)",0.0007902984671522395,0.00018241152825667844
+"topic_87 (thank, want thank, thankful)",0.0007511412210403301,0.00015445235699593503
+"topic_135 (la, los, angeles)",0.0007501369998207496,0.00020049803826864738
+"topic_285 (mount, mtc, mta)",0.0007451294727017554,0.0002644262080889445
+"topic_240 (cps, cpa, cp)",0.0007138209553535724,0.00021098455041265352
+"topic_251 (kennedy, jfk, john kennedy)",0.0006982969849829934,0.0002811934825766543
+"topic_59 (french, french immersion, lycee)",0.0006611864296584225,8.52436340680667e-05
+"topic_95 (mountain, mountain view, view)",0.0006378421160764258,0.0001535990337442853
+"topic_88 (homework, hours, night)",0.0006089852489318037,0.00013250215702242458
+"topic_40 (ps, ps 37, 37)",0.0005866595974217681,0.00016714680002077184
+"topic_61 (autism, autistic, autism spectrum)",0.0005806142364810252,0.00013156022829414774
+"topic_41 (st mary, mary, st)",0.0005759563838748316,0.00022286738664569982
+"topic_202 (cambridge, cambridge program, cambridge school)",0.0005520284104458262,0.00023252950684759255
+"topic_69 (lincoln, lincoln school, lincoln elementary)",0.0005511298687349453,0.00017042271570017132
+"topic_185 (homeschooling, homeschool, homeschooled)",0.0005165730476651587,9.765496875584555e-05
+"topic_93 (river, riverview, riverbend)",0.0005030298109425346,0.00012509257658115336
+"topic_70 (park, parkview, parkside)",0.0005013370966380881,0.00015495384258277104
+"topic_111 (st john, john, st)",0.0004982460912189235,0.00020546516147262528
+"topic_123 (heritage, american heritage, american)",0.00046783809766236527,8.750060594654442e-05
+"topic_252 (davis, davis elementary, davis great)",0.0004227583681822189,0.00014455089488669048
+"topic_129 (vista, vistamar, vista academy)",0.0004004991302885896,0.00011232543328876682
+"topic_121 (sacred, sacred heart, heart)",0.00036948844728083017,0.00011801336274981561
+"topic_42 (lake, lakeview, lakewood)",0.0003418506807731037,4.2412489227729766e-05
+"topic_280 (lewis, clark, lewis school)",0.00033178222729912665,6.986476652787897e-05
+"topic_44 (k5, k4, went)",0.0003232686582074873,9.18442387340013e-05
+"topic_134 (washington, washington school, washington elementary)",0.0003044181549625713,7.123030177501373e-05
+"topic_98 (food, lunch, lunches)",0.0002987990184624145,5.198814431257078e-05
+"topic_63 (mrs, ms, teacher mrs)",0.00029152783165307115,3.541202517225995e-05
+"topic_197 (lgbtq, gay, lgbt)",0.0002615323103434597,8.466022514816275e-05
+"topic_169 (poor, leadership, administration)",0.0002550899298795706,8.410983219669689e-05
+"topic_36 (creek, creek elementary, creekside)",0.0002527250426700545,9.793329086177791e-05
+"topic_203 (notre dame, notre, dame)",0.0002462879290113795,0.00010383959181583885
+"topic_152 (st thomas, thomas, st)",0.00024187945317001304,0.00013585369197935624
+"topic_204 (went, children went, love kids)",0.0002305823418566333,6.832011495110569e-05
+"topic_74 (phoenix, arizona, tucson)",0.00022414287731383764,7.212469582027212e-05
+"topic_159 (hawaii, hawaiian, hanalani)",0.00020966790381121703,7.859025308720189e-05
+"topic_256 (ranch, augusta, ranch elementary)",0.00018854513762206482,6.24190679220059e-05
+"topic_157 (ocean, bayshore, seas)",0.00018123194796292318,9.476113869213205e-05
+"topic_175 (vegas, las vegas, las)",0.00017632884684271044,8.498546822442633e-05
+"topic_104 (academy, academy great, inspire)",0.00016875688252939724,1.7196750721693085e-05
+"topic_294 (palm, palms, royal palm)",0.00016649140160585052,4.5139221933930336e-05
+"topic_145 (eagle, eagles, eagle academy)",0.0001636645621210242,7.553201345260574e-05
+"topic_255 (hills, seven hills, hill)",0.000151837457728754,4.501726743753403e-05
+"topic_172 (roosevelt, roosevelt school, roosevelt great)",0.0001494223029665731,6.498946179119128e-05
+"topic_286 (prince, peace, prince peace)",0.00014863365089980984,2.1383360515444766e-05
+"topic_198 (st mark, mark, st marks)",0.00014587593185166892,3.8652017593794696e-05
+"topic_149 (brookfield, brook, brook hill)",0.0001450330247536935,4.4739554315047666e-05
+"topic_260 (athens, greek, plato)",0.00014325685495023555,6.853553822207514e-05
+"topic_292 (nashville, tennessee, marion)",0.00014214676409193271,8.61937755405162e-05
+"topic_105 (franklin, franklin academy, franklin school)",0.0001284849517937725,5.1978851526484235e-05
+"topic_20 (catholic, catholic school, catholic schools)",0.00012718848288189032,3.8621479017762286e-05
+"topic_122 (madison, huntsville, olympia)",0.0001221728089527474,2.8497510126002592e-05
+"topic_225 (st james, james, saint james)",0.00012112367898107213,5.0496701861310734e-05
+"topic_90 (holy, holy family, holy spirit)",0.0001094789318915379,8.48675835284415e-05
+"topic_153 (fcs, fca, fchs)",0.00010841743703553508,5.7488418689268256e-05
+"topic_177 (ese, esl, ese program)",0.00010826721084673529,5.1550071612103935e-05
+"topic_295 (anderson, anderson school, andersen)",9.941912060414947e-05,2.25176256077244e-05
+"topic_100 (highland, highlands, highland park)",9.51878613239865e-05,3.888027266427998e-05
+"topic_284 (village, village school, village academy)",9.377062545495862e-05,2.3226363500742785e-05
+"topic_150 (king, christ king, kings)",9.024607820190544e-05,1.9690910924218756e-05
+"topic_141 (wilson, woodrow, wilson hall)",8.918558848081126e-05,4.579154627938999e-05
+"topic_32 (oak, oaks, oakwood)",7.148543020863984e-05,3.787093032426349e-05
+"topic_133 (canyon, copper, bell canyon)",6.863863253291358e-05,3.0356934439733384e-05
+"topic_67 (reading, read, reading program)",6.602248389248055e-05,3.303439784799156e-05
+"topic_58 (mandarin, chinese, immersion)",6.217384519274782e-05,4.696925841786936e-05
+"topic_216 (rock, solid rock, rock academy)",5.645069235022948e-05,2.855189203050143e-05
+"topic_194 (edison, la reina, reina)",5.450045096134781e-05,4.4382655959300423e-05
+"topic_82 (grace, grace christian, grace school)",5.1267119559228466e-05,2.889494950397821e-05
+"topic_119 (jefferson, jefferson elementary, thomas jefferson)",5.119623688819575e-05,2.5414232459907654e-05
+"topic_103 (fundraisers, fundraising, money)",4.822051956488993e-05,2.431965422391577e-05
+"topic_217 (forest, forest hills, woods)",4.5340844767094435e-05,9.951027025095234e-06
+"topic_259 (riverside, riverside elementary, school riverside)",4.3947826921697517e-05,2.1892425336606555e-05
+"topic_266 (pes, pe, pe program)",3.3773402527204063e-05,2.4956576476832873e-05
+"topic_208 (horizon, new horizon, echo)",2.7305273880451342e-05,2.5880586981784386e-05
+"topic_186 (bridges, bridge, bridgeway)",2.57490573417396e-05,1.8575852251820274e-05
+"topic_237 (desert, desert view, desert heights)",2.5665308967859346e-05,1.0686354316131303e-05
+"topic_183 (pine, pinewood, pine view)",2.0104561860245784e-05,1.6291123360713965e-05
+"topic_165 (german, goethe, germany)",1.768387945373373e-05,6.977360918096401e-06
+"topic_120 (liberty, liberty christian, liberty elementary)",1.6507006506616406e-05,1.5223352137033056e-05
+"topic_179 (dc, dca, dcs)",1.6059422958447644e-05,8.370950115304291e-06
+"topic_261 (ace, acera, love ace)",7.338883057517176e-06,4.623719193785116e-06
+"topic_140 (dyslexia, dyslexic, diagnosed dyslexia)",7.152428912426956e-06,1.1179724621663573e-05
+"topic_210 (hamilton, alexander, school hamilton)",6.133992075252337e-06,5.83371613681276e-06
+"topic_245 (gateway, gateway school, school gateway)",0.0,0.0
+"topic_244 (walden, walden school, walden green)",0.0,0.0
+"topic_248 (classical, classical academy, classical education)",0.0,0.0
+"topic_236 (vms, fvms, vv)",0.0,0.0
+"topic_243 (willow, willows, willowbrook)",0.0,0.0
+"topic_246 (mms, mas, mmr)",0.0,0.0
+"topic_235 (covenant, new covenant, covenant christian)",0.0,0.0
+"topic_238 (mpa, mps, mpe)",0.0,0.0
+"topic_273 (briarwood, briscoe, bre)",0.0,0.0
+"topic_249 (pinecrest, woodcrest, pinecrest academy)",0.0,0.0
+"topic_247 (hillcrest, skycrest, school hillcrest)",0.0,0.0
+"topic_298 (garden, gardens, garden school)",0.0,0.0
+"topic_297 (villa, villa maria, villa victoria)",0.0,0.0
+"topic_296 (sage, sagemont, desert sage)",0.0,0.0
+"topic_293 (emerson, emerson school, emerson wonderful)",0.0,0.0
+"topic_291 (lourdes, lady lourdes, lady)",0.0,0.0
+"topic_290 (dms, ebc, dw)",0.0,0.0
+"topic_288 (catherine, st catherine, siena)",0.0,0.0
+"topic_289 (veritas, veritas academy, veritas school)",0.0,0.0
+"topic_283 (luke, st luke, luke school)",0.0,0.0
+"topic_282 (somerset, somerset academy, miramar)",0.0,0.0
+"topic_278 (sfa, sfc, sft)",0.0,0.0
+"topic_277 (cds, cda, coram deo)",0.0,0.0
+"topic_276 (sms, sms great, experience sms)",0.0,0.0
+"topic_233 (salem, salem elementary, salem lutheran)",0.0,0.0
+"topic_269 (odyssey, primavera, odyssey charter)",0.0,0.0
+"topic_270 (monticello, montclair, monta loma)",0.0,0.0
+"topic_271 (zion, zion lutheran, lutheran)",0.0,0.0
+"topic_272 (stm, stma, stott)",0.0,0.0
+"topic_268 (alverno, alcott, alc)",0.0,0.0
+"topic_267 (lawrence, st lawrence, laurence)",0.0,0.0
+"topic_264 (carden, carden school, carden academy)",0.0,0.0
+"topic_263 (renaissance, renaissance school, renaissance charter)",0.0,0.0
+"topic_262 (corlears, op, trafton)",0.0,0.0
+"topic_258 (hillside, hilltop, hillside school)",0.0,0.0
+"topic_257 (ssa, sses, sssq)",0.0,0.0
+"topic_254 (laurel, laurel hill, laurelhurst)",0.0,0.0
+"topic_250 (recess, recess time, lunch)",0.0,0.0
+"topic_231 (fairview, fairmount, fairview elementary)",0.0,0.0
+"topic_151 (calvary, calvary christian, christian school)",0.0,0.0
+"topic_232 (kcc, kca, kcs)",0.0,0.0
+"topic_112 (pca, pcs, pc)",0.0,0.0
+"topic_97 (summit, everest, summit school)",0.0,0.0
+"topic_102 (aca, acs, acca)",0.0,0.0
+"topic_106 (ecs, eca, ecds)",0.0,0.0
+"topic_107 (scs, sca, scds)",0.0,0.0
+"topic_108 (bca, bcs, bcd)",0.0,0.0
+"topic_110 (ocs, oca, oes)",0.0,0.0
+"topic_113 (cms, cmp, cmit)",0.0,0.0
+"topic_230 (crestview, crestwood, crest)",0.0,0.0
+"topic_115 (hca, hcs, hccs)",0.0,0.0
+"topic_125 (st peter, peter, peter school)",0.0,0.0
+"topic_126 (tcs, tca, tce)",0.0,0.0
+"topic_128 (cornerstone, cornerstone christian, school cornerstone)",0.0,0.0
+"topic_130 (lms, lfcs, lmes)",0.0,0.0
+"topic_131 (ncs, nca, nc)",0.0,0.0
+"topic_96 (mcs, mchs, mcds)",0.0,0.0
+"topic_91 (islamic, islamic school, arabic)",0.0,0.0
+"topic_86 (lca, lcs, lccs)",0.0,0.0
+"topic_85 (wca, wcs, wellington)",0.0,0.0
+"topic_81 (hait, hait hait, becuase)",0.0,0.0
+"topic_77 (lutheran, lutheran school, christ lutheran)",0.0,0.0
+"topic_75 (sjs, sja, sjb)",0.0,0.0
+"topic_71 (jewish, hebrew, secular)",0.0,0.0
+"topic_68 (trinity, trinity christian, trinity school)",0.0,0.0
+"topic_66 (whittier, wms, wns)",0.0,0.0
+"topic_64 (joseph, st joseph, st joe)",0.0,0.0
+"topic_54 (paul, st paul, st)",0.0,0.0
+"topic_49 (olph, ola, olv)",0.0,0.0
+"topic_47 (waldorf, waldorf school, waldorf education)",0.0,0.0
+"topic_22 (cca, ccs, cccs)",0.0,0.0
+"topic_13 (daughter, son, reading)",0.0,0.0
+"topic_3 (montessori, montessori school, montessori method)",0.0,0.0
+"topic_132 (jhs, jgs, jms)",0.0,0.0
+"topic_137 (francis, st francis, st)",0.0,0.0
+"topic_138 (sma, smca, smcs)",0.0,0.0
+"topic_200 (ces, williamsburg, celc)",0.0,0.0
+"topic_228 (mckinley, atlas, mckinley school)",0.0,0.0
+"topic_229 (cha, chapin, chaparral)",0.0,0.0
+"topic_226 (carver, speyer, voyager)",0.0,0.0
+"topic_223 (discovery, seed, discovery academy)",0.0,0.0
+"topic_222 (cls, cla, clariden)",0.0,0.0
+"topic_220 (aacs, aae, aaec)",0.0,0.0
+"topic_219 (westminster, pardes, westminster school)",0.0,0.0
+"topic_218 (fsa, fsk, foa)",0.0,0.0
+"topic_213 (pv, pves, pve)",0.0,0.0
+"topic_212 (shepherd, good shepherd, shepherd school)",0.0,0.0
+"topic_211 (cedar, cedarwood, cedar ridge)",0.0,0.0
+"topic_207 (woodland, woodlands, woodland great)",0.0,0.0
+"topic_205 (tk, tes, tps)",0.0,0.0
+"topic_201 (anne, st anne, anne school)",0.0,0.0
+"topic_192 (gca, gca years, zca)",0.0,0.0
+"topic_143 (avondale, riverdale, hillsdale)",0.0,0.0
+"topic_191 (pius, st pius, pius school)",0.0,0.0
+"topic_184 (rcs, rcds, rcsa)",0.0,0.0
+"topic_182 (evergreen, love evergreen, evergreen school)",0.0,0.0
+"topic_178 (glenwood, glen, glenview)",0.0,0.0
+"topic_174 (providence, providence academy, school providence)",0.0,0.0
+"topic_173 (saints, saints academy, saints catholic)",0.0,0.0
+"topic_171 (meadow, meadowbrook, meadowlark)",0.0,0.0
+"topic_170 (kipp, kiker, school kipp)",0.0,0.0
+"topic_164 (msa, mspcs, mse)",0.0,0.0
+"topic_155 (mca, mcauliffe, mcas)",0.0,0.0
+"topic_156 (patrick, st patrick, patrick school)",0.0,0.0
+"topic_154 (ics, ic, ica)",0.0,0.0
+"topic_147 (mvca, rmca, mvcs)",0.0,0.0
+"topic_146 (37, love 37, staten island)",0.0,0.0
+"topic_299 (st theresa, theresa, teresa)",0.0,0.0

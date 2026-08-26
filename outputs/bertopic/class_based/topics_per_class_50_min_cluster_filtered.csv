@@ -1,0 +1,173 @@
+Topic,Words,Frequency,Class
+-1,"school, students, teachers, high, great",20102,low_fb
+0,"great, great school, love, school, school great",928,low_fb
+1,"bullying, bullied, school, child, students",832,low_fb
+2,"staff, teachers, students, great, caring",566,low_fb
+3,"sports, coach, football, coaches, play",498,low_fb
+4,"ap, classes, ap classes, honors, courses",329,low_fb
+5,"loved, graduated, experience, great, went",421,low_fb
+6,"band, arts, music, program, art",384,low_fb
+7,"special, iep, special needs, needs, child",302,low_fb
+8,"ib, ib program, program, school, students",162,low_fb
+9,"white, racism, diversity, racist, black",291,low_fb
+10,"son, daughter, school, happy, year",330,low_fb
+11,"principal, administration, leadership, teachers, poor",303,low_fb
+12,"drugs, drug, problem, school, drug problem",178,low_fb
+13,"10, 10 10, rate, school 10, rate experience",210,low_fb
+14,"sports, great, great school, school great, school",198,low_fb
+15,"christian, christian school, faith, school, christ",438,low_fb
+16,"dress, code, dress code, wear, school",174,low_fb
+17,"catholic, catholic school, catholic high, school, faith",290,low_fb
+18,"high, high school, school, best high, best",120,low_fb
+19,"worst, worst school, terrible, school, school worst",110,low_fb
+20,"north, north point, northside, students, school",94,low_fb
+21,"west, western, westview, west campus, school",91,low_fb
+22,"st, st francis, francis, saint, st john",208,low_fb
+23,"south, south high, school, high, school south",98,low_fb
+24,"counselors, counselor, counseling, help, students",81,low_fb
+25,"child, told, daughter, teacher, school",89,low_fb
+26,"clark, high, high school, belleville, school",81,low_fb
+27,"district, school district, great, staff, community",82,low_fb
+28,"bhs, bchs, bhhs, bourgade, sbhs",63,low_fb
+29,"ghs, gchs, grandview, gmhs, teachers",54,low_fb
+30,"prep, college prep, college, stem, engineering",116,low_fb
+31,"stars, star, star school, zero stars, school stars",81,low_fb
+32,"spanish, language, spanish teacher, teacher, class",78,low_fb
+33,"reviews, review, school, bad reviews, negative",77,low_fb
+34,"son, college, child, school, daughter",59,low_fb
+35,"rating, 10, rated, greatschools, org",52,low_fb
+36,"bathrooms, bathroom, food, roaches, disgusting",58,low_fb
+37,"creek, creek high, boulder creek, boulder, deer creek",72,low_fb
+38,"magnet, magnet program, magnet school, program, students",49,low_fb
+39,"hhs, whs, students, wwhs, college",49,low_fb
+40,"mhs, mrhs, students, school, mhs great",30,low_fb
+41,"school, just, don, like, feel",55,low_fb
+42,"horrible horrible, horrible, terrible, worst, worst worst",50,low_fb
+43,"miami, florida, coral, senior high, dade",44,low_fb
+44,"lhs, rhs, lhs great, ls3, great",28,low_fb
+45,"district, taxes, school district, pay, board",47,low_fb
+46,"san, diego, san diego, california, marin",32,low_fb
+47,"send, child, send child, school, child school",63,low_fb
+48,"math, test, scores, test scores, tests",40,low_fb
+49,"holy, trinity, holy trinity, holy family, family",105,low_fb
+50,"send, don send, send kids, send children, horrible",61,low_fb
+51,"chs, chs great, chs does, clawson, students",33,low_fb
+52,"charter, charter school, charter schools, charter high, raleigh charter",79,low_fb
+53,"east, egr, east high, east duplin, duplin",32,low_fb
+54,"cchs, cca, hcs, cahs, school",62,low_fb
+55,"york, new york, staten, nyc, staten island",42,low_fb
+56,"vista, lago, del lago, vista del, del",58,low_fb
+57,"horrible, terrible, terrible teachers, bad, horrible teachers",39,low_fb
+58,"texas, houston, austin, best, san antonio",26,low_fb
+59,"fossil, fossil ridge, klein, ridge, chapel hill",19,low_fb
+60,"central, central high, roman, centreville, student central",42,low_fb
+61,"perry, centennial, hill murray, murray, hill",44,low_fb
+62,"valley, valley high, valley great, valley view, school",35,low_fb
+63,"jesuit, ignatius, loyola, jesuit high, men",74,low_fb
+64,"covid, masks, pandemic, mask, covid 19",34,low_fb
+65,"bay, bay view, bay high, beach, view",33,low_fb
+66,"phs, phs school, piedmont, prosper, school phs",17,low_fb
+67,"madison, madison high, school madison, students, school",41,low_fb
+68,"bishop, luers, dunne, chatard, bishop luers",71,low_fb
+69,"tc, tca, alexandria, tc great, tca way",10,low_fb
+70,"small, small town, small school, town, school small",56,low_fb
+71,"lincoln, lincoln high, high, lhs, school lincoln",25,low_fb
+72,"teachers, care, don, teachers don, students",36,low_fb
+73,"ahs, school ahs, ahs great, tht, great",20,low_fb
+74,"lake, lakeview, lakes, students, school",35,low_fb
+75,"experience, great experience, wonderful experience, great, good experience",33,low_fb
+76,"la, escuela, que, en, los",30,low_fb
+77,"franklin, towne, franklin towne, franklin high, school franklin",17,low_fb
+78,"rude, staff, office, unprofessional, lady",23,low_fb
+79,"shs, speedway, graduated shs, children, shroder",16,low_fb
+80,"fcs, christian, fayetteville, children, love",61,low_fb
+81,"rotc, jrotc, program, rotc program, jrotc program",34,low_fb
+82,"nhs, student nhs, northumberland, nanuet, referendum",17,low_fb
+83,"cliques, friends, clique, cliquey, people",27,low_fb
+84,"hamilton, tech center, tech, east hamilton, center",33,low_fb
+-1,"school, students, teachers, high, high school",25017,high_fb
+0,"great, great school, school great, love, school",1090,high_fb
+1,"bullying, bullied, school, child, students",962,high_fb
+2,"staff, teachers, great, students, excellent",747,high_fb
+3,"sports, coach, football, team, coaches",682,high_fb
+4,"ap, classes, ap classes, courses, honors",628,high_fb
+5,"graduated, loved, experience, great, college",522,high_fb
+6,"band, music, arts, program, great",521,high_fb
+7,"special, iep, special needs, child, needs",498,high_fb
+8,"ib, ib program, program, students, school",627,high_fb
+9,"white, racism, racist, black, diversity",386,high_fb
+10,"son, daughter, great, happy, school",347,high_fb
+11,"principal, administration, leadership, teachers, poor",370,high_fb
+12,"drugs, drug, problem, school, drug problem",362,high_fb
+13,"10, 10 10, rate, school 10, rate school",308,high_fb
+14,"sports, great, great school, team, school",292,high_fb
+15,"christian, religion, school, christian school, students",48,high_fb
+16,"dress, dress code, code, wear, wearing",202,high_fb
+17,"catholic, catholic school, powers, school, catholic high",53,high_fb
+18,"high, high school, school, best high, best",210,high_fb
+19,"worst, worst school, school worst, school, terrible",170,high_fb
+20,"north, northwood, northview, north high, north springs",172,high_fb
+21,"west, western, west high, westside, high",167,high_fb
+22,"st, st john, john, st francis, francis",34,high_fb
+23,"south, south lake, south cobb, high, students",137,high_fb
+24,"counselors, counselor, counseling, students, help",134,high_fb
+25,"child, told, daughter, teacher, son",125,high_fb
+26,"clark, high, high school, coatesville, roseville",119,high_fb
+27,"district, school district, great, great district, community",117,high_fb
+28,"bhs, bchs, bhs great, students, sbhs",133,high_fb
+29,"ghs, gchs, graduated, students, teachers",140,high_fb
+30,"stem, prep, engineering, college, stem program",75,high_fb
+31,"star, stars, star school, school stars, zero",107,high_fb
+32,"spanish, teacher, language, spanish river, spanish teacher",98,high_fb
+33,"reviews, review, school, negative, written",96,high_fb
+34,"son, college, child, school, daughter",103,high_fb
+35,"rating, 10, ratings, rated, greatschools",106,high_fb
+36,"bathrooms, bathroom, disgusting, food, roaches",98,high_fb
+37,"creek, creek high, sandy, sandy creek, lakewood",66,high_fb
+38,"magnet, magnet program, program, magnet school, middleton",88,high_fb
+39,"hhs, whs, students, school, great",85,high_fb
+40,"mhs, mrhs, mhs great, great, students",101,high_fb
+41,"school, don, just, like, teachers",74,high_fb
+42,"bad bad, terrible, bad, worst, horrible",78,high_fb
+43,"coral, miami, coral park, park, florida",83,high_fb
+44,"lhs, rhs, lhs great, college, students",99,high_fb
+45,"district, school district, taxes, superintendent, board",78,high_fb
+46,"san, california, high, best, high school",93,high_fb
+47,"send, child, send child, child school, school",57,high_fb
+48,"scores, math, test, test scores, students",79,high_fb
+49,"trinity, holy, holy trinity, holy family, trinity high",13,high_fb
+50,"send, horrible, send kids, don send, children",56,high_fb
+51,"chs, chs great, graduated chs, experience chs, students",84,high_fb
+52,"charter, charter school, charter schools, children, school",27,high_fb
+53,"east, eastside, eastern, east high, school",74,high_fb
+54,"cchs, graduated cchs, cca, ccsd, teachers",42,high_fb
+55,"york, new york, nyc, best, ny",61,high_fb
+56,"vista, vegas, palo, las vegas, las",41,high_fb
+57,"horrible, terrible, hi hi, bad, hi",60,high_fb
+58,"texas, houston, austin, school texas, paso",73,high_fb
+59,"klein, chapel hill, chapel, hill, klein oak",78,high_fb
+60,"central, centerville, central high, washington township, north central",53,high_fb
+61,"centennial, perry, centennial high, murray, hill murray",51,high_fb
+62,"valley, valley high, valley great, school, high",54,high_fb
+63,"jesuit, loyola, son, men, loyola high",13,high_fb
+64,"covid, mask, masks, pandemic, covid 19",53,high_fb
+65,"bay, bay high, seaside, seaside high, high",54,high_fb
+66,"phs, ph, experience phs, students, student",68,high_fb
+67,"madison, madison high, madison schools, high, high school",43,high_fb
+68,"bishop, bishop kelley, kelley, brainerd, mcdevitt",12,high_fb
+69,"tc, alexandria, williams, university, tc williams",73,high_fb
+70,"small, small town, town, small school, community",26,high_fb
+71,"lincoln, lincoln high, lhs, high, lincoln park",54,high_fb
+72,"care, teachers, students, don, care students",40,high_fb
+73,"ahs, schools, teachers, ashland, prepared",56,high_fb
+74,"lake, lakes, lakeview, lake view, school",41,high_fb
+75,"experience, great experience, experience good, great, experiences",42,high_fb
+76,"que, la, en, escuela, los",37,high_fb
+77,"franklin, elsie, elsie allen, franklin high, allen",50,high_fb
+78,"rude, office, staff, office staff, staff rude",42,high_fb
+79,"shs, shs great, love shs, school shs, shs good",48,high_fb
+80,"fc, fcs, fc really, bully respect, respect people",3,high_fb
+81,"jrotc, rotc, jrotc program, rotc program, program",28,high_fb
+82,"nhs, norwalk, school, student nhs, graduated nhs",40,high_fb
+83,"cliques, clique, friends, nice, like",28,high_fb
+84,"hamilton, nottingham, hamilton high, craigmont, tech center",19,high_fb

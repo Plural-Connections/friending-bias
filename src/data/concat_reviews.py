@@ -1,7 +1,7 @@
 """Concatenate all reviews from the same school in chronological order.
 
 The input CSV is already sorted chronologically by "posted" (see
-sort_by_day_review.py). A stable group-by on "universal-id" therefore
+sort_by_day_reviews.py). A stable group-by on "universal-id" therefore
 preserves that chronological order within each school, so joining the
 "comments" of each group yields one concatenated review per school,
 oldest first.

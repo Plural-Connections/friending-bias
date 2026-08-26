@@ -1,0 +1,469 @@
+.
+├─school_teachers_children_students_child
+│    ├─school_teachers_children_students_child
+│    │    ├─school_teachers_children_students_child
+│    │    │    ├─school_teachers_children_students_child
+│    │    │    │    ├─st_mary_st mary_paul_st paul
+│    │    │    │    │    ├─sacred_sacred heart_heart_notre dame_dame
+│    │    │    │    │    │    ├─■──notre dame_dame_notre_nda_dame academy ── Topic: 197
+│    │    │    │    │    │    └─■──sacred_sacred heart_heart_heart school_school sacred ── Topic: 131
+│    │    │    │    │    └─st_mary_st mary_paul_st paul
+│    │    │    │    │         ├─francis_st francis_xavier_st_francis xavier
+│    │    │    │    │         │    ├─■──xavier_francis xavier_francis_st francis_sfx ── Topic: 214
+│    │    │    │    │         │    └─■──francis_st francis_st_francis assisi_assisi ── Topic: 149
+│    │    │    │    │         └─st_mary_st mary_paul_st paul
+│    │    │    │    │              ├─st_mary_st mary_paul_st paul
+│    │    │    │    │              │    ├─■──anne_st anne_st_anne school_saint anne ── Topic: 195
+│    │    │    │    │              │    └─st_mary_st mary_paul_st paul
+│    │    │    │    │              │         ├─st_mary_st mary_paul_st paul
+│    │    │    │    │              │         │    ├─st_mary_st mary_paul_st paul
+│    │    │    │    │              │         │    │    ├─■──peter_st peter_st_peter school_catholic ── Topic: 140
+│    │    │    │    │              │         │    │    └─st_mary_st mary_paul_st paul
+│    │    │    │    │              │         │    │         ├─st_mary_st mary_joseph_st john
+│    │    │    │    │              │         │    │         │    ├─st_mary_st mary_joseph_st joseph
+│    │    │    │    │              │         │    │         │    │    ├─■──mary_st mary_st_mary school_saint mary ── Topic: 41
+│    │    │    │    │              │         │    │         │    │    └─st_joseph_st joseph_st mark_mark
+│    │    │    │    │              │         │    │         │    │         ├─■──st_st mark_mark_james_st james ── Topic: 53
+│    │    │    │    │              │         │    │         │    │         └─■──joseph_st joseph_st_st joe_joe ── Topic: 69
+│    │    │    │    │              │         │    │         │    └─■──st john_john_st_johns_st johns ── Topic: 77
+│    │    │    │    │              │         │    │         └─■──paul_st paul_st_paul school_saint paul ── Topic: 60
+│    │    │    │    │              │         │    └─■──patrick_st patrick_patrick school_st_saint patrick ── Topic: 152
+│    │    │    │    │              │         └─■──st thomas_thomas_st_thomas school_thomas aquinas ── Topic: 162
+│    │    │    │    │              └─■──pius_st pius_st_pius school_saint pius ── Topic: 187
+│    │    │    │    └─school_teachers_children_students_child
+│    │    │    │         ├─blue_ribbon_blue ribbon_honor roll_honor
+│    │    │    │         │    ├─■──blue_ribbon_blue ribbon_ribbon school_national blue ── Topic: 167
+│    │    │    │         │    └─■──honor roll_roll_honor_roll year_cbee ── Topic: 219
+│    │    │    │         └─school_teachers_children_students_child
+│    │    │    │              ├─school_teachers_children_students_child
+│    │    │    │              │    ├─grace_lutheran_cornerstone_calvary_christian
+│    │    │    │              │    │    ├─carden_walden_gateway_carder_walden school
+│    │    │    │              │    │    │    ├─walden_gateway_walden school_berwick_walden green
+│    │    │    │              │    │    │    │    ├─■──gateway_gateway school_school gateway_gateway christian_attended gateway ── Topic: 226
+│    │    │    │              │    │    │    │    └─■──walden_walden school_berwick_walden green_green ── Topic: 194
+│    │    │    │              │    │    │    └─■──carden_carder_jamestown_carden school_carden academy ── Topic: 171
+│    │    │    │              │    │    └─grace_lutheran_cornerstone_calvary_lutheran school
+│    │    │    │              │    │         ├─grace_lutheran_cornerstone_calvary_lutheran school
+│    │    │    │              │    │         │    ├─providence_covenant_westminster_pardes_christian
+│    │    │    │              │    │         │    │    ├─■──westminster_pardes_westminster school_westminster academy_jewish ── Topic: 229
+│    │    │    │              │    │         │    │    └─providence_covenant_classical_christian_new covenant
+│    │    │    │              │    │         │    │         ├─■──covenant_new covenant_covenant christian_covenant school_classical ── Topic: 223
+│    │    │    │              │    │         │    │         └─■──providence_providence academy_classical_school providence_providence christian ── Topic: 177
+│    │    │    │              │    │         │    └─grace_lutheran_cornerstone_calvary_lutheran school
+│    │    │    │              │    │         │         ├─■──gca_gca years_zca_love gca_attended gca ── Topic: 188
+│    │    │    │              │    │         │         └─grace_lutheran_cornerstone_calvary_lutheran school
+│    │    │    │              │    │         │              ├─grace_lutheran_calvary_lutheran school_christian
+│    │    │    │              │    │         │              │    ├─■──calvary_calvary christian_christian_christian school_mt calvary ── Topic: 157
+│    │    │    │              │    │         │              │    └─grace_lutheran_lutheran school_christian_grace christian
+│    │    │    │              │    │         │              │         ├─■──lutheran_lutheran school_christ lutheran_christ_grace lutheran ── Topic: 56
+│    │    │    │              │    │         │              │         └─■──grace_grace christian_christian_grace school_christian school ── Topic: 90
+│    │    │    │              │    │         │              └─■──cornerstone_cornerstone christian_christian_school cornerstone_cornerstone academy ── Topic: 139
+│    │    │    │              │    │         └─■──shepherd_good shepherd_shepherd school_good_shepherd valley ── Topic: 203
+│    │    │    │              │    └─school_teachers_children_students_child
+│    │    │    │              │         ├─school_teachers_children_students_child
+│    │    │    │              │         │    ├─school_teachers_children_students_child
+│    │    │    │              │         │    │    ├─■──edison_la reina_reina_la_edison elementary ── Topic: 189
+│    │    │    │              │         │    │    └─school_teachers_children_child_students
+│    │    │    │              │         │    │         ├─school_teachers_children_child_students
+│    │    │    │              │         │    │         │    ├─■──roosevelt_zeta_roosevelt school_roosevelt great_school roosevelt ── Topic: 169
+│    │    │    │              │         │    │         │    └─school_teachers_children_child_students
+│    │    │    │              │         │    │         │         ├─school_teachers_children_great_love
+│    │    │    │              │         │    │         │         │    ├─school_teachers_children_great_love
+│    │    │    │              │         │    │         │         │    │    ├─central_miami_dade_school miami_miami dade
+│    │    │    │              │         │    │         │         │    │    │    ├─■──central_central elementary_central school_love central_central high ── Topic: 190
+│    │    │    │              │         │    │         │         │    │    │    └─■──miami_dade_school miami_miami dade_dade county ── Topic: 186
+│    │    │    │              │         │    │         │         │    │    └─school_teachers_children_great_love
+│    │    │    │              │         │    │         │         │    │         ├─■──lakeside_cypress_lakeside academy_school lakeside_lakeside christian ── Topic: 176
+│    │    │    │              │         │    │         │         │    │         └─school_teachers_children_great_love
+│    │    │    │              │         │    │         │         │    │              ├─school_teachers_children_great_love
+│    │    │    │              │         │    │         │         │    │              │    ├─summit_mckinley_everest_lebanon_atlas
+│    │    │    │              │         │    │         │         │    │              │    │    ├─■──summit_everest_summit school_tindley_summit academy ── Topic: 106
+│    │    │    │              │         │    │         │         │    │              │    │    └─■──mckinley_lebanon_atlas_new lebanon_mckinley school ── Topic: 172
+│    │    │    │              │         │    │         │         │    │              │    └─school_teachers_children_great_love
+│    │    │    │              │         │    │         │         │    │              │         ├─school_teachers_great_children_love
+│    │    │    │              │         │    │         │         │    │              │         │    ├─■──mms_mas_mmr_mmes_maspeth ── Topic: 232
+│    │    │    │              │         │    │         │         │    │              │         │    └─school_teachers_great_children_love
+│    │    │    │              │         │    │         │         │    │              │         │         ├─school_teachers_great_children_montessori
+│    │    │    │              │         │    │         │         │    │              │         │         │    ├─special_iep_special needs_needs_adhd
+│    │    │    │              │         │    │         │         │    │              │         │         │    │    ├─■──ese_esl_ese program_escs_essrig ── Topic: 191
+│    │    │    │              │         │    │         │         │    │              │         │         │    │    └─special_iep_special needs_needs_adhd
+│    │    │    │              │         │    │         │         │    │              │         │         │    │         ├─dyslexia_reading_read_dyslexic_grade
+│    │    │    │              │         │    │         │         │    │              │         │         │    │         │    ├─■──reading_read_grade_level_grade level ── Topic: 115
+│    │    │    │              │         │    │         │         │    │              │         │         │    │         │    └─■──dyslexia_dyslexic_reading_diagnosed_diagnosed dyslexia ── Topic: 155
+│    │    │    │              │         │    │         │         │    │              │         │         │    │         └─special_iep_special needs_needs_adhd
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              ├─special_iep_special needs_needs_adhd
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │    ├─■──cms_camden_cma_cmp_camden military ── Topic: 94
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │    └─special_iep_special needs_needs_adhd
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │         ├─■──adhd_son adhd_son_diagnosed_child adhd ── Topic: 47
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │         └─special_iep_special needs_needs_special education
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │              ├─special_iep_special needs_needs_special education
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │              │    ├─■──iep_child iep_special_needs_ieps ── Topic: 24
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │              │    └─■──special_special needs_needs_special education_special ed ── Topic: 12
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              │              └─■──autism_autistic_son_spectrum_autism spectrum ── Topic: 71
+│    │    │    │              │         │    │         │         │    │              │         │         │    │              └─■──beacon_bridges_bridge_bridgeway_bridges academy ── Topic: 147
+│    │    │    │              │         │    │         │         │    │              │         │         │    └─school_great_teachers_montessori_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         ├─school_montessori_great_teachers_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │    ├─■──brookfield_brook_brook hill_brookwood_hill ── Topic: 160
+│    │    │    │              │         │    │         │         │    │              │         │         │         │    └─school_montessori_great_teachers_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         ├─school_montessori_great_teachers_christian
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │    ├─■──mpa_mps_mpe_bpa_mp ── Topic: 207
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │    └─montessori_school_great_teachers_christian
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         ├─montessori_school_christian_great_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    ├─montessori_school_christian_great_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │    ├─■──cls_cla_clariden_clc_clovis ── Topic: 201
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │    └─montessori_school_christian_great_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         ├─montessori_school_christian_great_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │    ├─■──aca_acs_acca_almaden_acds ── Topic: 119
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │    └─montessori_school_christian_great_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         ├─montessori_christian_school_great_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │    ├─■──bca_bcs_bcd_bc_christian ── Topic: 114
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │    └─montessori_christian_school_great_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         ├─montessori_charter_charter school_montessori school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │    ├─■──graland_bethesda_tigers_bethune_tiger ── Topic: 153
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │    └─montessori_charter_charter school_montessori school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │         ├─oak_oaks_hill_hillside_oakwood
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │         │    ├─■──river_riverview_rivers_riverbend_riverhill ── Topic: 104
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │         │    └─oak_oaks_hill_hillside_oakwood
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │         │         ├─■──hillside_hill_hills_hilltop_hillel ── Topic: 62
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │         │         └─■──oak_oaks_oakwood_oak grove_oak hill ── Topic: 34
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │         └─montessori_charter_charter school_montessori school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              ├─montessori_charter_charter school_montessori school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    ├─montessori_charter_charter school_montessori school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │    ├─■──austin_texas_houston_san antonio_antonio ── Topic: 76
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │    └─montessori_charter_montessori school_charter school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         ├─montessori_charter_montessori school_charter school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │    ├─■──florida_tampa_fl_jacksonville_state florida ── Topic: 86
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │    └─montessori_charter_montessori school_charter school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         ├─montessori_charter_montessori school_charter school_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │    ├─charter_charter school_charter schools_schools_school
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │    │    ├─■──phoenix_arizona_tucson_scottsdale_az ── Topic: 85
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │    │    └─■──charter_charter school_charter schools_schools_school ── Topic: 14
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │    └─montessori_montessori school_learning_children_covid
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         ├─montessori_montessori school_learning_children_covid
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │    ├─■──covid_pandemic_virtual_online_covid 19 ── Topic: 23
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │    └─montessori_montessori school_children_learning_child
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         ├─whittier_gcs_ghs_tma_students
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         │    ├─■──tma_tk_tmsa_tms_tls ── Topic: 70
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         │    └─whittier_gcs_ghs_gms_students
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         │         ├─whittier_gcs_ghs_gms_gva
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         │         │    ├─■──whittier_wms_wns_whs_wps ── Topic: 63
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         │         │    └─■──gcs_ghs_gms_gva_gsa ── Topic: 48
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         │         └─■──jcs_jca_jhs_jds_jms ── Topic: 87
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         │         └─■──montessori_montessori school_children_learning_method ── Topic: 3
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         │         └─■──academy_dms_academy great_learning_love ── Topic: 80
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         │         └─■──georgia_atlanta_ga_gac_savannah ── Topic: 127
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │         └─west_westside_lewis_western_clark
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │              ├─■──west_westside_western_westview_west wing ── Topic: 37
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    │              └─■──lewis_clark_lewis school_clarksville_elementary ── Topic: 99
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │    └─lake_lakeview_lakewood_lakes_lakeshore
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │         ├─■──avondale_riverdale_hillsdale_springdale_hilldale ── Topic: 156
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              │         └─■──lake_lakeview_lakewood_lakes_lakeshore ── Topic: 51
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         │              └─■──north_northside_northridge_northfield_northview ── Topic: 93
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │         └─christian_great_school_love_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              ├─christian_great_school_love_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │    ├─small_sizes_class sizes_small class_ecs
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │    │    ├─■──ecs_eca_ecds_ec_ecc ── Topic: 110
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │    │    └─small_sizes_class sizes_small class_class
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │    │         ├─■──private_private school_public_public school_private schools ── Topic: 98
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │    │         └─■──small_sizes_class sizes_small class_class ── Topic: 22
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │    └─christian_great_school_love_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         ├─christian_great_school_love_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    ├─christian_great_school_teachers_love
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │    ├─■──sma_smca_smcs_smt_smhs ── Topic: 148
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │    └─christian_great_school_teachers_love
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         ├─christian_great_school_teachers_love
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    ├─christian_catholic_christian school_god_faith
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    │    ├─■──sjs_sja_sjb_sjcs_sje ── Topic: 92
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    │    └─christian_catholic_christian school_god_faith
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    │         ├─christian_catholic_christian school_god_faith
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    │         │    ├─■──christian_christian school_god_christ_faith ── Topic: 1
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    │         │    └─■──catholic_catholic school_catholic schools_catholic education_faith ── Topic: 10
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    │         └─■──olph_olv_ola_olg_olmc ── Topic: 45
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │    └─great_middle_middle school_teachers_love
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │         ├─■──ocs_oca_oes_osl_osls ── Topic: 95
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │         └─great_middle_middle school_teachers_love
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              ├─great_middle_middle school_teachers_love
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │    ├─scs_sca_scds_love_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │    │    ├─■──scs_sca_scds_scvi_sccs ── Topic: 74
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │    │    └─■──hfs_hhs_hta_hla_hynes ── Topic: 122
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │    └─great_middle_middle school_teachers_love
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         ├─middle_middle school_music_band_school
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │    ├─san_la_ca_california_diego
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │    │    ├─■──la_el_los_angeles_los angeles ── Topic: 72
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │    │    └─■──san_ca_california_diego_san diego ── Topic: 57
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │    └─middle_middle school_band_music_school
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │         ├─music_band_arts_program_music program
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │         │    ├─■──band_music_arts_music program_program ── Topic: 16
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │         │    └─bay_ocean_nyc_bronx_york
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │         │         ├─■──bay_ocean_palm_bayshore_shore ── Topic: 31
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │         │         └─■──nyc_bronx_york_brooklyn_hudson ── Topic: 54
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         │         └─■──middle_middle school_school_best middle_teachers ── Topic: 7
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │         └─great_great school_love_teachers_staff
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              ├─great_great school_love_teachers_staff
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    ├─love_love school_kindergarten_daughter_grade
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    │    ├─kindergarten_daughter_grade_son_year
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    │    │    ├─■──kindergarten_preschool_grade_daughter_year ── Topic: 15
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    │    │    └─■──daughter_son_year_learning_grade ── Topic: 19
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    │    └─love school_love_best school_best_great
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    │         ├─■──went_attended_12_great_k4 ── Topic: 36
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    │         └─■──love school_love_best school_best_great ── Topic: 4
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │    └─great_great school_staff_excellent_teachers
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │         ├─■──great school_great_school great_excellent school_excellent ── Topic: 6
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              │         └─■──staff_teachers_caring_great_students ── Topic: 2
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              │              └─■──mcs_mchs_mcds_mcmeen_mch ── Topic: 107
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         │              └─■──lms_lfcs_lmes_lmp_lmma ── Topic: 124
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    │         └─■──bhs_bms_bls_bma_bhhs ── Topic: 97
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         │    └─■──cca_ccs_cccs_christian_cchs ── Topic: 29
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              │         └─■──wca_wcs_wellington_wccs_wcds ── Topic: 91
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         │              └─■──mvca_rmca_mvcs_scca_mvhs ── Topic: 173
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │         └─pre_jewish_hebrew_pre program_program
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │              ├─pre_pre program_prek_msa_program
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │              │    ├─■──vms_fvms_vv_nva_vbfs ── Topic: 206
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │              │    └─pre_pre program_prek_msa_program
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │              │         ├─■──pre_pre program_prek_program_started pre ── Topic: 44
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │              │         └─■──msa_ms_mspcs_mse_msr ── Topic: 166
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         │              └─■──jewish_hebrew_secular_jewish day_schechter ── Topic: 82
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │         └─ap_prep_college_classes_ap classes
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              ├─ap_prep_college_classes_ap classes
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              │    ├─■──tcs_tca_tce_tcps_tchs ── Topic: 137
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              │    └─ap_prep_college_classes_ap classes
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              │         ├─ap_ap classes_classes_college_courses
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              │         │    ├─■──ap_ap classes_classes_courses_college ── Topic: 39
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              │         │    └─■──high school_college_high_classes_friends ── Topic: 120
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              │         └─■──prep_preparatory_college_college prep_prep school ── Topic: 66
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    │              └─■──homeschooling_homeschool_homeschooled_home_homeschool program ── Topic: 231
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │    └─fairview_fairmont_ross_dc_dca
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │         ├─■──dc_dca_dcs_dc prep_dcis ── Topic: 182
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         │         └─■──fairview_ross_fairmont_rossman_fairmount ── Topic: 129
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │         └─creek_military_scores_test_test scores
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              ├─creek_military_scores_test_test scores
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │    ├─■──creek_creek elementary_creekside_creek great_spring creek ── Topic: 35
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │    └─military_scores_test_test scores_rating
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         ├─park_green_woodland_forest_meadows
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         │    ├─park_woodland_forest_parkview_parkside
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         │    │    ├─■──woodland_forest_woods_woodlands_forest hills ── Topic: 81
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         │    │    └─■──park_parkview_parkside_park day_park school ── Topic: 78
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         │    └─green_meadows_meadow_greene_meadowbrook
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         │         ├─■──green_greene_greenbrier_green acres_acres ── Topic: 88
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         │         └─■──meadows_meadow_meadowbrook_high meadows_meadowlark ── Topic: 116
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │         └─military_scores_test_test scores_rating
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              ├─military_scores_test_test scores_rating
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │    ├─■──ncs_nca_nccs_nc_nccl ── Topic: 146
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │    └─military_scores_test_test scores_rating
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │         ├─scores_test_test scores_rating_score
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │         │    ├─■──scores_test_test scores_score_state ── Topic: 28
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │         │    └─■──rating_ratings_10_rated_low ── Topic: 40
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │         └─military_military family_hawaii_military families_school military
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │              ├─■──military_military family_military families_school military_family ── Topic: 42
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              │              └─■──hawaii_hawaiian_hanalani_mainland_aikahi ── Topic: 163
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              │              └─■──ridge_ridgeview_ridgeway_ridgeline_fossil ── Topic: 101
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         │              └─■──jefferson_jefferson elementary_thomas jefferson_jefferson school_thomas ── Topic: 96
+│    │    │    │              │         │    │         │         │    │              │         │         │         │         └─vista_valley_ps_mrs_pinecrest
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              ├─vista_valley_ps_mrs_pinecrest
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    ├─vista_valley_pine_valley view_view
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    │    ├─■──vista_alta_verde_monte_alta vista ── Topic: 59
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    │    └─valley_pine_valley view_view_pinewood
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    │         ├─■──valley_valley view_view_valley school_valley academy ── Topic: 61
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    │         └─pine_pinewood_pv_pine view_pves
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    │              ├─■──pv_pves_pve_pvs_pvhs ── Topic: 204
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    │              └─■──pine_pinewood_pine view_pine school_longwood ── Topic: 132
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │    └─ps_mrs_pinecrest_hillcrest_ms
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         ├─ps_mrs_ms_thank_37
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         │    ├─mrs_thank_ms_teacher_want thank
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         │    │    ├─■──thank_want thank_thankful_like thank_say thank ── Topic: 135
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         │    │    └─■──mrs_ms_teacher_teacher mrs_best ── Topic: 75
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         │    └─ps_37_ps 37_love ps_children
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         │         ├─■──37_love 37_37 great_love_great ── Topic: 170
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         │         └─■──ps_ps 37_37_love ps_school ps ── Topic: 43
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              │         └─■──pinecrest_hillcrest_woodcrest_ridgecrest_skycrest ── Topic: 113
+│    │    │    │              │         │    │         │         │    │              │         │         │         │              └─■──nova_freedom_eisenhower_freedom academy_academy ── Topic: 138
+│    │    │    │              │         │    │         │         │    │              │         │         │         └─spanish_ib_language_immersion_program
+│    │    │    │              │         │    │         │         │    │              │         │         │              ├─spanish_ib_language_immersion_program
+│    │    │    │              │         │    │         │         │    │              │         │         │              │    ├─■──waldorf_waldorf school_waldorf education_education_waldorf schools ── Topic: 49
+│    │    │    │              │         │    │         │         │    │              │         │         │              │    └─spanish_ib_language_immersion_program
+│    │    │    │              │         │    │         │         │    │              │         │         │              │         ├─ib_ib program_program_german_international
+│    │    │    │              │         │    │         │         │    │              │         │         │              │         │    ├─■──ib_ib program_program_international_baccalaureate ── Topic: 25
+│    │    │    │              │         │    │         │         │    │              │         │         │              │         │    └─■──german_goethe_germany_german school_germantown ── Topic: 168
+│    │    │    │              │         │    │         │         │    │              │         │         │              │         └─spanish_immersion_language_english_french
+│    │    │    │              │         │    │         │         │    │              │         │         │              │              ├─■──french_french immersion_immersion_language_lycee ── Topic: 65
+│    │    │    │              │         │    │         │         │    │              │         │         │              │              └─spanish_immersion_language_english_dual
+│    │    │    │              │         │    │         │         │    │              │         │         │              │                   ├─■──spanish_language_immersion_english_dual ── Topic: 8
+│    │    │    │              │         │    │         │         │    │              │         │         │              │                   └─■──mandarin_chinese_immersion_mandarin immersion_immersion program ── Topic: 68
+│    │    │    │              │         │    │         │         │    │              │         │         │              └─■──challenger_quest_stratford_quest academy_challenger school ── Topic: 144
+│    │    │    │              │         │    │         │         │    │              │         │         └─lca_pca_hca_mca_zion
+│    │    │    │              │         │    │         │         │    │              │         │              ├─lca_pca_hca_zion_lcs
+│    │    │    │              │         │    │         │         │    │              │         │              │    ├─■──zion_avalon_vanguard_wesleyan_zion lutheran ── Topic: 128
+│    │    │    │              │         │    │         │         │    │              │         │              │    └─lca_pca_hca_lcs_fcs
+│    │    │    │              │         │    │         │         │    │              │         │              │         ├─lca_pca_hca_lcs_fcs
+│    │    │    │              │         │    │         │         │    │              │         │              │         │    ├─■──fcs_fca_fbcs_fchs_fca years ── Topic: 154
+│    │    │    │              │         │    │         │         │    │              │         │              │         │    └─lca_pca_hca_lcs_hcs
+│    │    │    │              │         │    │         │         │    │              │         │              │         │         ├─lca_hca_lcs_hcs_christian
+│    │    │    │              │         │    │         │         │    │              │         │              │         │         │    ├─■──lca_lcs_lccs_christian_lc ── Topic: 100
+│    │    │    │              │         │    │         │         │    │              │         │              │         │         │    └─■──hca_hcs_hccs_hc_hce ── Topic: 126
+│    │    │    │              │         │    │         │         │    │              │         │              │         │         └─■──pca_pcs_pc_pomona catholic_pcd ── Topic: 121
+│    │    │    │              │         │    │         │         │    │              │         │              │         └─■──rcs_rcds_rcsa_rccs_rchs ── Topic: 185
+│    │    │    │              │         │    │         │         │    │              │         │              └─■──mca_mcauliffe_mcas_mcauley_mcaa ── Topic: 159
+│    │    │    │              │         │    │         │         │    │              │         └─trinity_holy_holy family_ics_holy trinity
+│    │    │    │              │         │    │         │         │    │              │              ├─trinity_holy_holy family_ics_holy trinity
+│    │    │    │              │         │    │         │         │    │              │              │    ├─trinity_holy_holy family_ics_holy trinity
+│    │    │    │              │         │    │         │         │    │              │              │    │    ├─trinity_holy_holy family_holy trinity_family
+│    │    │    │              │         │    │         │         │    │              │              │    │    │    ├─■──trinity_holy trinity_holy_trinity school_trinity christian ── Topic: 55
+│    │    │    │              │         │    │         │         │    │              │              │    │    │    └─■──holy_holy family_holy spirit_angels_family ── Topic: 83
+│    │    │    │              │         │    │         │         │    │              │              │    │    └─■──ics_ic_ica_bayer_attended ics ── Topic: 158
+│    │    │    │              │         │    │         │         │    │              │              │    └─■──cha_chapin_chaparral_chaminade_chapin school ── Topic: 215
+│    │    │    │              │         │    │         │         │    │              │              └─■──king_kings_king way_king school_ctk ── Topic: 224
+│    │    │    │              │         │    │         │         │    │              └─■──cambridge_cambridge program_cambridge school_cambridge academy_school cambridge ── Topic: 196
+│    │    │    │              │         │    │         │         │    └─■──wilson_woodrow_wilson hall_woodrow wilson_tahoe ── Topic: 151
+│    │    │    │              │         │    │         │         └─bullying_principal_school_child_pta
+│    │    │    │              │         │    │         │              ├─bullying_principal_school_child_pta
+│    │    │    │              │         │    │         │              │    ├─gifted_magnet_lincoln_principal_franklin
+│    │    │    │              │         │    │         │              │    │    ├─■──hamilton_alexander_school hamilton_hamilton school_hamilton heights ── Topic: 202
+│    │    │    │              │         │    │         │              │    │    └─gifted_magnet_lincoln_principal_franklin
+│    │    │    │              │         │    │         │              │    │         ├─lincoln_madison_lincoln school_lincoln elementary_school lincoln
+│    │    │    │              │         │    │         │              │    │         │    ├─■──madison_huntsville_olympia_school madison_madison middle ── Topic: 133
+│    │    │    │              │         │    │         │              │    │         │    └─■──lincoln_lincoln school_lincoln elementary_school lincoln_love lincoln ── Topic: 79
+│    │    │    │              │         │    │         │              │    │         └─gifted_magnet_principal_franklin_stem
+│    │    │    │              │         │    │         │              │    │              ├─gifted_magnet_principal_stem_program
+│    │    │    │              │         │    │         │              │    │              │    ├─mountain_eagle_sunset_mountain view_view
+│    │    │    │              │         │    │         │              │    │              │    │    ├─ces_ams_bes_beulah_celc
+│    │    │    │              │         │    │         │              │    │              │    │    │    ├─■──ces_celc_cee_bce_love ces ── Topic: 234
+│    │    │    │              │         │    │         │              │    │              │    │    │    └─■──ams_bes_beulah_mes_bevis ── Topic: 221
+│    │    │    │              │         │    │         │              │    │              │    │    └─mountain_eagle_sunset_mountain view_view
+│    │    │    │              │         │    │         │              │    │              │    │         ├─mountain_sunset_mountain view_view_sunrise
+│    │    │    │              │         │    │         │              │    │              │    │         │    ├─■──mountain_mountain view_view_view elementary_mountainville ── Topic: 125
+│    │    │    │              │         │    │         │              │    │              │    │         │    └─sunset_sunrise_glen_glenwood_sunnyside
+│    │    │    │              │         │    │         │              │    │              │    │         │         ├─■──glenwood_glen_glenview_glenallan_glenoaks ── Topic: 180
+│    │    │    │              │         │    │         │              │    │              │    │         │         └─■──sunset_sunrise_sunnyside_sunset view_sunol ── Topic: 142
+│    │    │    │              │         │    │         │              │    │              │    │         └─■──eagle_eagles_eagle academy_eagle hill_eagle view ── Topic: 145
+│    │    │    │              │         │    │         │              │    │              │    └─gifted_magnet_principal_stem_program
+│    │    │    │              │         │    │         │              │    │              │         ├─gifted_magnet_principal_stem_program
+│    │    │    │              │         │    │         │              │    │              │         │    ├─gifted_magnet_stem_principal_gifted program
+│    │    │    │              │         │    │         │              │    │              │         │    │    ├─■──highland_highlands_highland park_highland hall_highlander ── Topic: 108
+│    │    │    │              │         │    │         │              │    │              │         │    │    └─gifted_magnet_stem_principal_gifted program
+│    │    │    │              │         │    │         │              │    │              │         │    │         ├─gifted_magnet_stem_principal_gifted program
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    ├─principal_new principal_great_staff_teachers
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    ├─principal_new principal_great_staff_principal teachers
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    │    ├─■──new principal_new_principal_school new_mr ── Topic: 198
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    │    └─principal_great_staff_principal teachers_school principal
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    │         ├─principal_staff_principal teachers_great_teachers
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    │         │    ├─■──principal_love school_love_school principal_amazing ── Topic: 123
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    │         │    └─■──principal_staff_principal teachers_great principal_great ── Topic: 27
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    │         └─■──great school_principal_school principal_great_principal great ── Topic: 225
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    │    └─■──crestview_crestwood_crest_creston_crestmont ── Topic: 217
+│    │    │    │              │         │    │         │              │    │              │         │    │         │    └─gifted_magnet_stem_gifted program_program
+│    │    │    │              │         │    │         │              │    │              │         │    │         │         ├─gifted_magnet_gifted program_program_magnet program
+│    │    │    │              │         │    │         │              │    │              │         │    │         │         │    ├─■──magnet_magnet program_magnet school_program_school magnet ── Topic: 52
+│    │    │    │              │         │    │         │              │    │              │         │    │         │         │    └─■──gifted_gifted program_program_gifted students_gifted children ── Topic: 30
+│    │    │    │              │         │    │         │              │    │              │         │    │         │         └─■──stem_stem program_stem school_stem academy_program ── Topic: 84
+│    │    │    │              │         │    │         │              │    │              │         │    │         └─■──washington_washington school_washington elementary_seattle_school washington ── Topic: 141
+│    │    │    │              │         │    │         │              │    │              │         │    └─south_east_kennedy_vegas_county
+│    │    │    │              │         │    │         │              │    │              │         │         ├─south_east_vegas_las vegas_county
+│    │    │    │              │         │    │         │              │    │              │         │         │    ├─■──vegas_las vegas_las_nevada_albuquerque ── Topic: 178
+│    │    │    │              │         │    │         │              │    │              │         │         │    └─south_east_county_eastern_nj
+│    │    │    │              │         │    │         │              │    │              │         │         │         ├─south_jersey_nj_southside_new jersey
+│    │    │    │              │         │    │         │              │    │              │         │         │         │    ├─■──jersey_nj_new jersey_brunswick_jersey city ── Topic: 218
+│    │    │    │              │         │    │         │              │    │              │         │         │         │    └─■──south_southside_southwood_southgate_south school ── Topic: 111
+│    │    │    │              │         │    │         │              │    │              │         │         │         └─east_county_eastern_eastside_best
+│    │    │    │              │         │    │         │              │    │              │         │         │              ├─■──county_best_best elementary_elementary_school county ── Topic: 161
+│    │    │    │              │         │    │         │              │    │              │         │         │              └─■──east_eastern_eastside_east great_east high ── Topic: 143
+│    │    │    │              │         │    │         │              │    │              │         │         └─■──kennedy_langley_jfk_poe_john kennedy ── Topic: 174
+│    │    │    │              │         │    │         │              │    │              │         └─■──davis_richmond_davis elementary_davis great_zelia ── Topic: 164
+│    │    │    │              │         │    │         │              │    │              └─■──franklin_fra_franklin academy_franklin school_benjamin ── Topic: 102
+│    │    │    │              │         │    │         │              │    └─bullying_pta_principal_child_school
+│    │    │    │              │         │    │         │              │         ├─care_children_help_great_kids
+│    │    │    │              │         │    │         │              │         │    ├─■──helped_care_children_help_kids ── Topic: 183
+│    │    │    │              │         │    │         │              │         │    └─■──care_great_best_children_hait ── Topic: 89
+│    │    │    │              │         │    │         │              │         └─bullying_pta_principal_child_school
+│    │    │    │              │         │    │         │              │              ├─bullying_pta_principal_child_school
+│    │    │    │              │         │    │         │              │              │    ├─■──islamic_islamic school_arabic_muslim_quran ── Topic: 103
+│    │    │    │              │         │    │         │              │              │    └─bullying_pta_principal_child_teacher
+│    │    │    │              │         │    │         │              │              │         ├─bullying_pta_principal_child_teacher
+│    │    │    │              │         │    │         │              │              │         │    ├─bullying_pta_principal_child_teacher
+│    │    │    │              │         │    │         │              │              │         │    │    ├─■──counselors_counselor_counseling_guidance_students ── Topic: 227
+│    │    │    │              │         │    │         │              │              │         │    │    └─bullying_pta_principal_child_teacher
+│    │    │    │              │         │    │         │              │              │         │    │         ├─dress_dress code_code_wear_uniforms
+│    │    │    │              │         │    │         │              │              │         │    │         │    ├─■──drugs_drug_drug problem_drug use_problem ── Topic: 105
+│    │    │    │              │         │    │         │              │              │         │    │         │    └─dress_dress code_code_wear_uniforms
+│    │    │    │              │         │    │         │              │              │         │    │         │         ├─■──dress_dress code_code_wear_uniforms ── Topic: 26
+│    │    │    │              │         │    │         │              │              │         │    │         │         └─■──homework_hours_night_home_work ── Topic: 136
+│    │    │    │              │         │    │         │              │              │         │    │         └─bullying_pta_principal_child_bullied
+│    │    │    │              │         │    │         │              │              │         │    │              ├─bullying_pta_principal_child_bullied
+│    │    │    │              │         │    │         │              │              │         │    │              │    ├─sports_football_coaches_coach_team
+│    │    │    │              │         │    │         │              │              │         │    │              │    │    ├─■──sports_great_basketball_athletic_high school ── Topic: 38
+│    │    │    │              │         │    │         │              │              │         │    │              │    │    └─■──sports_coach_football_coaches_team ── Topic: 32
+│    │    │    │              │         │    │         │              │              │         │    │              │    └─bullying_pta_principal_bullied_child
+│    │    │    │              │         │    │         │              │              │         │    │              │         ├─bullying_pta_principal_bullied_child
+│    │    │    │              │         │    │         │              │              │         │    │              │         │    ├─■──administration_turnover_leadership_teachers_left ── Topic: 46
+│    │    │    │              │         │    │         │              │              │         │    │              │         │    └─bullying_pta_principal_bullied_child
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         ├─bullying_pta_principal_bullied_child
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         │    ├─bullying_pta_principal_bullied_teacher
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         │    │    ├─■──pta_pto_involved_active_parents ── Topic: 5
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         │    │    └─bullying_bullied_teacher_child_principal
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         │    │         ├─■──principal_new principal_leadership_rude_does ── Topic: 17
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         │    │         └─■──bullying_bullied_child_teacher_told ── Topic: 0
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         │    └─■──white_black_racism_diversity_racist ── Topic: 11
+│    │    │    │              │         │    │         │              │              │         │    │              │         │         └─■──reviews_review_negative_negative reviews_bad ── Topic: 20
+│    │    │    │              │         │    │         │              │              │         │    │              │         └─■──fundraisers_fundraising_money_donate_donations ── Topic: 112
+│    │    │    │              │         │    │         │              │              │         │    │              └─■──stars_star_school stars_school star_rate ── Topic: 18
+│    │    │    │              │         │    │         │              │              │         │    └─bathrooms_bathroom_food_ipads_lunch
+│    │    │    │              │         │    │         │              │              │         │         ├─bathrooms_bathroom_food_lunch_dirty
+│    │    │    │              │         │    │         │              │              │         │         │    ├─■──food_lunch_lunches_way way_good ── Topic: 117
+│    │    │    │              │         │    │         │              │              │         │         │    └─■──bathrooms_bathroom_dirty_food_restroom ── Topic: 73
+│    │    │    │              │         │    │         │              │              │         │         └─■──ipads_ipad_technology_use_laptops ── Topic: 150
+│    │    │    │              │         │    │         │              │              │         └─■──improvement_improve_changes_school improved_room improvement ── Topic: 200
+│    │    │    │              │         │    │         │              │              └─parking_office_principle_rude_bus
+│    │    │    │              │         │    │         │              │                   ├─parking_office_rude_bus_traffic
+│    │    │    │              │         │    │         │              │                   │    ├─■──parking_bus_traffic_drop_pick ── Topic: 50
+│    │    │    │              │         │    │         │              │                   │    └─■──office_rude_office staff_desk_staff rude ── Topic: 64
+│    │    │    │              │         │    │         │              │                   └─■──principle_new principle_new_principle great_vice principle ── Topic: 118
+│    │    │    │              │         │    │         │              └─■──substitute_substitute teacher_sub_substitute teachers_subs ── Topic: 205
+│    │    │    │              │         │    │         └─liberty_heritage_saints_canyon_horizon
+│    │    │    │              │         │    │              ├─heritage_saints_horizon_ivy_desert
+│    │    │    │              │         │    │              │    ├─ivy_laurel_ivy league_league_laurel hill
+│    │    │    │              │         │    │              │    │    ├─■──ivy_ivy league_league_ivy bound_ivy academia ── Topic: 193
+│    │    │    │              │         │    │              │    │    └─■──laurel_laurel hill_laurelhurst_laurel hall_laurel school ── Topic: 233
+│    │    │    │              │         │    │              │    └─heritage_saints_horizon_desert_kcc
+│    │    │    │              │         │    │              │         ├─desert_willow_willows_willowbrook_desert view
+│    │    │    │              │         │    │              │         │    ├─■──willow_willows_willowbrook_willow hill_willow springs ── Topic: 230
+│    │    │    │              │         │    │              │         │    └─■──desert_desert view_desert heights_heights_desert sky ── Topic: 228
+│    │    │    │              │         │    │              │         └─heritage_saints_horizon_kcc_american heritage
+│    │    │    │              │         │    │              │              ├─heritage_saints_kcc_american heritage_american
+│    │    │    │              │         │    │              │              │    ├─heritage_kcc_american heritage_american_kca
+│    │    │    │              │         │    │              │              │    │    ├─■──heritage_american heritage_american_heritage school_heritage academy ── Topic: 134
+│    │    │    │              │         │    │              │              │    │    └─■──kcc_kca_kcs_community college_kids community ── Topic: 210
+│    │    │    │              │         │    │              │              │    └─■──saints_saints academy_saints catholic_catholic_asa ── Topic: 175
+│    │    │    │              │         │    │              │              └─■──horizon_echo_new horizon_horizon school_echo horizon ── Topic: 199
+│    │    │    │              │         │    │              └─liberty_canyon_baker_discovery_imagine
+│    │    │    │              │         │    │                   ├─canyon_baker_discovery_imagine_gilbert
+│    │    │    │              │         │    │                   │    ├─baker_discovery_mirman_hubbard_seed
+│    │    │    │              │         │    │                   │    │    ├─■──discovery_seed_discovery academy_rama_discovery school ── Topic: 213
+│    │    │    │              │         │    │                   │    │    └─■──baker_mirman_hubbard_mirus_hubbard woods ── Topic: 216
+│    │    │    │              │         │    │                   │    └─canyon_imagine_gilbert_west gilbert_imagine west
+│    │    │    │              │         │    │                   │         ├─■──imagine_gilbert_west gilbert_imagine west_imagine prep ── Topic: 212
+│    │    │    │              │         │    │                   │         └─■──canyon_copper_bell canyon_copper canyon_canyon pointe ── Topic: 165
+│    │    │    │              │         │    │                   └─■──liberty_liberty christian_liberty elementary_school liberty_liberty great ── Topic: 130
+│    │    │    │              │         │    └─■──kipp_kiker_school kipp_year kipp_love kipp ── Topic: 181
+│    │    │    │              │         └─■──evergreen_love evergreen_evergreen school_evergreen academy_school evergreen ── Topic: 184
+│    │    │    │              └─■──salem_salem elementary_salem lutheran_school salem_salem high ── Topic: 220
+│    │    │    └─10_10 10_rate_school 10_rate school
+│    │    │         ├─10_10 10_rate_school 10_rate school
+│    │    │         │    ├─experience_great experience_experience school_far_good experience
+│    │    │         │    │    ├─■──experience school_experience_great experience_school experience_excellent experience ── Topic: 179
+│    │    │         │    │    └─■──experience_great experience_far_good_good experience ── Topic: 21
+│    │    │         │    └─■──10_10 10_rate_school 10_rate school ── Topic: 13
+│    │    │         └─■──average_school average_average school_average teachers_just average ── Topic: 222
+│    │    └─worst_worst school_horrible_terrible_bad
+│    │         ├─worst_worst school_horrible_terrible_bad
+│    │         │    ├─send_send child_horrible_child_sending
+│    │         │    │    ├─■──send_send child_child school_child_sending ── Topic: 109
+│    │         │    │    └─■──send_horrible_terrible_send child_send kids ── Topic: 58
+│    │         │    └─worst_worst school_horrible_terrible_bad
+│    │         │         ├─■──worst_worst school_horrible_terrible_horrible school ── Topic: 9
+│    │         │         └─■──horrible_terrible_worst_bad_awful ── Topic: 67
+│    │         └─poor_leadership_school poor_administration_poor poor
+│    │              ├─■──leadership_poor_administration_horrible_terrible ── Topic: 211
+│    │              └─■──poor_school poor_poor poor_extremely poor_poor school ── Topic: 192
+│    └─■──gates_ob_ob gates_gates elementary_gates great ── Topic: 209
+└─que_la_escuela_en_los
+     ├─■──yes yes_ok ok_yes_ok_quandale dingle ── Topic: 208
+     └─■──que_la_escuela_en_los ── Topic: 33

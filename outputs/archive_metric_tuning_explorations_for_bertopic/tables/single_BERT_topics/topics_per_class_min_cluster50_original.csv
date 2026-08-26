@@ -1,0 +1,1559 @@
+Topic,Words,Frequency,Class
+-1,"college, high school, high, students, student",17355,low_fb
+0,"bullying, bullied, bully, told, bullies",580,low_fb
+1,"caring, staff, great teachers, excellent, excellent teachers",375,low_fb
+2,"christian, christian school, christ, bible, god",375,low_fb
+3,"clark, montessori, clark montessori, hgt, jcos suited",6,low_fb
+4,"great school, excellent school, school great, great, great teachers",263,low_fb
+5,"pta, pto, pta meetings, orono, meetings",31,low_fb
+6,"middle school, middle, middle high, high school, high",89,low_fb
+7,"spanish, language, english, spanish teacher, immersion",88,low_fb
+8,"worst school, worst, terrible, horrible, awful",298,low_fb
+9,"band, arts, music, dance, music program",364,low_fb
+10,"10, 10 10, rate, school 10, rate school",229,low_fb
+11,"charter, charter school, charter schools, charter high, raleigh charter",117,low_fb
+12,"textbooks mediocre, standard second, washington rigor, year chromebook, confidently walked",7,low_fb
+13,"ruskin, mrs elmer, muchin, elmer, aaw",51,low_fb
+14,"reviews, review, negative, negative reviews, bad reviews",125,low_fb
+15,"principal, new principal, leadership, superintendent, principal school",98,low_fb
+16,"racism, white, black, racist, african",247,low_fb
+17,"love school, love, yale high, love lenape, wheeler county",46,low_fb
+18,"special, special needs, special education, disability, disabilities",100,low_fb
+19,"scores, test, test scores, score, state",110,low_fb
+20,"catholic, catholic school, catholic high, catholic schools, catholic education",138,low_fb
+21,"principal, mr caruthers, mr guida, guida, principal staff",33,low_fb
+22,"cca, ccs, cchs, ccc, love cca",91,low_fb
+23,"dress, dress code, code, wear, uniform",181,low_fb
+24,"gifted, gifted program, gifted kids, gifted students, interlake",31,low_fb
+25,"ib, ib program, program, baccalaureate, international baccalaureate",143,low_fb
+26,"ap, ap classes, honors, classes, courses",349,low_fb
+27,"iep, child iep, ieps, special, ofhs",58,low_fb
+28,"rating, 10, rated, ratings, greatschools",75,low_fb
+29,"special, special needs, special ed, ed, special education",30,low_fb
+30,"graduated, memories, loved, miss, went",128,low_fb
+31,"catholic, catholic school, catholic high, catholic education, roncalli",126,low_fb
+32,"oak, oakwood, oak park, oak grove, oaks",29,low_fb
+33,"en, escuela, que, la, los",33,low_fb
+34,"coach, coaches, sports, football, players",318,low_fb
+35,"covid, pandemic, covid 19, 19, masks",59,low_fb
+36,"creek, boulder creek, creekside, boulder, fox creek",77,low_fb
+37,"sizes, class sizes, small class, small, size",61,low_fb
+38,"stars, star, school stars, star school, rate",41,low_fb
+39,"military, military family, rotc, school military, military families",93,low_fb
+40,"opusd, ps, ophs, ipad, phone experienced",4,low_fb
+41,"mary, st mary, st, saint mary, sma",17,low_fb
+42,"lake, lakeview, lakes, lakewood, lakeland",62,low_fb
+43,"pres, pre, beebe, pre program, prek",11,low_fb
+44,"12, klahowya, kp, school 12, kelvyn",28,low_fb
+45,"west, westview, western, west campus, west platte",80,low_fb
+46,"adhd, add adhd, add, hamilton, avella",14,low_fb
+47,"steinert, waldorf, jealous, steinert big, teams historically",4,low_fb
+48,"parking, bus, parking lot, traffic, car",26,low_fb
+49,"olu, olsh, ola, ola high, olph",22,low_fb
+50,"magnet, magnet school, magnet program, bps, school magnet",48,low_fb
+51,"send, don send, horrible, send kids, pins petition",52,low_fb
+52,"worst worst, worst, terrible, horrible, worst experience",69,low_fb
+53,"administration, turnover, teacher turnover, bossy upperclassmen, bossy",45,low_fb
+54,"paul, st paul, st, saul, paul school",45,low_fb
+55,"send, send child, school send, child school, send kids",66,low_fb
+56,"office, rude, office staff, desk, school office",22,low_fb
+57,"valley, valley view, view, valley high, east valley",58,low_fb
+58,"mandarin, chinese, local students, having chinese, mandarin teacher",9,low_fb
+59,"french, mesa ridge, offer french, mesa, honors french",11,low_fb
+60,"prep, college prep, preparatory, college, prep school",104,low_fb
+61,"autism, autistic, questar, son autistic, renselaer",12,low_fb
+62,"sports, athletic, great sports, basketball, football",172,low_fb
+63,"econ, mrs, brown probably, future cosmetology, kind savant",5,low_fb
+64,"joseph, st joseph, st joe, joe, josephinum",34,low_fb
+65,"hockinson, helps pto, cares treats, grade halo, going hiram",10,low_fb
+66,"whs, whittier, wwhs, whs great, whhs",42,low_fb
+67,"reading, reading school, cares advice, student bat, appriciated including",5,low_fb
+68,"trinity, blessed trinity, trinity high, school trinity, bt",29,low_fb
+69,"lincoln, lincoln high, school lincoln, lincoln great, graduated lincoln",27,low_fb
+70,"parkview, park, parkview baptist, science park, baptist",23,low_fb
+71,"brandeis, solomon, everyday orchestra, magnificent athletics, brandeis unique",4,low_fb
+72,"florida, jacksonville, tampa, fla, fl",46,low_fb
+73,"stem, stem program, hughes stem, stem high, stem academy",21,low_fb
+74,"arizona, tucson, phoenix, bisbee, sonoraville",24,low_fb
+75,"sjb, sja, sjj, sjs, sjv",21,low_fb
+76,"gwa, ghs, gchs, gcs, gw",51,low_fb
+77,"lutheran, lutheran west, lutheran high, lutheran school, west",25,low_fb
+78,"green, greene, green mountain, south greene, greeneview",14,low_fb
+79,"york, nyc, brooklyn, new york, manhattan",41,low_fb
+80,"private school, private, herron, private schools, dream",14,low_fb
+81,"visit visit, languages types, friendly atmospherse, thinker ready, teacers dedicated",21,low_fb
+82,"seffner, grace, grace christian, totino grace, totino",3,low_fb
+83,"bathrooms, bathroom, restroom, roaches, dirty",49,low_fb
+84,"ridge, fossil, fossil ridge, palmer ridge, ridge high",44,low_fb
+85,"wca, wc, wcs, wchs, kids wca",38,low_fb
+86,"lca, lcs, lc, lchs, school lca",28,low_fb
+87,"thank, want thank, thankful, thank teachers, grateful",23,low_fb
+88,"homework, hiram, hiram high, jersey village, progressbook",20,low_fb
+89,"hhs, hfa, hgp, hghs, hbhs",49,low_fb
+90,"holy family, holy, family high, holy spirit, family",38,low_fb
+91,"arabia, arabia mountain, islamic, mountain, arabic",13,low_fb
+92,"principle, new principle, count day, idea mainly, change principles",12,low_fb
+93,"river, riverview, black river, river high, riverbend",26,low_fb
+94,"bhs, bhhs, bchs, bms, bourgade",40,low_fb
+95,"mountain, mountain view, peak, view, lone peak",19,low_fb
+96,"mchs, mclaurin, mcs, mcds, mclauin",30,low_fb
+97,"summit, summit academy, mountain crest, academy north, north high",10,low_fb
+98,"food, smart lunch, lunch, grasso, culinary",33,low_fb
+99,"south, south high, southside, south lake, school south",81,low_fb
+100,"highland, lake highland, highlands, lake, highland high",35,low_fb
+101,"college, suffield, friends, freshman, sebastopol",56,low_fb
+102,"aca, achs, acs, children aca, christian morals",12,low_fb
+103,"fusco, fundraising, staffs, genuine place, pv",8,low_fb
+104,"academy, academies, ce, ce classes, love academy",30,low_fb
+105,"franklin, franklin towne, towne, love franklin, towne charter",19,low_fb
+106,"echs, ecs, threatening thing, attends ecta, isn threatening",5,low_fb
+107,"scs, sca, sc, scds, sca offers",18,low_fb
+108,"bc high, bc, bch, bca, bcs",20,low_fb
+109,"great experience, experience, good experience, great awesome, experience far",23,low_fb
+110,"connor, ocs, sandra day, oologah, ocsa",19,low_fb
+111,"st john, john, st, john high, john prep",12,low_fb
+112,"pchs, pca, ndp, pc, pcs",35,low_fb
+113,"cma, cmi, cms, cma great, school cma",30,low_fb
+114,"north, northside, north point, north star, northridge",52,low_fb
+115,"hcs, hca, hchs, attended hcs, recommend hcs",12,low_fb
+116,"gac, georgia, gacs, ga, atlanta",41,low_fb
+117,"best school, best, school best, booker, nice mention",23,low_fb
+118,"drugs, drug, drug problem, drug use, problem",92,low_fb
+119,"jefferson, jefferson high, thomas jefferson, thomas, cb schools",13,low_fb
+120,"liberty, liberty high, liberty hs, school liberty, liberty liberty",22,low_fb
+122,"madison, madison high, school madison, madison great, huntsville",48,low_fb
+123,"heritage, heritage high, heritage academy, american heritage, atrisco heritage",25,low_fb
+124,"new principal, dr richard, richard, dr, new",21,low_fb
+125,"st peter, peter, academics hockey, compared notch, unlike 19",1,low_fb
+126,"tca, tc, tchs, tcs, love tca",19,low_fb
+127,"county, loudoun, loudoun county, school county, best county",27,low_fb
+129,"vista, lago, del lago, vista del, del",34,low_fb
+130,"lnc, lms, ls3, classes hunter, serve 10",11,low_fb
+131,"ncs, nca, nrca, nc, ncp",26,low_fb
+132,"jhs, johnson high, experience jhs, jmhs, jmc",17,low_fb
+133,"canyon, copper, copper canyon, potts, american canyon",10,low_fb
+134,"washington, washington school, washington high, west washington, washington county",16,low_fb
+135,"la, la cueva, cueva, laquey, cueva deserves",11,low_fb
+136,"east, eastern, egr, east duplin, eastside",35,low_fb
+137,"francis, st francis, st, desales, francis desales",32,low_fb
+138,"sma, smcc, sm, smhs, smchs",29,low_fb
+139,"ipads, ipad, chromebook, chromebooks, laptops",33,low_fb
+140,"dyslexia, iac, dyslexic, hamilton crush, children iahs",5,low_fb
+141,"wilson, mr wilson, best math, school wilson, wilson best",8,low_fb
+142,"bryan, bryan high, problems, svhs 2002, president svhs",15,low_fb
+143,"hillsdale, lawndale, riverdale, hillsdale high, fairdale",24,low_fb
+144,"experience school, experience, great experience, excellent experience, school experience",23,low_fb
+145,"eagle, eagle academy, eagles, choiced child, attends eagle",15,low_fb
+147,"mvhs, vistia, mvcs, nrca, mvca",13,low_fb
+148,"instruction padua, past expectation, seen succeed, collectively friendly, forefront including",6,low_fb
+149,"brook, brookfield, north brookfield, brookwood, mountain brook",4,low_fb
+150,"king, kings, christ king, king drew, king academy",21,low_fb
+151,"calvary, calvary christian, cca, christian, calvary baptist",23,low_fb
+152,"st thomas, thomas, st, thomas aquinas, aquinas",12,low_fb
+153,"fcs, fca, fchs, love fcs, fayetteville",50,low_fb
+154,"ics, ics happy, year ics, curriricular activities, recommend enjoyable",2,low_fb
+155,"mcauley, mca, mcas, mcauliffe, experience mcauley",18,low_fb
+156,"st patrick, patrick, teams strive, learns faith, steps curriculum",6,low_fb
+157,"maritime, proud searider, searider, ocean, oceana",6,low_fb
+158,"school awesome, place filled, state championships, school fun, school pushes",21,low_fb
+159,"iolani, punahou, hawaii, hawaiian, radford",29,low_fb
+160,"ca, california, cal, sacramento, cal years",14,low_fb
+161,"average, average school, school average, average teachers, just average",24,low_fb
+162,"bay, bay view, bay high, beach, view",25,low_fb
+163,"blue, blue ribbon, ribbon, ribbon school, national blue",19,low_fb
+164,"msa, excellent excellent, suspension productive, avenues offered, quality manatee",8,low_fb
+165,"german, gbh, goethe, germany, did job",5,low_fb
+166,"hate school, hate, hated, hated school, school hate",30,low_fb
+167,"disappointed, disappointed school, fraser, biology school, disappointment",20,low_fb
+168,"high school, high, college, girls high, outstanding high",62,low_fb
+169,"horrible horrible, support poor, horrible, administration horrible, administration",23,low_fb
+170,"kipp, kisd, sucks idea, minimise hours, avail family",6,low_fb
+172,"roosevelt, rhs, discussing high, rhs coming, terribley online",2,low_fb
+173,"saints, sanford, today observation, love alumnus, rules formulas",6,low_fb
+174,"providence, providence catholic, providence academy, providence high, years providence",31,low_fb
+175,"vegas, las vegas, las, nevada, school las",21,low_fb
+176,"mr potts, potts, potts picked, enthusiasm clerks, advice ways",8,low_fb
+177,"esj, ese, consistency continuation, clueless petty, continuation programs",3,low_fb
+178,"glencliff, glenelg, glencoe, glenwood, glen",10,low_fb
+179,"dc, dcc, dchs, dcs, dca",21,low_fb
+180,"math, math department, harmon, department, harmon great",18,low_fb
+181,"counselors, counselor, counseling, guidance, counseling department",52,low_fb
+182,"evergreen, evergreen park, clothes, school evergreen, enrollement courses",5,low_fb
+183,"pine, pine view, view, pinewood, view school",21,low_fb
+184,"rchs, rc, rcs, rchs great, impressed rcs",15,low_fb
+185,"academy middle, pressures pitfalls, exceeding crct, freshan, jr happy",3,low_fb
+186,"manhattan bridges, bridges, bridge, manhattan, displine create",5,low_fb
+187,"clean, gphs, safe, people apply, tidy dedicated",14,low_fb
+188,"miami, dade, school miami, miami dade, miami central",22,low_fb
+189,"jersey, nj, njsp, njrotc, new jersey",18,low_fb
+190,"best school, school best, greatest school, best, hawaii davis",15,low_fb
+191,"pius, st pius, st, pius school, pius excellent",12,low_fb
+193,"substitute, substitute teacher, sub, subbed, substitute teachers",18,low_fb
+194,"edison, edison great, edison high, la reina, reina",16,low_fb
+195,"beggs, improvement, improve, school improve, improve getting",20,low_fb
+196,"ivy, ivy league, league, league schools, tesoro",13,low_fb
+197,"gay, lgbtq, lgbt, trans, edgewood",31,low_fb
+198,"saint marks, marks, st mark, tolerated perfect, molds pay",2,low_fb
+199,"great place, place, place students, place work, work learn",16,low_fb
+200,"celina, celina growth, arent recieving, discipline supportive, smartly planning",3,low_fb
+202,"cambridge, local university, cambridge program, cambridge academy, dixie",5,low_fb
+203,"notre dame, notre, dame, nda, dame academy",30,low_fb
+204,"loves development, fair problems, educationally friends, development educationally, arose children",4,low_fb
+205,"tecumseh, chose big, pursuit desire, attend tecumseh, places tecumseh",1,low_fb
+206,"honor roll, roll, honor, houma la, la yerars",4,low_fb
+207,"woodland, woodlands, woodlands offers, woodlands high, engineer",5,low_fb
+208,"horizon, horizon growing, rocori, horizon science, staff marvalous",5,low_fb
+209,"central, central high, love central, student central, roman",36,low_fb
+210,"hamilton, tech center, alexander, east hamilton, love hamilton",36,low_fb
+211,"cedar, cedar park, park, cedarwood, cedarville",11,low_fb
+212,"shepherd, good shepherd, shepherd years, michigan population, couple hispanics",4,low_fb
+213,"pvhs, pv, pvi, pine view, pves",13,low_fb
+214,"graduate respected, center treat, participation effort, unfortunately requires, respected engineering",1,low_fb
+215,"words words, words, sd sd, love love, sd",17,low_fb
+216,"rockmart, rock, vidalia, polk county, run run",5,low_fb
+217,"woodson, forest, woods, forest hills, forest park",16,low_fb
+218,"foshay, ftch, ftchs, love foshay, graduated ftch",11,low_fb
+219,"westminster, westminster academy, pardes, kids westminster, westminster christian",20,low_fb
+220,"aae, aacs, aa, aaec, attended aae",18,low_fb
+221,"hispanic, hispanics, parcc, fits welcoming, shoved parcc",10,low_fb
+222,"clovis, cls, fbi wall, shots navigate, mere afterthought",3,low_fb
+223,"seed, dphs, seed pcs, discovery, pcs",2,low_fb
+224,"smiths station, smithville, smiths, bruce, smith",8,low_fb
+226,"carver, carver high, speyer, talent realize, attending carver",11,low_fb
+227,"ratio, teacher ratio, student teacher, offered inexperienced, accurate estimate",7,low_fb
+229,"chaminade, chapin, cha, chaparral, family spirit",14,low_fb
+230,"crestline, crestwood, crestline high, crestview, strawberry crest",10,low_fb
+231,"fairview, fairless, feel fairless, ib, fhs",12,low_fb
+232,"kcc, bk, harmon, combined familiarity, harmon heart",5,low_fb
+233,"salem, salem salem, link medicaid, upgrading really, snoody right",4,low_fb
+234,"san, diego, san diego, san jose, jose",14,low_fb
+236,"vvec, vvec couldn, vvec builds, attend vvec, school vvec",1,low_fb
+237,"desert, desert hills, desert oasis, oasis, desert edge",17,low_fb
+238,"mps, mp, mpa, reagan, mphs",4,low_fb
+239,"small town, town school, town, small, small school",18,low_fb
+240,"cps, northside, cps school, chance lifeguard, accepted northside",3,low_fb
+241,"stars, zero stars, rating ye, ye stars, option rating",7,low_fb
+242,"poor, poor school, poor poor, poor recent, religious district",13,low_fb
+243,"willow, willowridge, willow canyon, student actually, willowridge awesome",5,low_fb
+244,"walden, calm relaxing, walden sophomore, returning calm, relaxing excellent",1,low_fb
+245,"gateway charter, gateway, 10 gateway, high strives, backgrounds multiple",2,low_fb
+246,"masuk, school masuk, people unbelievable, masuk place, masuk drag",2,low_fb
+247,"hillcrest, hillcrest hillcrest, hillcrest really, central weakest, planet hillcrest",4,low_fb
+248,"classical, rhode island, rhode, students received, classical poorly",2,low_fb
+251,"kennedy, jfk, kennedy high, john kennedy, school kennedy",10,low_fb
+252,"davis, davis high, davis great, attended davis, good davis",10,low_fb
+253,"bishop, archbishop, luers, dunne, bishop dunne",81,low_fb
+254,"laurel, laurel received, paying discounted, career paying, recent strong",1,low_fb
+255,"hills things, hills, miss hills, forget preparing, washington principle",2,low_fb
+256,"augusta, augusta christian, ranch, spiritually wise, orchestra astonishing",3,low_fb
+257,"ssa, program champion, ssd services, northshore ssa, champion athletics",2,low_fb
+258,"reciprocated parents, need reciprocated, community sides, sides need, essentially schools",1,low_fb
+259,"riverside, child riverside, riverside really, riverside riverside, riverside school",14,low_fb
+260,"athens, plato, plato school, greek, greece",7,low_fb
+262,"corinth holders, corinth, holders, excellent corinth, think corinth",1,low_fb
+263,"renaissance, renaissance high, renaissance school, twinfield, year renaissance",21,low_fb
+265,"sixth grade, wanna weathersfield, benudum theatre, schools dancing, 10th wanna",5,low_fb
+266,"pe horrible, comment resembles, hmsa weeks, factory fantastic, pen sets",3,low_fb
+267,"laurence, lawrence, st lawrence, st laurence, laurence great",4,low_fb
+268,"alhambra, almont, aldine, alverno, know alhambra",7,low_fb
+270,"montini, monticello, montclair, montini great, montachusett",10,low_fb
+271,"zion, zion high, mt zion, mount zion, mt",9,low_fb
+272,"stm, stma, strake, men, requirement truly",6,low_fb
+273,"brhs, hyndman, concentration camp, bedford, concentration",5,low_fb
+274,"hope, hopewell, hope christian, hope best, children hope",5,low_fb
+275,"muah, muah muah, love school, school love, best love",12,low_fb
+276,"sms, smsh, aice, happy teenager, aice diploma",1,low_fb
+277,"started cdh, cdh loves, actually enthusiastic, feels pretty, cdh",1,low_fb
+278,"sfhs, sfa, complete educational, realize potential, involvement strong",7,low_fb
+279,"pros, cons, pro, pros great, trips nearly",11,low_fb
+280,"clark, lewis, rupa, lewis cass, principal rupa",14,low_fb
+281,"jackson, east jackson, school jackson, jackson county, jackson prep",9,low_fb
+282,"somerset, somerset kids, somerset academy, kids sad, solution graduated",4,low_fb
+284,"village, villages, village school, hshs, teachers ta",8,low_fb
+285,"mount, graduated mount, advertize mount, mount great, chose mount",10,low_fb
+287,"rude, disrespectful, teachers rude, students disrespectful, cringy santa",13,low_fb
+288,"catherine, st catherine, school dàughter, challenged yearly, textbooks needed",2,low_fb
+290,"dmlk, dphs, world dphs, dphs offers, dmlk amazing",11,low_fb
+291,"lourdes, graduated lourdes, lourdes years, lady lourdes, daystar christian",3,low_fb
+292,"nashville, marion, tennessee, school nashville, chattanooga",26,low_fb
+294,"palm, palm beach, quality palm, dreyfoos students, florida country",2,low_fb
+295,"anderson, alumni boyd, state congratulations, anderson reason, anderson hs",3,low_fb
+297,"villa, villa rica, villa did, regents exams, rica",3,low_fb
+298,"spring garden, garden, spring, garden school, new london",5,low_fb
+299,"st teresa, teresa, teresa say, everyday sta, material struggle",1,low_fb
+300,"vca, vcs, vca kindergarten, attended vca, vca offers",11,low_fb
+301,"jcchs, jchs, jcs, jca, jc",12,low_fb
+302,"lee, early college, lee academy, lee high, robert lee",11,low_fb
+303,"grant, grant high, grant schools, grant county, love grant",10,low_fb
+304,"harmony, harmony magnet, magnet academy, hma, harmony science",10,low_fb
+305,"baker, baker school, kentucky florida, small educationally, normal electives",3,low_fb
+307,"houston, sam houston, sam, school houston, houston county",9,low_fb
+308,"freedom, freedom academy, freedom high, 400 500, period schedule",9,low_fb
+309,"qchs, experience qchs, qchs wonderful, qnd, queen",6,low_fb
+310,"hargrave, staff hagerty, admission outstanding, hargrave military, hargrave really",5,low_fb
+311,"lakeside, lakeside high, experience lakeside, elsinore, goals pulling",7,low_fb
+313,"westwood, general ignorant, westwood education, instution facilities, 12years kids",3,low_fb
+314,"scholarships, mcnicholas, received scholarships, graduated, graduate",26,low_fb
+315,"crooms, student standands, teachers crooms, make zombie, editor strongly",3,low_fb
+316,"holy cross, cross, holy, cross high, calculation",10,low_fb
+317,"sabino, sabis, school sabino, sabis great, sabino high",6,low_fb
+318,"holy trinity, trinity, holy, ht, trinity school",23,low_fb
+319,"mcc, mccrory, mccluer, year mcc, mcc wonderful",10,low_fb
+320,"herriman, proud bengals, hallways decently, unlike bingham, bingham highly",2,low_fb
+321,"manchester, yorkshire, accepted selective, ann arbor, students away",7,low_fb
+322,"charles, st charles, saint charles, st, men",8,low_fb
+323,"svhs, sva, sv, svhs great, sves",12,low_fb
+324,"phs, school phs, phe, parowan, piedmont",16,low_fb
+325,"clinton, clinton prairie, clinton massie, massie, clinton school",8,low_fb
+326,"focusing improvements, job courses, groton dunstable, appearances doing, technology relative",1,low_fb
+327,"perkins, concord, gordon central, gordon, years concord",6,low_fb
+328,"anthony, st anthony, anthony high, saint anthony, st",10,low_fb
+329,"csd, cscs, css, teen cert, cert",7,low_fb
+330,"dchs, home tells, rider afternoon, grandson car, arguments getting",4,low_fb
+331,"health excels, talented accepting, specialized health, hospital clinical, clinical rotation",8,low_fb
+332,"garfield, garfield high, boards notes, drowned chaos, grades endured",5,low_fb
+333,"brooks, brookside, brooks high, school brooks, brooks academy",9,low_fb
+334,"austin, schools austin, flawed dont, rank healthy, existing clubs",6,low_fb
+335,"star, school star, star school, stars, related",12,low_fb
+336,"bethany high, bethany, place school, great place, teachers administration",1,low_fb
+337,"cap, center academy, center, community academy, todays",2,low_fb
+338,"accepted abby, kindergarden heard, excited posted, 2014 kindergarden, kelly fall",1,low_fb
+339,"mills, hit bureaucratic, millford, appearence great, millford graet",4,low_fb
+341,"prison, school prison, like prison, prison school, jail",21,low_fb
+342,"baltimore, maryland, baltimore city, chc, south baltimore",9,low_fb
+344,"gsa, soon 2018, ceremoniously deposited, website promotions, students paraded",1,low_fb
+345,"chs, chs great, chs does, clawson, ch",29,low_fb
+346,"great molded, ethic isn, sets successful, belief deserves, today gate",1,low_fb
+347,"wonderful experience, great experience, fun lawyers, wing far, children wghs",9,low_fb
+348,"marshall, thurgood marshall, thurgood, marshall great, marshall academy",7,low_fb
+349,"witnessed described, falls incredible, strange statements, cf witnessed, statements cf",1,low_fb
+350,"macs, mac, bmrchs, estudents, enroll great",7,low_fb
+351,"security, pouch, insuring, safety, ads",6,low_fb
+352,"worth, lasalle, tuition, faculty highest, highest degree",11,low_fb
+353,"sla, slhs, sl, slhs san, experience sla",15,low_fb
+354,"rancho, cucamonga high, rancho cucamonga, cucamonga, career issue",5,low_fb
+355,"eisenhower, eisenhower high, ike, experience eisenhower, eisenhower school",11,low_fb
+356,"woodlawn, basehor, wood, woodmore, year lot",9,low_fb
+357,"st louis, louis, recommend boy, loved iwa, iwa wasn",2,low_fb
+358,"steam, hall 2021, successful forest, turning premier, extension highly",2,low_fb
+360,"st michael, michael, st constantly, michael largely, policies requirements",3,low_fb
+361,"concordia, concordia lutheran, clueless case, concordia exceeds, btw right",4,low_fb
+362,"sunset, sunset park, attended sunset, park, setting sunset",3,low_fb
+363,"mhs, mrhs, mhshs, student mhs, mhs great",19,low_fb
+365,"ursuline, hollister, prescott, hollister high, ursuline new",10,low_fb
+366,"atherton, newman, woodward, atherton high, just wolverines",5,low_fb
+367,"prairie, prairie excellent, new prairie, prep prairie, populated grade",2,low_fb
+368,"messages, need decent, calling everyday, calls, decent math",7,low_fb
+370,"shortly hold, graduate shortly, teachers gavit, lowell, gavit high",1,low_fb
+371,"ahs, ahs sports, school ahs, tht, love ahs",18,low_fb
+372,"detroit, michigan, denby, school detroit, gabriel richard",19,low_fb
+373,"whatsoever turn, aboslute, aboslute teerible, teerible school, teerible",6,low_fb
+374,"school dreama, stonebridge better, dreama, dreama academics, good stonebridge",1,low_fb
+375,"diploma, ged, accredited, student graduate, accredited rotting",6,low_fb
+376,"dog, loranger high, loranger, send dog, text book",4,low_fb
+377,"shop clue, lot ag, president shop, 2016 enjoy, bringing ag",2,low_fb
+378,"lehi, saddened happened, granted lots, lecj decline, began 2005",3,low_fb
+379,"vocal program, vocal, errors current, clear vocal, nightmare steer",1,low_fb
+380,"caddo hills, caddo, succes truly, students caddo, choices previously",1,low_fb
+381,"sps, sphs, north shore, learning differences, differences finding",6,low_fb
+382,"frankford, graduated frankford, attend frankford, frankford changed, catch septa",2,low_fb
+384,"dual pay, arent dual, brown county, classes arent, love brown",1,low_fb
+385,"progressive, hawken, progressive school, brett wolfe, renowned familiar",5,low_fb
+386,"ripple high, think ghetto, broad ripple, ripple, school necessarily",1,low_fb
+387,"pa, pennsylvania, actual pa, schools pa, performance standards",10,low_fb
+388,"conditioning, air conditioning, air, heat, hot",22,low_fb
+389,"carmel, mount carmel, mount, mt carmel, carmel hs",4,low_fb
+390,"open apply, hevner school, mrs blackburn, 2013 rate, ms hevner",6,low_fb
+391,"maple, maplewood, maple lake, maple valley, maple shade",11,low_fb
+392,"ross, students rrcs, think tom, chose reid, tom hatch",2,low_fb
+393,"huntland, hunter, huntley, hunt, love huntland",10,low_fb
+394,"chicago, golder, illinois, school chicago, city chicago",10,low_fb
+395,"walnut, walnut hills, walnut ridge, hills, walnut grove",15,low_fb
+397,"discipline, waianae, waianae high, disruptive, discipline waianae",5,low_fb
+399,"lafayette, lafayette high, recommend tch, coupled poorly, switched lafayette",5,low_fb
+401,"eldred, elc, new elcho, center attain, basis elc",6,low_fb
+402,"walker high, walker, pursue, thi possible, adopted time",2,low_fb
+403,"monroe, junior 8th, want construction, ma lol, louisiana just",2,low_fb
+404,"problems game, don canisteo, canisteo greenwood, canisteo, certain care",1,low_fb
+405,"mission, new mission, mission high, mission hills, graduated mission",19,low_fb
+406,"vpk providence, unfortunately financially, went vpk, financially afford, providence great",1,low_fb
+409,"ptsa, arabia mountain, paly, arabia, ptsa doing",9,low_fb
+410,"kell, experience kell, kell best, youngest energy, specifically kell",5,low_fb
+411,"coral, cape coral, cape, high lever, lever academics",2,low_fb
+414,"zillah high, engineering wood, activites fbla, fbla asb, wood metalworking",1,low_fb
+417,"bullied, chagrin, picture taken, refused school, harassed",9,low_fb
+418,"srhs, msgt, sra, extra hours, vould best",3,low_fb
+420,"ihm, respected obviously, emphasis central, ihs rounded, body loyal",1,low_fb
+421,"brentwood, brentwood high, brentwood school, available updating, moved wv",5,low_fb
+422,"eleva, eleva strum, strum, manufacturing, macbook",4,low_fb
+423,"virginia, lake braddock, vacaville, braddock, northern",8,low_fb
+427,"rps, friday leadership, core gang, pcssd high, man friday",4,low_fb
+428,"ged course, teach ged, high majority, write grade, level push",1,low_fb
+429,"virtual, virtual school, explaining extra, thank reynolds, deficit hyperactivity",1,low_fb
+430,"chavez, cesar chavez, cesar, kingsley, math credential",8,low_fb
+433,"centennial, frisco, centennial high, centennial great, centennial graduating",9,low_fb
+435,"santa fe, santa, fe, fe high, graduated santa",8,low_fb
+436,"toledo, holland, dutchtown, dutchtown high, dutch",6,low_fb
+437,"stratford, greatly non, stratford junior, addition blackboard, putting uncomfortable",2,low_fb
+439,"union, union academy, unionville, titan, uhs",8,low_fb
+440,"maximize daughters, litchfield struggles, irvine based, provide memorable, say mathematics",6,low_fb
+441,"mason, rumor, started teens, positive ladies, rumor public",2,low_fb
+442,"fmshs, fmshs fabulous, librarians cafeteria, fm shs, struggling awesome",2,low_fb
+443,"danville, danville school, amityville, moved amityville, grantsville",19,low_fb
+444,"gilbert, gilbert school, west gilbert, imagine west, words hime",4,low_fb
+445,"copiah, copiah county, talked copiah, durham 23, lived durham",2,low_fb
+446,"bell, bell senior, bellville high, bellville, students bell",3,low_fb
+449,"rosa, kain, santa rosa, friedships, kain years",3,low_fb
+450,"columbia, columbia high, care mischief, opportunity asb, institution columbia",4,low_fb
+451,"oakland, oakland high, life academy, health bio, se asia",4,low_fb
+452,"robotics, slehs, robotics program, robotics team, engineering",10,low_fb
+454,"cliques, clique, cliquey, hc, hc amazing",25,low_fb
+455,"bulldogs, eureka, dan river, bulldog, eureka jr",8,low_fb
+456,"cvhs, conval, cvcs, cva, attended cvcs",7,low_fb
+458,"cypress, cypress ranch, ranch, forced cancellation, blessed drama",4,low_fb
+459,"vernon, mt vernon, mt, vernon high, mount vernon",7,low_fb
+461,"casa, bella vista, bella, vested rams, 97 state",4,low_fb
+462,"independence, independence high, indy, independent, independent school",11,low_fb
+463,"brighton, brighton high, connected students, said southampton, whilst forced",2,low_fb
+465,"mercy, mercy high, lady mercy, love mercy, daughters mercy",22,low_fb
+466,"efa, elmira, closed, erie, southside",3,low_fb
+467,"berkeley, uc, uc berkeley, mills, tvs",5,low_fb
+468,"preform academically, rarely state, unfortunate tgbhs, example taylor, generic sports",3,low_fb
+469,"palo, palo alto, alto, paly, alto high",7,low_fb
+470,"bethel, bethel public, bethel great, westport new, new canaan",4,low_fb
+472,"parish, parish hill, school parish, calcasieu, calcasieu parish",8,low_fb
+473,"caston wonderful, kids caston, daughters phoenix, day notre, wouldn send",4,low_fb
+475,"grove, grovetown, grovetown high, lone grove, fair grove",11,low_fb
+476,"fayette, fayetteville, fayette ware, ware, fayette academy",17,low_fb
+477,"pennfield, remarkable bit, eye street, dad today, penn fairly",2,low_fb
+479,"mid pacific, pacific, comparison street, helpful uppity, hussey greets",2,low_fb
+480,"lpa, lphs, lphs great, lps, forestry",7,low_fb
+481,"rio, rio linda, linda, linda high, rio vista",3,low_fb
+482,"vanguard, vanguard high, tries childred, vanguard doing, vanguard involved",2,low_fb
+484,"ranking cadets, couldent pencil, doing pt, attend pmsa, pt failed",2,low_fb
+485,"sky view, bus 93, terrible sky, 93 terrible, tonya drives",1,low_fb
+486,"blessing uplifting, encouraging true, pace couldn, happier rate, pleased really",3,low_fb
+487,"manogue, attended manogue, wih day, succed teacher, content lowering",2,low_fb
+488,"island, islands, island school, caledonia high, islands high",11,low_fb
+489,"lane, academic center, lane diverse, graduated lane, lane school",9,low_fb
+490,"hackett terrific, kennedy miss, collier wonderful, ms collier, terrific little",1,low_fb
+491,"opportunities succeed, succeed great, awesome love, students opportunities, staff highly",3,low_fb
+492,"bronx, bronx leadership, east bronx, bronx academy, schools bronx",10,low_fb
+493,"onw, online, online school, unbearable home, moldy lunch",4,low_fb
+494,"texas, cup, school texas, cup championships, texas lone",10,low_fb
+495,"baldwin, baldwin high, school declined, procedure exceptional, baldwin nicest",5,low_fb
+496,"howard, howard school, working howard, love howard, howard high",11,low_fb
+498,"exception interesting, single exception, wasted single, witnessed avoid, internship organized",2,low_fb
+499,"camden, brimm, cma, camden military, arise adequately",5,low_fb
+500,"dsa, dses, majors, dse, dsa years",13,low_fb
+501,"grew deer, went dphs, dphs great, park 70, comments gone",1,low_fb
+502,"cleveland, akron, went cleveland, school cleveland, juniors seniors",9,low_fb
+503,"summer, scope administration, lost likely, sources arranged, preportory",2,low_fb
+504,"cte, act21 club, cte offering, engineering different, programs act21",3,low_fb
+505,"nsa, bradford, bradford academy, attended nsa, nsa offers",14,low_fb
+509,"proud, green county, river city, school proud, coach brooks",9,low_fb
+511,"arlington, arlington high, arlington horrible, arlington community, student arlington",6,low_fb
+512,"ford, henry, henry ford, henry loved, just aspanking",3,low_fb
+513,"shs, speedway, graduated shs, shs friendly, shroder",9,low_fb
+514,"orange, orange county, future academical, academical personal, went orange",3,low_fb
+515,"gmhs, gms, profession admins, prepared unanswered, going gmhs",4,low_fb
+516,"northwood just, highschools program, parent rapides, program prosper, teacher northwood",1,low_fb
+517,"horicon, holliday, hough hs, hough, practice identity",5,low_fb
+518,"johnson, johnson high, principal johnson, mrs johnson, jonesboro",14,low_fb
+519,"latin, boston latin, bla, boys latin, latin school",13,low_fb
+520,"ignatius, st ignatius, loyola, saint ignatius, ignatius college",16,low_fb
+521,"tri, tri cities, tri county, cities, triton",12,low_fb
+522,"nazareth, naz, mary nazareth, nazareth academy, mary",12,low_fb
+523,"edgewood, edgewood high, berkwood, tightest, berkwood hedge",20,low_fb
+524,"richmond, berkshire, richmond county, richmond community, cosby",9,low_fb
+525,"charlotte, ardrey kell, ardrey, kell, school charlotte",7,low_fb
+526,"tigers, tiger, drama teacher, cubs, school tigers",7,low_fb
+527,"wonderful respectable, respectable lady, kids nieces, lady love, nephews love",2,low_fb
+528,"perry, perry high, perry schools, perry public, teachers perry",24,low_fb
+529,"grandview, ghs, love grandview, known suburbs, yes apathetic",6,low_fb
+530,"assumption, average jcps, comparing assumption, don comparing, arms offer",1,low_fb
+531,"hpa, hps, hp, hpcs, hpe",17,low_fb
+532,"differences doesn, ruskin, russian, life ruskin, fillend",2,low_fb
+535,"sheridan, sheridan school, trouble making, school sheridan, guide showed",6,low_fb
+536,"impressed ophs, teachings awesome, ophs great, minded great, great teachings",1,low_fb
+537,"love picture, negreet, jesus hanging, curriculum camaraderie, kansas news",2,low_fb
+538,"berwick, delphi, berwick great, marshwood, opinon",5,low_fb
+539,"aq happy, loves aq, aq, daughter loves, anza",1,low_fb
+540,"hmsa, hms, hmsa years, attended hmsa, goal oriented",5,low_fb
+541,"fyffe, report alabama, members fyffe, 100 goals, state nclb",1,low_fb
+542,"cooper, engineering got, gives edge, technology machinery, interests include",4,low_fb
+545,"italy, scuola, la scuola, italian, italy high",4,low_fb
+546,"nha, community home, princ involve, came nha, leave jaffrey",5,low_fb
+547,"parkers chapel, parkers, chapel deserves, home parkers, parker",1,low_fb
+551,"belleville, belleview, belleville high, belle, belle plaine",10,low_fb
+552,"np, nphs, npc, npp, np3",16,low_fb
+553,"accusations levied, facility grave, failed fundamental, recent accusations, levels necessary",3,low_fb
+554,"boone, southern boone, bridgeport, southern, boone county",5,low_fb
+555,"ehs, student ehs, ehs great, teachers ehs, ehca",16,low_fb
+556,"global, international, global studies, glc, expanding knowledge",5,low_fb
+557,"panthers, panther, wellborn, arj, south bossier",9,low_fb
+558,"band developed, excellant 1st, grow taking, 1st student, meant older",2,low_fb
+559,"magnolia, involoved, going bullied, magnolia school, ask student",2,low_fb
+560,"heritage, heritage christian, hcs, harvest, state se",3,low_fb
+561,"turkish, gather turkish, semim prepare, hsa garland, languages turkish",1,low_fb
+562,"api, bethel high, vallejo, considering prides, high vallejo",3,low_fb
+564,"ppas, ppa, ironically conservatories, refershing truth, separate cirriculum",3,low_fb
+565,"rocky, rocky river, rrhs, river, river great",3,low_fb
+566,"heights, care need, castle, achieve qualms, heights match",2,low_fb
+567,"vincent, st vincent, saint vincent, vincent ferrer, ferrer",8,low_fb
+570,"sasa, sas, classen, sasa students, half day",2,low_fb
+571,"foshay family, family challenging, foshay, challenging caring, supportive truly",2,low_fb
+572,"curricular volunteer, creek attempting, easy johns, compensate son, offering lacking",1,low_fb
+573,"rogers, rogers high, ropers, millennium scholarship, gates millennium",9,low_fb
+575,"common core, common, core, core simplified, require problem",2,low_fb
+576,"legend, springs, legend high, colorado, exchange students",4,low_fb
+579,"seton, seton hall, spp, attended seton, year seton",23,low_fb
+580,"enrolled continually, graduated adequately, geneva, things geneva, opportunities ghs",1,low_fb
+581,"waterford union, waterford, union high, asspect, good asspect",1,low_fb
+582,"hyde, addison, hyde park, hearted learn, cheswayo",4,low_fb
+583,"allen, lacey, lovejoy isd, allen isd, glen allen",4,low_fb
+584,"elizabeth, elizabeth seton, st elizabeth, seton, follow roadrunner",1,low_fb
+585,"regina, maria, regina high, maria regina, ave maria",9,low_fb
+587,"mistake switched, switched went, hall better, aspect way, went calvert",1,low_fb
+588,"gangs, gang, gang activity, desert oasis, river city",15,low_fb
+589,"redan high, redan, paycheck redan, son suspicions, conformed son",4,low_fb
+590,"webster, east webster, webster billing, billing webster, webster did",2,low_fb
+591,"gifted suffers, illnes disabilities, ms doherty, disabilities steer, doherty exceptional",1,low_fb
+592,"mitchell, school grand, grand, excel bccs, passion wants",2,low_fb
+593,"montgomery, montgomery high, eastern montgomery, differences mocked, montgomery offer",4,low_fb
+594,"snyder, snyder like, obviously counting, teachers snyder, barely programs",9,low_fb
+595,"verde, verde pleased, campo verde, palo verde, campo",5,low_fb
+596,"lottery, entrance, really shame, face mistake, daughter vsaa",7,low_fb
+597,"muir, john muir, john, muir high, improvement students",5,low_fb
+598,"sierra, drugs yard, golden sierra, sierra view, foothill",3,low_fb
+599,"bates, ksla national, starting offer, crew ksla, principal alexandra",2,low_fb
+600,"seneca, seneca east, choral division, cleanliness gymnasium, departments spanish",2,low_fb
+601,"d38 school, 0000 school, expected d38, 0000, disappointed disappointed",4,low_fb
+602,"adams, patient embracing, rotc progam, hold teams, progam denver",1,low_fb
+603,"imhotep, immaculata, imani, ims, love imhotep",6,low_fb
+605,"louisiana, baton, baton rouge, rouge, dutchtown",13,low_fb
+606,"pk, pk certainly, pk past, bright teachera, pkhs student",2,low_fb
+608,"think rising, sun great, rising sun, kids attention, believe kids",1,low_fb
+611,"raphael, saint raphael, raphael academy, st raphael, preparing colleges",3,low_fb
+612,"hampton, hampton park, school hampton, hampton roads, hampton high",7,low_fb
+613,"aquinas, aquin, arc, summary leaving, oriented mission",3,low_fb
+614,"school miller, miller, miller grooooovee, bruuuuuhhh, grove bruuuuuhhh",2,low_fb
+618,"elgin, calhoun, elgin high, fort calhoun, crowds issues",6,low_fb
+619,"st rita, rita, tom best, grandson chose, chose junior",1,low_fb
+620,"harrison, harrison great, north harrison, harrison high, blue tide",8,low_fb
+622,"absoultely loves, senior absoultely, competent happy, absoultely, loves teachers",4,low_fb
+624,"northwest, olathe northwest, love northwest, recommend northwest, olathe",9,low_fb
+625,"bolles, bodine, bolles year, rich brats, brats",13,low_fb
+626,"indian trail, trail, trails, indian, ct success",3,low_fb
+627,"mesa, mesa inclusive, murrieta son, mesa awesome, went mesa",2,low_fb
+628,"canterbury, luers, canterbury exit, interview used, canterbury wish",1,low_fb
+629,"experience md, md, good experience, experience, good",1,low_fb
+630,"oklahoma, oktaha, thing oklahoma, workers think, technology furniture",6,low_fb
+631,"ma, holliston, schools ma, sabis, statistics success",4,low_fb
+633,"xavier, xavier high, sons xavier, jrotc, say xavier",38,low_fb
+634,"princeton, school princeton, thrilled town, princeton growing, recruit world",4,low_fb
+635,"kent, kentlake, kent breath, current cross, west middlesex",5,low_fb
+636,"tma, tma lower, tma truly, developed want, tma say",4,low_fb
+637,"langley, poe, langley high, school langley, cliques",25,low_fb
+639,"pioneer, pioneer high, love pioneer, pioneer great, staff pioneer",5,low_fb
+640,"longwood, hazelwood, longwood granted, sees getting, stress overwhelmed",3,low_fb
+641,"bethal, learn bethal, remain achs, universities city, bethal smart",1,low_fb
+642,"lodi, loma, lodi high, lla, loma portal",6,low_fb
+643,"held door, attend tonight, verification facts, door slam, tours self",2,low_fb
+644,"springfield, involves, springfield high, drug problems, morale",4,low_fb
+645,"stanton, klein, klein oak, stanton stanton, staff stanton",6,low_fb
+649,"hamlin, attitude standards, hamlin high, collegiate new, forward integrating",2,low_fb
+650,"cherokee, cherokee trail, trail, cherokee high, idea fortunate",5,low_fb
+651,"dansville, future dansville, improved gives, dansville teachers, knowing buildings",1,low_fb
+652,"holmes, ms holmes, cut piece, names maximum, holmes fascinating",1,low_fb
+653,"knight, department knights, enjoys coaches, grader knight, bet beat",3,low_fb
+656,"louisburg, wicksburg, louisburg high, lewisburg, childersburg",8,low_fb
+659,"rvhs, choose rv, staff rvhs, rvhs 2013, shoes select",1,low_fb
+660,"lambert good, education actively, lambert, parents care, actively involved",1,low_fb
+661,"political, book written, political views, views, conservative",10,low_fb
+663,"gtch, base gtch, gtch great, gtch gave, university thankful",1,low_fb
+665,"taft, taft high, regulars, academic center, school taft",17,low_fb
+666,"parkway, omaha, parkway parkway, parkway center, center city",7,low_fb
+667,"rural, town rural, rural school, rural schools, ww",8,low_fb
+668,"accountable openly, useless consequences, discipline trinity, tests useless, trinity hs",1,low_fb
+669,"lds, mormon, mormons, isn mormon, mormon definitely",10,low_fb
+670,"iowa, nsm, country bumpkin, bumpkin, proud employment",3,low_fb
+672,"aiea, dont aiea, aiea improved, funding thats, smartest strongest",3,low_fb
+674,"columbus, columbus high, proud explorer, sincerely say, school columbus",8,low_fb
+675,"adventist, lla, sda, seventh day, sda believers",2,low_fb
+677,"dawson, louisiana amazing, councilors excellent, thought dawson, year councilors",2,low_fb
+678,"science department, science, department, conferences single, competitions extremely",6,low_fb
+679,"cathedral, cathedral school, cathedral catholic, believe cathedral, happy cathedral",13,low_fb
+680,"oftentimes loved, del junior, neighbors oftentimes, cen del, jac cen",1,low_fb
+682,"fulton, south fulton, fulton middle, langston hughes, langston",6,low_fb
+683,"carolina, said randleman, randleman high, carolina academics, requirements basic",5,low_fb
+685,"harding, ezell, ezell harding, love ezell, school ezell",14,low_fb
+686,"east henderson, hill eagles, henderson high, cares counselors, henderson",1,low_fb
+687,"favoritemake, favoritemake changes, reconstruction order, changes reconstruction, somewhat great",5,low_fb
+688,"robinson, bad don, robinson sooner, desks gym, fields completed",2,low_fb
+689,"laguna, laguna beach, beach, sports coaces, cakewalk successful",1,low_fb
+690,"florence, florence high, challenge transferred, receive florence, outcasts band",4,low_fb
+693,"lockers, really dumb, stuck underneath, lockers wouldn, driers bathroom",3,low_fb
+694,"poor, poor communication, poor academics, academics poor, poor leadership",7,low_fb
+695,"rigor fast, race abeka, equates rigor, curriculum page, fast race",1,low_fb
+696,"pg, georges county, georges, pg county, pghs",6,low_fb
+697,"pointe, north pointe, south pointe, north, south",7,low_fb
+698,"deaf, deaf children, deaf student, school deaf, hearing",10,low_fb
+700,"shore, chrome, shore regional, north shore, shore acres",6,low_fb
+701,"contenues improve, contenues, hope contenues, pierce city, ways gone",1,low_fb
+702,"caldwell, west caldwell, tell west, levi passed, warriors remember",3,low_fb
+704,"leading open, orleans graduation, asa leading, enrollment charter, college enrollment",1,low_fb
+707,"district, school district, love district, district good, provider outside",13,low_fb
+708,"japanese, ink students, inexperienced trying, paying paper, things customized",1,low_fb
+710,"high mom, needed expansion, graduated belaire, acceptable excelled, care understands",2,low_fb
+711,"southwest, southwestern, southwest love, southwestern academy, purdue",11,low_fb
+712,"kindergarten 12th, happy parent, parent kids, attended kindergarten, 12th grade",1,low_fb
+713,"basis smaller, experience silver, succeed note, silver valley, curriculum admit",1,low_fb
+714,"swenson, graduate swenson, teachers swenson, transfer swd, swh great",3,low_fb
+716,"food, fr, paper toilet, rtomorow boys, say rtomorow",5,low_fb
+717,"del lago, lago, vista del, vista, lago hs",1,low_fb
+718,"dominic, st dominic, dominic school, st, carrying backpack",8,low_fb
+720,"indiana, indianapolis, indy, herron, experience indy",5,low_fb
+721,"acton, ranking acton, acton number, fifth lowest, year forbes",1,low_fb
+722,"butler, like butler, butler high, butler okay, butler feel",1,low_fb
+725,"dame definitely, peoria notre, peoria, definitely best, notre dame",1,low_fb
+726,"fremont, fremont great, fremont high, student fremont, north fremont",6,low_fb
+727,"johns high, st johns, johns, ups seen, experience ups",2,low_fb
+728,"fairmont, zachery kinney, bing principals, commissioner cable, great marvin",1,low_fb
+729,"la salle, salle, la, salle institute, graduated la",42,low_fb
+730,"westlake, westlake high, school westlake, westlake offers, magnet program",12,low_fb
+732,"boarding, baylor, boarding school, mccallie gps, mccallie",13,low_fb
+734,"chandler, opprotunties, chandler park, act thats, alot adult",3,low_fb
+735,"fights, alright drama, rouse amazing, free 15, fights 2011",5,low_fb
+736,"coloma, colfax, coloma high, fantastic agricultural, society membership",4,low_fb
+737,"lunch really, killing slowly, menu giving, students sodas, cheeseburger ff",1,low_fb
+739,"hsc, hsc offers, hsa, new haven, maternity leave",3,low_fb
+740,"lebanon, new lebanon, arts pushed, fortunate educators, alleviated loved",1,low_fb
+742,"clover, cloverdale, clover park, cloverdale high, daizha",3,low_fb
+744,"clay battelle, battelle, battelle 2010, battelle forth, clay",1,low_fb
+746,"agnes, st agnes, saint agnes, st, agnes school",10,low_fb
+747,"humans academics, eyes responsible, original unique, style original, citizens thoughtful",2,low_fb
+748,"twin homeschool, school twin, twin, homeschool, hate school",1,low_fb
+749,"fairfax, fairfax county, fairfax high, county, mr thomas",8,low_fb
+751,"harborside, harbor, harborside academy, harbour, harborside harborside",15,low_fb
+752,"falcon, falcons, briar woods, briar, fight fight",5,low_fb
+754,"cross high, cross, benedict claflin, courteous academically, violence graduates",2,low_fb
+755,"terra, terra vista, terraset, terra great, nerd",25,low_fb
+756,"love bps, moved bennington, bennington school, bennington, ago rated",1,low_fb
+758,"seminole, seminole ridge, biotechnology, wont happen, seminole high",6,low_fb
+761,"jesuit, jesuit high, men, jhs, arrupe",50,low_fb
+762,"galway, dublin, chose galway, galway boys, balance improvements",4,low_fb
+765,"csas, csat, csa, tyner, seminar classes",7,low_fb
+766,"cottonwood, try hareder, cottonwood ok, hareder, hareder like",2,low_fb
+767,"graham, graham school, love graham, school graham, internships",5,low_fb
+769,"sbhs, rumors, sbms, sba, sbaam",4,low_fb
+770,"chapel hill, chapel, town forrest, caring chapel, help entice",2,low_fb
+774,"waco, wae, expensive lie, stundents school, west waco",2,low_fb
+775,"504, 504 plan, plan 504, plan, plan copper",3,low_fb
+776,"kerr, hammond, hammond high, college really, textbooks",5,low_fb
+777,"colorado, denver, ag teacher, school colorado, ag",8,low_fb
+779,"hillgrove, woodgrove, woodgrove great, hillgrove couldn, walgrove",5,low_fb
+782,"cortez, glendale, cortez takes, raises ranked, need cortez",1,low_fb
+783,"skyline, skyline high, school skyline, attended skyline, skyline students",15,low_fb
+784,"davidson, dfa, south delta, davidson day, delta",5,low_fb
+785,"hudson, hudson high, hudson school, hudson city, incredibly informative",4,low_fb
+787,"nda, ndcl, nda excellent, nda coming, nda ready",4,low_fb
+788,"apperact, attending parkers, eldorado great, avail things, succeed apperact",2,low_fb
+789,"reed good, mr reed, safe work, reed, keeping school",1,low_fb
+792,"milwaukee, school milwaukee, lead 30, surpasses milwaukee, segregated directly",3,low_fb
+793,"barnabas, daughter barnabas, inspire enlighten, far curricula, nurting accepting",2,low_fb
+794,"hopkins, dealt western, shock worst, scholarship hopkins, lecture reason",2,low_fb
+795,"windsor, windsor great, windsor forest, windsor high, macon",6,low_fb
+798,"fletcher, punch day, feels opting, student investment, classrooms transcripts",1,low_fb
+799,"monte vista, monte, vista, profanity company, provide apply",2,low_fb
+800,"pasadena, severna, severna park, pool albeit, cheated friends",4,low_fb
+801,"walton, walton high, wv, walton wonderful, drugs disrupt",6,low_fb
+802,"memorial, memorial pulled, buildings heart, don flunk, memorial son",3,low_fb
+804,"doesn platy, platy, platy sports, alexandria great, play type",1,low_fb
+805,"sherwood, talented potential, circle sherwood, 1980s experience, achievements doesn",1,low_fb
+806,"bsa, bshs, bsa definitely, bshs great, bsa students",6,low_fb
+807,"accessible rare, wins great, science auto, carpentry administration, careers agriculture",1,low_fb
+808,"doral, doral academy, performing arts, dora, scholars program",4,low_fb
+809,"favoritism, favoritism students, extreme favoritism, ramsey, related names",11,low_fb
+810,"woodstock, woodstock north, conserve, academy woodstock, teaching woodstock",3,low_fb
+811,"russell, russell high, graduated russell, teach advice, inspired feel",2,low_fb
+812,"kml, kms, number possibilities, brought instructed, individual outcome",2,low_fb
+813,"school reconstruction, moment building, reconstruction moment, positive school, turning old",2,low_fb
+814,"leo, st leo, leo great, administer act, academically leo",2,low_fb
+815,"memphis, whitehaven, mase, whitehaven high, school memphis",12,low_fb
+817,"recommend lyndhurst, compassionate humble, humble students, lyndhurst, wish improve",2,low_fb
+819,"experiences chalk, don comparisons, comparisons match, abacus don, chalk abacus",3,low_fb
+820,"bellarmine, bellarmine prep, jesuit tradition, excellent bellarmine, business unfortunately",2,low_fb
+821,"armstrong, attending armstrong, affiliation armstrong, temper think, pressure gang",4,low_fb
+824,"murphy, ramsay, king murphy, warm wlecome, happens offer",3,low_fb
+827,"winter high, intentionally spend, everyday intentionally, winter schools, love winter",1,low_fb
+831,"rb, impact rb, holder lucky, throw viks, partners collective",1,low_fb
+832,"aos, aot, sophomore regret, aos graduates, aot compared",3,low_fb
+833,"year woodson, woodson loves, respectful available, available learned, learned grades",1,low_fb
+834,"bi communication, responsiveness parental, lack responsiveness, concerns recommend, issues lack",1,low_fb
+835,"murray, hill murray, hill, home hill, murray high",10,low_fb
+836,"work cougars, excelling think, principle big, improvements student, difference communication",1,low_fb
+839,"macarthur, jobs maintain, macarthur hs, contacts classmates, definitely enforced",1,low_fb
+840,"travis, rebel, rancho high, rio rancho, like different",5,low_fb
+841,"belmont, belmont schools, great belmont, hardest able, wrong applying",4,low_fb
+842,"dekalb, dekalb county, school dekalb, county, cedar grove",7,low_fb
+843,"st john, john, john baptist, john parent, baptist",2,low_fb
+846,"warren, warren great, south warren, warrensville, north warren",14,low_fb
+847,"fort, fort leboeuf, leboeuf, leboeuf high, fortis",11,low_fb
+848,"hickory, hickory ridge, ragin bull, blast hickory, hrhs ragin",2,low_fb
+849,"enrollment classes, ascs dual, love ascs, wonderful preparing, dual enrollment",1,low_fb
+850,"ta, tahanto, tattnall, tattnall wonderful, love tattnall",11,low_fb
+851,"fox, bismarck concerned, better meets, lot excepting, beliefs bible",1,low_fb
+852,"cox, cox high, school cox, children cox, cox provided",6,low_fb
+853,"utah, schools utah, cedar high, herriman, bingham",5,low_fb
+855,"turner, greenburgh, greenburgh central, turner tech, turner kindergarten",7,low_fb
+857,"patterson, archer, think patterson, experience archer, theimselves",5,low_fb
+858,"lhs, lhs great, lhs amazing, years lhs, incredible music",11,low_fb
+859,"school recommend, recommend, great school, great, recommend school",1,low_fb
+860,"awhs, evans, wears learn, sea disc, williams inclusive",2,low_fb
+861,"lansing, school lansing, lansing catholic, lansing christian, lansing high",6,low_fb
+863,"ylhs absolutely, attend ylhs, ylhs, happy asked, administrators willing",1,low_fb
+865,"reagan, reagan early, reagan great, students reagan, reagan high",21,low_fb
+866,"whitman, zeta, whitman great, walt whitman, walt",7,low_fb
+869,"mcnair, offers mentors, dually enroll, students dually, erhs offers",1,low_fb
+870,"stayed miss, excellent taught, miss greatly, wish stayed, time excellent",2,low_fb
+871,"gilmer, gilmer high, shelton, gilmer texas, christopher shelton",1,low_fb
+872,"block taking, needs boycot, boycot, boycot nursing, block needs",1,low_fb
+873,"sparta, spartans, sparta high, spartan, spartans school",25,low_fb
+874,"richland, suitland, suitland offers, wheaton high, ve improved",6,low_fb
+876,"dropout, factory currently, definietly balence, accredation, accredation wary",1,low_fb
+877,"midland, raise family, children midland, midland high, graduated midland",3,low_fb
+878,"ohs, bsch, attended ohs, oha, state football",9,low_fb
+880,"harlem, harlem high, columbia schools, negatively youngest, sizes negatively",2,low_fb
+881,"hutto, love hutto, hutto great, hutto high, like hutto",2,low_fb
+882,"bowdon, emisd pioneer, bowdon tradition, bowdon prepared, schools emisd",3,low_fb
+883,"bernard, st bernard, bernard high, networking tools, world rave",3,low_fb
+884,"apollo, bowman, makes sure, apollo high, owensboro apollo",2,low_fb
+885,"dallas, north dallas, dallas isd, dallas stability, unit uptown",2,low_fb
+886,"philadelphia, school philadelphia, philadelphia school, masterman, best philadelphia",13,low_fb
+887,"landmark, landmark high, landmark great, landmark academy, year landmark",4,low_fb
+890,"harvard, duke university, fed years, dc big, harvard didn",5,low_fb
+891,"valle, dvhs, del valle, del, dvhs does",4,low_fb
+892,"ncs, christian, northwest christian, nccs, nampa",14,low_fb
+894,"jones, john jones, jones high, school jones, jones great",12,low_fb
+895,"freshman2013, student 96, somebody freshman2013, 96 love, freshman2013 14",3,low_fb
+896,"morris, morristown, morris knolls, knolls, dp morris",7,low_fb
+897,"mlk, dr mlk, ml, don apply, mlhs",7,low_fb
+903,"lasalle, lasalle ii, serena, ii, attended lasalle",3,low_fb
+904,"westfield, experience westfield, westfield school, recommend westfield, westfield great",5,low_fb
+905,"san antonio, antonio, san, school san, nerd",7,low_fb
+906,"viking, raines, vikings, dixon, ichibon",5,low_fb
+910,"knox, knox central, classes wide, wide selection, insecure encountered",1,low_fb
+912,"andrews, far andrews, truth andrews, ahs preparation, andrews unacceptable",2,low_fb
+913,"da vinci, vinci, stop merger, merger, da",1,low_fb
+914,"started amazing, home started, love home, good children, amazing experience",2,low_fb
+915,"beaver, adjustment newcomers, motivated rich, respect occasionally, occasionally disruptions",2,low_fb
+917,"calabash, calabasas, ____ ____, ____, calabasas high",3,low_fb
+918,"meridian, meridian district, plays standing, offer daytime, astounding husband",2,low_fb
+920,"aurora, axtell, worthy graduates, pride longhorns, came extras",3,low_fb
+921,"fra, fracile head, left taken, discipline confrontations, education cultured",2,low_fb
+922,"cardinal, gibbons, cardinal gibbons, amish, cardinals",11,low_fb
+923,"resurrection, cavaiani, pivate schools, want resurrection, gal works",4,low_fb
+924,"think trevor, browne good, rumors told, told filled, trevor browne",1,low_fb
+925,"fishers, fisher, fhs, fishers high, fishers great",11,low_fb
+926,"fort dale, greenville, dale, fort, education fort",2,low_fb
+927,"nhs, nanuet, attend nhs, student nhs, referendum",13,low_fb
+932,"choice bolles, bolles best, best decision, best 10, bolles",3,low_fb
+933,"genesis, genesis run, process mastered, genesis separate, coed program",1,low_fb
+934,"best cte, wills point, wills, cte programs, point high",1,low_fb
+937,"elkins, elkmont, elkhorn, elkins high, elkins school",7,low_fb
+938,"ns, staff ns, supports improve, sophomore santa, huge rate",2,low_fb
+940,"fcat, fcat scores, unfortuately born, effort unfortuately, fcat times",2,low_fb
+941,"unity, robust native, woodshop business, curriculum promoted, economics woodshop",1,low_fb
+942,"finest need, purely chs, palmettos finest, palmettos, community purely",1,low_fb
+943,"maclay, maclay middle, attended maclay, tell maclay, macfarland",4,low_fb
+944,"truman, truman does, truman years, overall truman, favorites filthy",3,low_fb
+945,"topeka, topeka west, collegiate, west best, topeka collegiate",3,low_fb
+946,"attend positive, daughters attend, positive experience, daughters, positive",1,low_fb
+947,"milford, milford academy, milford elementary, attending milford, better milford",14,low_fb
+948,"homestead senior, homestead, student homestead, jop homestead, good jop",1,low_fb
+950,"bellevue, school bellevue, bellevue east, bellevue public, bellevue school",6,low_fb
+-1,"high school, high, college, classes, students",21850,high_fb
+0,"bullying, bullied, bully, bullies, told",720,high_fb
+1,"great teachers, staff, care students, great staff, excellent",520,high_fb
+2,"christian, religion, christian school, religious, bible",57,high_fb
+3,"bvnw, msl, montessori, level acceptance, montello",6,high_fb
+4,"great school, excellent school, school great, great, great teachers",421,high_fb
+5,"pta, pths, pto, pt, spoto",55,high_fb
+6,"middle school, middle, mountain grove, ryan, high school",65,high_fb
+7,"spanish, language, english, immersion, spanish river",118,high_fb
+8,"worst school, worst, horrible, terrible, terrible school",478,high_fb
+9,"band, music, arts, music program, band program",559,high_fb
+10,"10, 10 10, rate, school 10, rate school",333,high_fb
+11,"charter, charter school, charter schools, apex, charter tech",46,high_fb
+12,"involved sports, transition albemarle, lpp preschool, continued fountain, sports aviation",7,high_fb
+13,"tech, parkland, ee smith, son, reynolds",41,high_fb
+14,"reviews, review, negative, negative reviews, posted",147,high_fb
+15,"principal, superintendent, assistant, new principal, leadership",121,high_fb
+16,"white, racism, black, racist, color",344,high_fb
+17,"love school, love, school love, graduated loved, kids love",74,high_fb
+18,"special, special needs, special education, disability, disabilities",157,high_fb
+19,"scores, test, test scores, tests, score",123,high_fb
+20,"catholic, catholic school, catholic schools, catholic high, demands players",20,high_fb
+21,"principal, principal great, scoka, principal staff, students principal",51,high_fb
+22,"cchs, cca, ccs, graduated cchs, ccsd",40,high_fb
+23,"dress, dress code, code, wear, uniforms",212,high_fb
+24,"gifted, gifted program, gifted students, bvn, gifted kids",52,high_fb
+25,"ib, ib program, program, baccalaureate, international baccalaureate",538,high_fb
+26,"ap, ap classes, honors, courses, classes",669,high_fb
+27,"iep, child iep, ieps, special, ed",106,high_fb
+28,"rating, ratings, rated, 10, greatschools",151,high_fb
+29,"special, special needs, special education, special ed, ed",63,high_fb
+30,"memories, graduated, loved, miss, remember",160,high_fb
+31,"catholic, kellenberg, powers, catholic school, nwc",24,high_fb
+32,"oak, oak park, oak high, red oak, oakmont",48,high_fb
+33,"que, la, en, escuela, los",36,high_fb
+34,"coach, football, coaches, players, sports",452,high_fb
+35,"covid, pandemic, mask, covid 19, masks",66,high_fb
+36,"creek, creek high, sandy creek, sandy, battery creek",58,high_fb
+37,"small, sizes, size, class sizes, small class",25,high_fb
+38,"stars, star, school stars, star school, school star",57,high_fb
+39,"military, military family, school military, military families, rotc",103,high_fb
+40,"neosho, bellow average, pshs, bellow, neosho school",3,high_fb
+41,"st mary, mary, marys, mary small, st",6,high_fb
+42,"lake, lakewood, lakeview, lakes, lakeshore",95,high_fb
+44,"khs, kr, khhs, mooreville, fkhs",25,high_fb
+45,"west, western, westside, west high, westview",150,high_fb
+46,"adhd, child adhd, son adhd, 504 plan, 504",31,high_fb
+47,"tamarac small, tamarac, school send, send kids, small school",1,high_fb
+48,"parking, bus, traffic, parking lot, drop",44,high_fb
+49,"oly, olathe, ogallala, tumwater, oly great",8,high_fb
+50,"magnet, magnet program, magnet school, magnet programs, magnets",107,high_fb
+51,"send, send kids, horrible, don send, send child",47,high_fb
+52,"terrible, worst, horrible, awful, years life",93,high_fb
+53,"turnover, administration, leadership, poor, teacher turnover",65,high_fb
+54,"paul, st paul, pembroke, pembroke academy, highland",2,high_fb
+55,"send, send child, child school, recommend sending, don send",64,high_fb
+56,"office, rude, office staff, staff rude, desk",36,high_fb
+57,"valley, valley view, valley high, valley school, sun valley",75,high_fb
+58,"shen, mandarin, chinese, mingus, chino",23,high_fb
+59,"french, mess schedules, bolsa, paris, french teacher",8,high_fb
+60,"prep, college prep, preparatory, college, college preparatory",34,high_fb
+61,"autism, autistic, autism spectrum, spectrum, children autism",20,high_fb
+62,"sports, athletic, great sports, athletics, sports program",216,high_fb
+63,"mrs, inside respectful, help compliments, tough helped, doiny",10,high_fb
+64,"st joe, sjci, joseph, fewer, joe",5,high_fb
+65,"richfield, fields brilliant, administrator single, proud richfield, satisfied civilian",6,high_fb
+66,"whs, whittier, wshs, whhs, wfbhs",70,high_fb
+67,"simple live, level simple, aloud hesitation, hesitation definitely, yrs saw",3,high_fb
+68,"trinity, trinity school, holy trinity, team spirit, graduates ivies",9,high_fb
+69,"lincoln, lincoln high, lincoln school, lincoln elementary, school lincoln",63,high_fb
+70,"park, parkview, park view, college park, parkland",25,high_fb
+71,"jewish, branches years, counseling dep, grown branches, dep friendly",3,high_fb
+72,"florida, jacksonville, tampa, state florida, fl",46,high_fb
+73,"stem, stem program, stem academy, stem school, ball high",54,high_fb
+74,"arizona, tucson, phoenix, ironwood, az",38,high_fb
+75,"sjhs, sjc, sja, sj, sjs",20,high_fb
+76,"ghs, gchs, gcs, gw, ghs great",112,high_fb
+77,"lutheran, wisconsin lutheran, wisconsin, lutheran high, lutheran school",11,high_fb
+78,"green, green run, greenbrier, green hope, run high",25,high_fb
+79,"york, yorktown, nyc, westchester, new albany",65,high_fb
+80,"private school, private, solon, solon students, north andover",18,high_fb
+81,"need wanna, destroyed sports, plus deserve, individually development, fancying",26,high_fb
+82,"grace king, grace, king, king class, freshman grace",5,high_fb
+83,"bathrooms, bathroom, restroom, roaches, disgusting",82,high_fb
+84,"ridge, ridgeview, fossil, fossil ridge, ridgeway",20,high_fb
+85,"wchs, wca, wc east, wcasd, wcs",19,high_fb
+86,"lchs, lca, lc, lcs, lcc",20,high_fb
+87,"northglenn high, northglenn, thank, shannon mauro, mauro",9,high_fb
+88,"homework, sleep, hours, night, hw",32,high_fb
+89,"hhs, hths, hf, hhs really, hhs good",54,high_fb
+91,"arab, arab high, islamic, arab school, damascus",9,high_fb
+92,"principle, new principle, vice principles, north springs, principles",11,high_fb
+93,"river, james river, riverview, indian river, james",21,high_fb
+94,"bhs, bms, bhs great, love bhs, bhhs",101,high_fb
+95,"mountain, mountain view, shadow mountain, shadow, view",44,high_fb
+96,"mchs, mcdevitt, mcs, mcminn, mckean",40,high_fb
+97,"summit, summit high, summit school, everest, school summit",19,high_fb
+98,"food, lunch, heavenly wings, lunches, culinary",34,high_fb
+99,"south, south lake, southridge, south high, southside",113,high_fb
+100,"highland, highlands, highland park, highland high, school highland",34,high_fb
+101,"college, honors, classes, ap, senior",88,high_fb
+102,"achs, achs great, aca, lake county, acs",8,high_fb
+103,"donation emails, going donation, great feed, needs information, important announcements",1,high_fb
+104,"monacan, academy, enforcement academy, excelent variety, sophmore math",12,high_fb
+105,"franklin, franklin high, franklin great, franklin academy, fhs",43,high_fb
+106,"echs, ec, ecs, experience echs, eca",25,high_fb
+107,"scsd, scpa, scs, sca, schools appreciating",7,high_fb
+108,"bca, bchs, bcs, bcc, bcsc",21,high_fb
+109,"experience good, good experience, experience, amazing definitely, experience overall",28,high_fb
+110,"oviedo, occhs, occhs great, oviedo high, ocs",9,high_fb
+111,"st john, john, saint john, verbatim organized, prowess car",4,high_fb
+112,"pchs, pca, pcn, pcti, pc",9,high_fb
+113,"cms, cmw, hk, cmcs, cm",9,high_fb
+114,"north, northside, northview, northridge, north high",93,high_fb
+115,"hchs, hca, orienteering, njrotc orienteering, orienteering team",7,high_fb
+116,"georgia, atlanta, ga, north atlanta, glynn academy",59,high_fb
+117,"best school, best, school best, bestest, hs best",26,high_fb
+118,"drugs, drug, drug problem, drug use, drugs school",186,high_fb
+119,"jefferson, jefferson high, thomas jefferson, recommend jefferson, jefferson schools",18,high_fb
+120,"liberty, liberty high, liberty middle, school liberty, love liberty",32,high_fb
+121,"beautiful handsome, sacred, sacred heart, handsome, player valedictorian",1,high_fb
+122,"madison, olympia, huntsville, madison schools, madison high",58,high_fb
+123,"heritage, coconino, coconino high, american heritage, heritage high",21,high_fb
+124,"dr richard, new principal, richard, dr, new",22,high_fb
+125,"occurrence parent, constant occurrence, petersburg high, fights constant, st petersburg",1,high_fb
+126,"tchs, tcs, tca, tcchs, tc",19,high_fb
+127,"county, mbk, farmington, school county, alleghany",29,high_fb
+129,"vista, monta vista, monta, vista high, greatschool",9,high_fb
+130,"lm, lrhs, lms, fair consistent, theaters art",11,high_fb
+131,"nc, nchs, ncs, nca, nccs",18,high_fb
+132,"jhs, jlhs, jmhs, jlaw, jm",30,high_fb
+133,"canyon, north canyon, copper, canyon high, started ib",16,high_fb
+134,"washington, washington high, booker washington, washington great, booker",14,high_fb
+135,"la, laguardia, los, los altos, altos",36,high_fb
+136,"east, eastern, eastside, east high, east great",77,high_fb
+137,"st francis, francis, think st, francis life, thought clicks",2,high_fb
+138,"smhs, sm, sma, sme, aaple",24,high_fb
+139,"ipads, ipad, chromebooks, chromebook, technology",23,high_fb
+140,"dyslexia, dyslexic, stuttering, symptoms, diagnosed",7,high_fb
+141,"wilson, woodrow, wilson high, school wilson, tahoe",36,high_fb
+142,"problems, problems school, haven problems, complaints, triton",26,high_fb
+143,"avondale, riverdale, woodford county, hillsdale, woodford",32,high_fb
+144,"experience school, experience, great experience, good experience, pretty experience",33,high_fb
+145,"eagle, eagles, bird, eagle high, eagle rock",19,high_fb
+147,"mvhs, mvhs pretty, nlhs, mvhs years, mvca",9,high_fb
+148,"long damage, day dignity, prepares launch, excellent camas, inflict life",8,high_fb
+149,"brookwood, brookfield, brook, clear brook, brookfield high",15,high_fb
+150,"king, kingsway, school kingsford, kings, kingsford high",9,high_fb
+152,"thomas dale, dale, thomas, engaged choose, choose thomas",2,high_fb
+153,"fchs, fc, fca, fcs, fc really",11,high_fb
+155,"mcas, mca, mcas good, good mcas, mcauliffe",7,high_fb
+157,"ocean, ocean view, view, bayshore, seas",27,high_fb
+158,"school awesome, clarkstown north, clarkstown, fun, school fun",25,high_fb
+159,"hawaii, chiawana, pahoa, best public, misconduct",8,high_fb
+160,"california, ca, schools california, cal, quality coaches",29,high_fb
+161,"average, school average, average school, average high, average average",35,high_fb
+162,"bay, bay high, city central, bay city, moon bay",31,high_fb
+163,"blue ribbon, ribbon, blue, ribbon school, national blue",12,high_fb
+164,"mshs, msa, mshs excellent, mshs great, msl",11,high_fb
+165,"german, germantown, germantown schools, german teacher, goethe",16,high_fb
+166,"hate school, hate, hated, absolutely hated, hated school",39,high_fb
+167,"disappointed, disappointed school, incapable enforcing, student damned, difficult counseling",13,high_fb
+168,"high school, high, haltom, sandwich high, haltom high",101,high_fb
+169,"leadership, staff terrible, poor, administration, happening adding",31,high_fb
+170,"kisd, kipp, record second, belton copperas, screwed aren",2,high_fb
+171,"meadowcreek, meadowbrook, meadowcreek high, meadow, mbk",15,high_fb
+172,"roosevelt, roosevelt high, school roosevelt, roosevelt school, rhs",26,high_fb
+173,"int best, games pick, beter child, orleans saints, really beter",1,high_fb
+174,"providence, providence great, phs, school providence, honors college",13,high_fb
+175,"vegas, nevada, las vegas, las, reno",30,high_fb
+176,"yr direct, way sshs, watts wonderful, tops regents, sshs tops",11,high_fb
+177,"escambia, escambia high, esl, ese, esl program",14,high_fb
+178,"glen, village glen, sidney, glenwood, glenbard",21,high_fb
+179,"dchs, dc, pathetic excuse, dca, dcs",8,high_fb
+180,"math, math teachers, math program, perspective school, strong math",12,high_fb
+181,"counselors, counselor, counseling, counselors helpful, guidance",92,high_fb
+182,"evergreen, evhs, evergreen valley, valley high, school evergreen",12,high_fb
+183,"pine view, pine, piner, view, view high",9,high_fb
+184,"rchs, college peers, rchs good, teenage births, institutions surprised",4,high_fb
+185,"fairhope, fairhope high, norton, fairhope year, operate truly",2,high_fb
+186,"bridge, great bridge, bridges, rock bridge, newer schools",6,high_fb
+187,"safe, safe school, school safe, clean, feel safe",19,high_fb
+188,"miami, dade, miami dade, dade county, school miami",28,high_fb
+189,"jersey, nj, new jersey, brunswick, newark",60,high_fb
+190,"best school, really really, school best, best, lancer",31,high_fb
+191,"pius, xi, pius xi, st pius, riverwood",5,high_fb
+192,"glace little, edges compassion, school glace, cyprus high, hearts games",1,high_fb
+193,"substitute, substitute teacher, substitute teachers, sub, subs",22,high_fb
+194,"edison, edison high, edison great, look edison, graduated edison",15,high_fb
+195,"improvement, room improvement, school improved, improved, improve",32,high_fb
+196,"ivy, ivy league, league, league schools, league school",43,high_fb
+197,"lgbtq, homophobia, trans, transgender, lgbt",27,high_fb
+198,"scholarship courses, stce awesome, ranking don, able partial, offer did",1,high_fb
+199,"place learn, great place, community mahopac, mahopac lovely, record rates",6,high_fb
+200,"cehs, reflection rigorous, aims reflection, added feather, cap excellent",2,high_fb
+202,"cambridge, cambridge program, ghs, ghs cambridge, school cambridge",19,high_fb
+203,"notre dame, notre, dame, reason invested, product process",3,high_fb
+204,"lived nebraska, kids heredw, heredw, going lived, nebraska kids",7,high_fb
+206,"honor, honor roll, roll, concentrators, daughter honor",10,high_fb
+207,"woodland, woodland park, indicates woodland, including heroine, alright mediocre",2,high_fb
+208,"horizon, horizon high, new horizon, echo, superfluous high",6,high_fb
+209,"central, central high, central elementary, central school, school central",39,high_fb
+210,"hamilton, hamilton high, craigmont, alexander, school hamilton",17,high_fb
+211,"cedar, cedar ridge, cedar hill, ridge, cedarwood",6,high_fb
+213,"pv, pvhs, pves, pve, pva",31,high_fb
+215,"quandale dingle, quandale, dingle quandale, dingle, ok ok",32,high_fb
+216,"rock, sandalwood, flat rock, rocklin, rockland",9,high_fb
+217,"woodside, forest, forest hills, families communicates, wisely bring",5,high_fb
+218,"foard, fpc, fsa, fshs cares, sports socializing",8,high_fb
+219,"westminster, pardes, westminster school, student westminster, norton",17,high_fb
+220,"aahs, aahs great, true kadets, attending aacc, dont doors",6,high_fb
+221,"hispanic, hispanics, city port, latino, port arthur",13,high_fb
+222,"clovis, clovis west, clackamas, clc, cls",8,high_fb
+224,"smith, ee smith, ee, smith high, thou",8,high_fb
+225,"james hs, important attends, st james, attends extra, county start",1,high_fb
+226,"carver, carver high, school carver, carver culture, simulation",7,high_fb
+227,"ratio, student teacher, teacher ratio, teacher student, student ratio",13,high_fb
+228,"mckinley, presence public, stunning girls, mckinley rarely, junior mckinley",2,high_fb
+229,"chaparral, chap, cha, chapin, chaparral high",11,high_fb
+230,"crestwood, crestview, crestview high, coach gibson, gibson coach",11,high_fb
+231,"fairview, fairhope, bayside academy, fairhope high, boulder",7,high_fb
+232,"numerous lunches, forced available, impossible huge, bk geared, geared athletes",1,high_fb
+233,"salem, salem high, school salem, salem great, attending salem",12,high_fb
+234,"san, diego, san diego, school san, san mateo",30,high_fb
+236,"vmhs, vhhs teachers, vhhs, vmhs im, graduated vmhs",3,high_fb
+237,"desert, desert vista, high desert, dv, attend desert",11,high_fb
+238,"mps, mpa, courses neighborhood, breakers enviroment, truly mising",4,high_fb
+239,"small town, town, town school, small, small school",13,high_fb
+240,"cphs, ram ram, cp, cps, ram",10,high_fb
+241,"stars, stars stars, star, star stars, zero stars",25,high_fb
+242,"poor, lower dauphin, bangor high, extremely poor, dauphin",14,high_fb
+243,"willowbrook, willow, krause rest, willowbrook experience, listen course",4,high_fb
+245,"gateway, gateway school, say gateway, gateway elementary, conneaut",8,high_fb
+246,"mmhs, mms, mmhs teachers, mash, learning levels",4,high_fb
+247,"hillcrest, hillcrest high, penncrest, hillcrest amazing, skycrest",16,high_fb
+248,"cj, classical, classical academy, bu curry, meixner",4,high_fb
+249,"pinecrest, oakcrest, spirit section, woodcrest, best spirit",10,high_fb
+251,"kennedy, jfk, kennedy high, john kennedy, jfk high",27,high_fb
+252,"davis, davis high, ben davis, lee davis, ben",18,high_fb
+253,"bishop, bishop kelley, kelley, mcdevitt, bishop mcdevitt",8,high_fb
+254,"laurel, laurel high, rigors undergraduate, repair education, abilities advantage",4,high_fb
+255,"overhills, children rim, rim, love overhills, grads good",2,high_fb
+256,"ranch, augusta, ranchview, scripps ranch, ranch high",8,high_fb
+257,"sss, sss students, repairs love, ssisd experience, attending sss",2,high_fb
+258,"hillside, hillside high, hilltop, durham, recommend hillside",11,high_fb
+259,"riverside, engineering, riverside great, school riverside, engineering program",18,high_fb
+260,"athens, athens high, athens drive, plato, greek",27,high_fb
+262,"wellbeing doing, cohs spirited, cohs, spirited school, students wellbeing",1,high_fb
+264,"carden, vinci law, dominantly law, interested fully, socially club",1,high_fb
+266,"pe, pes, ups wanted, rapids secondary, time og",4,high_fb
+267,"lawrence, lawrence high, st lawrence, laurence, lawrence school",14,high_fb
+268,"alhambra, algonquin, aloha, alverno, alum",11,high_fb
+269,"student ulysses, ulysses program, ulysses, helps college, program challenges",1,high_fb
+270,"monticello, monticello high, montclair, school monticello, montclair high",18,high_fb
+272,"streator high, streator, stranahan, stranahan pretty, say stranahan",5,high_fb
+273,"secret opinion, curricula small, bruton great, sport extra, bruton",1,high_fb
+274,"hopewell, hope, teachers hopewell, hopewell doing, hopewell prepared",11,high_fb
+275,"yassss, yassss yassss, school yassss, great overal, aweome school",10,high_fb
+276,"smsd, sms, children smsd, ir son, negitave jr",2,high_fb
+277,"cdm, cds, cdmhs thankfully, covering cheating, parties additionally",2,high_fb
+278,"sfisd, sfhs, attends sfhs, sf, program bright",6,high_fb
+279,"pros, cons, pro, pros school, pros great",14,high_fb
+280,"clark, lewis, lewisville high, lewisville, clark high",21,high_fb
+281,"jackson, jackson center, gj, ld classes, jackson county",11,high_fb
+282,"somerset, taunton, taunton high, miramar, somerset academy",5,high_fb
+285,"mount, tabor, mount si, si, mta",10,high_fb
+287,"teachers rude, rude, rude teachers, kids rude, absolute disgrace",13,high_fb
+289,"veritas, eroding, variables, figure eroding, cases transportation",1,high_fb
+290,"dphs, llw great, guard arrives, average hurts, catch acclimated",7,high_fb
+292,"tennessee, marion, nashville, tn, knoxville",20,high_fb
+294,"palm, royal palm, royal, palm beach, armos",4,high_fb
+295,"anderson, anderson high, recommend anderson, neighborhoods feed, anderson school",8,high_fb
+296,"state meade, meade facility, time mead, mead hs, solution issues",1,high_fb
+297,"tennent, villa, william tennent, things tennents, close 150k",1,high_fb
+298,"garden, gardens, gardena, garden city, hired tenure",6,high_fb
+299,"teresa, job forging, charging dollar, statements sths, merit statements",1,high_fb
+300,"vchs, vcs, vca, efficiently resolve, displaying administrations",2,high_fb
+301,"jchs, jcs, jcs inspired, classes president, advantage located",4,high_fb
+302,"lee, lee high, robert lee, experience lee, leesville",17,high_fb
+303,"grant, grant high, classes grant, attended grant, graduating grant",10,high_fb
+304,"harmony, fun cliques, 1963 proud, love leland, harmony 1963",2,high_fb
+305,"recommend baker, baker high, rude environment, impressed went, changed staff",1,high_fb
+306,"legacy, legacy great, legacy high, vintage, problems legacy",12,high_fb
+307,"houston, sam, sam houston, houston high, school houston",28,high_fb
+308,"freedom, freedom high, freedom academy, coming freedom, freedom excellent",13,high_fb
+309,"cshs, ql program, attended qo, spirit follows, pour thier",2,high_fb
+310,"heights wouldn, just rise, time heights, harker heights, friendly sports",1,high_fb
+311,"lakeside, lakeside high, school lakeside, dekalb, lakeside great",17,high_fb
+312,"st martin, martin, shows double, needed appease, stephens high",2,high_fb
+313,"westwood, westwood great, westwood high, westwood westwood, ut",14,high_fb
+314,"scholarships, scholarship, graduated, college, daughter graduated",53,high_fb
+315,"croatan, crn, crhs, cr, hard just",7,high_fb
+316,"cross remove, afford holy, wish afford, holy cross, remove child",1,high_fb
+317,"feel saguaro, saguaro, sahs, exactly invest, sahs offers",3,high_fb
+318,"holy trinity, trinity, holy, trinity high, theater department",4,high_fb
+319,"mcc, lol lol, ckm, lol, hisp",4,high_fb
+320,"pottstown senior, support admitted, neighborhood school, spend incredible, neighborhood faculty",4,high_fb
+321,"manchester, yorkshire, nottingham, cheshire, cheshire high",10,high_fb
+322,"charles, st charles, st, charles east, charles north",13,high_fb
+323,"sv, svhs, sva, production broadcasting, hansen",9,high_fb
+324,"phs, ph, experience phs, phe, graduated phs",53,high_fb
+325,"clinton, clinton high, school clinton, clinton school, year clinton",20,high_fb
+326,"greely, teachers counselosr, greely great, greely want, excellent hight",2,high_fb
+327,"concord, concord high, bolton, perkins, gordon",9,high_fb
+329,"cshs, csd, css, point directions, demographic situation",3,high_fb
+330,"relationships enjoys, great relationships, enjoys going, child great, relationships",1,high_fb
+331,"covered cameras, cameras dont, classes secure, picked beautiful, members satisfied",5,high_fb
+332,"garfield, garfield best, garfield amazing, year garfield, successful bluegrass",5,high_fb
+333,"brookside, ridgeville, north ridgeville, cafeteria coffee, ridgeville city",2,high_fb
+334,"austin, akins, austin high, austin area, teachers akins",15,high_fb
+335,"star, school star, rate, perennially rated, unruly people",8,high_fb
+339,"mills, mills high, owings mills, owings, great mills",17,high_fb
+341,"prison, like prison, school prison, prison school, inmates",27,high_fb
+342,"baltimore, maryland, coatesville, baltimore county, school maryland",10,high_fb
+344,"gsa, pay tuition, surrounding, excellent college, school gsa",9,high_fb
+345,"chs, chs great, graduated chs, experience chs, ch",68,high_fb
+346,"chili high, gates chili, gate, chili, stimulation gate",3,high_fb
+347,"experience kids, 15 yr, great experience, year 15, old great",4,high_fb
+348,"marshall, marshall high, thurgood, marshall great, thurgood marshall",27,high_fb
+349,"cfhs, cfs, cf, slightly thought, tucson entire",5,high_fb
+350,"mac, pal mac, mac high, pal, state mac",9,high_fb
+351,"security, entrances, like make, amounts oversight, little achieved",9,high_fb
+352,"suck idea, child 695, 920 347, variety going, 100 price",3,high_fb
+353,"slhs, slv, slp, slh, sles",11,high_fb
+354,"rancho, rancho great, vaquero, love rancho, school rancho",15,high_fb
+355,"dwight, dwight morrow, eisenhower, morrow, school dwight",6,high_fb
+356,"wood, alright finished, wood legacy, currently cy, victories don",3,high_fb
+357,"louis, st louis, louis park, saint louis, park highs",3,high_fb
+358,"steam, class academies, academies, steam program, transferring kaimuki",4,high_fb
+359,"sycamore, syosset, sycamore schools, sycamore high, sycamore school",12,high_fb
+361,"brainerd, concordia, burke, dumpster approach, 2009 attend",2,high_fb
+362,"sunset, attending sunset, attentiveness subject, sunset impressed, curriculum attentiveness",3,high_fb
+363,"mhs, mhs great, mrhs, maize, students mhs",92,high_fb
+365,"ursuline, college ursuline, prescott, ursuline ready, insightful overall",3,high_fb
+366,"atherton, woodward, newman, atherton diverse, love atherton",8,high_fb
+367,"enjoyed jrotc, 2015 grad, grad enjoyed, prairie 2015, love prairie",1,high_fb
+368,"phone, email, calls, studends, school map",16,high_fb
+370,"lowell, lowell high, lowell school, lowell great, lowell teachers",20,high_fb
+371,"ahs, ahcs, aha, ahs excellent, attended ahs",46,high_fb
+372,"michigan, detroit, michigan city, schools michigan, uhsa",18,high_fb
+373,"recommend school, school recommend, recommend, rounded accepting, accepting education",13,high_fb
+374,"thomas stone, stone, stonewall, stone great, moved rockwall",5,high_fb
+375,"diploma, ged, accredited, yhs, washington high",10,high_fb
+376,"dog, youngest horrible, send dog, dogs, cusd",4,high_fb
+377,"aghs, ag, ag program, ags, fria",7,high_fb
+378,"burbank, lehi, burbank high, le, lely",16,high_fb
+379,"let honor, impaired high, qualify standards, class qualify, mental ones",1,high_fb
+380,"coronado, corona, ramona, corona del, del sol",34,high_fb
+381,"sphs, spm, skhs, sk, sps",11,high_fb
+382,"quaker, quaker valley, qv, quakertown, encompassing city",4,high_fb
+383,"oxford, oxford high, chrysalis, school oxford, opa",29,high_fb
+384,"dedication effeorts, list dual, effeorts, effeorts teachers, brownfield high",2,high_fb
+385,"progressive, subsequent classes, working rural, north progressive, innovative fair",5,high_fb
+386,"hoover, hoover great, hoover high, hall way, des moines",12,high_fb
+387,"pa, pennsylvania, crawford central, 181 color, schools pennsylvania",15,high_fb
+388,"air conditioning, conditioning, air, heat, school 112",12,high_fb
+389,"carmel, carmel high, mt carmel, mount carmel, mt",21,high_fb
+390,"page number, author page, kind careers, secondhand quotations, number secondhand",5,high_fb
+392,"ross, mrs ross, rossview, financial burdons, enhanced supplemental",4,high_fb
+393,"hunt, hunt high, hunter, happens leader, gorgeous sure",6,high_fb
+394,"chicago, illinois, schools illinois, school illinois, chicago school",8,high_fb
+395,"walnut high, walnut, school varieties, bwhs best, place bwhs",4,high_fb
+396,"gates, right condisions, drama pathetic, condisions learning, fish hate",1,high_fb
+397,"discipline, reducing, board meetings, tests reteaching, comes courage",6,high_fb
+398,"suncoast, sunnyside, student suncoast, sunnyside high, school suncoast",6,high_fb
+399,"lafayette, lafayette high, attending lafayette, school lafayette, love lafayette",15,high_fb
+400,"elm, little elm, elma, elmo, elma high",13,high_fb
+401,"elsik, el modena, el, modena, vanguards",9,high_fb
+402,"scott, scott high, believe scott, walker, happens receptive",3,high_fb
+403,"monroe, monroe high, monroe woodbury, james monroe, love monroe",13,high_fb
+404,"greenwood, greenwood community, center grove, community schools, really consider",2,high_fb
+405,"mhhs, mission, mission hills, upenn, american high",4,high_fb
+406,"vpa, strand vpa, fulfilment, excellent loooove, shelley good",2,high_fb
+407,"attend srhs, art quest, decision pleased, quest, district big",1,high_fb
+408,"hawthorne, wonders turn, optional majority, eld support, past wonders",1,high_fb
+409,"ptsa, ptsa ones, cphs district, newsletter social, house cphs",3,high_fb
+410,"kellenberg, left rsk, located asset, kellenberg academics, future mentors",4,high_fb
+411,"coral, coral park, reef, coral reef, miami coral",36,high_fb
+412,"breeds free, society possess, aehs exceeded, county supportive, aehs",1,high_fb
+413,"excel committed, winthrop, attends winthrop, winthrop high, struggle couple",1,high_fb
+414,"zeeland, zps, intolerance, zeeland high, communities choose",2,high_fb
+417,"bullied, false, wb, drhs, stalking",16,high_fb
+418,"srhs, srmhs, srv, srvhs, srs",12,high_fb
+420,"lbj, lbj staff, lbj gotten, passion lbj, achieve ms",1,high_fb
+421,"brentwood, topped moving, brentwood judgmental, trouble brentwood, judgmental dress",5,high_fb
+422,"greatly supplements, air use, perkins greatly, supplements learning, adore mac",3,high_fb
+423,"virginia, virginia beach, beach, green run, northern virginia",17,high_fb
+427,"rjr, know rpb, rpb child, decided rjr, wasn attitude",4,high_fb
+428,"gehs, gehs excellent, ges, gea, early heck",5,high_fb
+429,"virtual, virtual school, virtual learning, knocks work, scam siphoning",5,high_fb
+430,"chavez, subjects license, chavez teaching, check license, teachers cesar",2,high_fb
+432,"taylor, taylor high, swift went, taylor swift, ths",7,high_fb
+433,"centennial, centennial high, love centennial, centennial great, ravenwood",34,high_fb
+434,"osage, osage high, opportunities osage, continually emphasizes, osage excellence",4,high_fb
+435,"santa fe, fe, santa, santaluces, fe high",7,high_fb
+436,"dutch, students horrible, courses fields, toledo eighth, courses site",4,high_fb
+437,"stratford, stratford high, spring woods, school stratford, mr juntti",22,high_fb
+438,"longmeadow, longfellow, longview, wish directly, longmeadow reading",3,high_fb
+439,"union, union high, union like, life union, union clean",9,high_fb
+440,"intake swift, smooth special, degrade outstanding, transfer southlake, letting transfer",5,high_fb
+441,"mason, parsons, mason prep, mason great, mason feel",10,high_fb
+443,"tottenville, niceville, pleasantville, starkville, roseville",16,high_fb
+444,"gilbert, gilbert high, west gilbert, imagine west, zanesville high",7,high_fb
+445,"winchester, wes, building 2018, winchester high, lexington words",2,high_fb
+446,"bellflower, school bellflower, berkeley tries, bellflower say, purpose expressing",1,high_fb
+448,"mesquite good, fantastic peers, used environment, wants big, environment used",1,high_fb
+449,"artquest, rosa, santa rosa, lately attending, gorgeous obviously",1,high_fb
+450,"columbia, columbia high, wilde lake, columbia academy, wilde",13,high_fb
+451,"oakland, oakland high, oakland tech, school oakland, tech",12,high_fb
+452,"robotics, lathrop, robotics program, robotics team, engineering",13,high_fb
+454,"cliques, clique, chs cliques, popular, cliques cliques",24,high_fb
+455,"bulldogs, bulldog, turlock high, turlock, wildcats",9,high_fb
+456,"cvhs, cv, cva, school cvhs, cvcs",12,high_fb
+457,"immaculate test, stunning immaculate, eager intellectual, intellectual sophisticated, scores professionalism",1,high_fb
+458,"cypress, cypress bay, cypress springs, cy, cypress woods",23,high_fb
+459,"vernon, mount vernon, mount, vernon high, mt vernon",10,high_fb
+461,"casa, casa grande, grande, new comers, comers",5,high_fb
+462,"independence, independence high, independence great, greed mad, ultimately motivated",8,high_fb
+463,"brighton, brighton high, brighton hall, bhs, brighton school",19,high_fb
+464,"monica, samo, santa monica, samo having, monica kids",3,high_fb
+465,"mercy, experience mercy, mercy girl, represent role, talents receive",6,high_fb
+466,"greats, student bghs, fun greats, bghs fun, greats learning",1,high_fb
+467,"berkeley, berkeley high, berkeley hall, teacher koowledge, classes afro",6,high_fb
+468,"tm, tj, tmhs, tms, tmsa",4,high_fb
+469,"palo, mira, palo alto, alto, mira loma",9,high_fb
+470,"bethel, bethel high, telstar, bethel highschool, bethel school",8,high_fb
+472,"parish, allen parish, decation principle, teacher decation, comforting 100",3,high_fb
+473,"eith unlike, persuade send, ths time, kids persuade, unlike tcchs",3,high_fb
+474,"diamonds, diamonds forever, roaches like, overlook smaller, wildcatttttt",4,high_fb
+475,"grove, groves, seaholm, rah, pleasant grove",6,high_fb
+476,"fayetteville, fayette, fayette county, school fayetteville, south fayette",12,high_fb
+477,"penn, pennfield, william penn, penn manor, pennsauken high",16,high_fb
+479,"pacifica, peninsula, pacific, pacifica offers, pba",5,high_fb
+480,"lphs, lphs wonderful, legacy athletic, opt lphs, d38 academics",6,high_fb
+481,"rio, rio vista, del rio, vista, rvhs",4,high_fb
+482,"vanguard, graduate fremont, vanguard time, ross dumb, fremont ross",2,high_fb
+484,"pmhs, pma, picayune, lyndon, monitors people",7,high_fb
+485,"skyview, kids skyview, school nampa, concessions, nampa",6,high_fb
+486,"experience teachers, great experience, caring elective, helpful prime, conscientious meeting",7,high_fb
+487,"manvel, mandeville, manhasset, mandeville high, manteca",12,high_fb
+488,"island, mainland, long island, experience mainland, mainland high",14,high_fb
+489,"hahnville, lane, child hahnville, lane catalina, overall hahnville",4,high_fb
+490,"naples, naples high, collier, collierville, olive",12,high_fb
+491,"schools champions, doing theyre, champions loving, loving doing, theyre doing",1,high_fb
+492,"bronx, bronx science, bronx high, science, school bronx",19,high_fb
+494,"texas, school texas, navarro, moved texas, longview",23,high_fb
+495,"baldwin, baldwin does, baldwin high, experience baldwin, baldwin stellar",7,high_fb
+496,"howard, howard county, howard high, long reach, county",7,high_fb
+497,"bennett, james bennett, bennett sr, countries appear, cases won",2,high_fb
+498,"ed keeping, unsupervised daycare, pleasing board, shined don, teachers shined",3,high_fb
+499,"camden, camden high, camden county, cma, camden military",12,high_fb
+500,"dsa, dsha, dsha great, got dsa, dsa 6th",8,high_fb
+501,"deer, deer valley, deering, deer park, valley high",10,high_fb
+502,"cleveland, school cleveland, cleveland great, voice science, cleveland high",9,high_fb
+504,"cte, cta, capstone, love cte, cafeteria secure",5,high_fb
+505,"bradford, school bradford, renown theater, bradford county, bradford world",3,high_fb
+507,"ilh, ilt, fast growing, ila, ils",4,high_fb
+508,"constantly enhance, inclusionary environment, conference fully, students jericho, mr prisinzano",2,high_fb
+509,"proud, chs, guyer, environmentally amazing, dilligently solve",6,high_fb
+511,"arlington, arlington high, arlington heights, school arlington, upper arlington",23,high_fb
+512,"henry, patrick henry, patrick, gone henry, recent infrastructure",6,high_fb
+513,"shs, shs great, shs good, shreiner, shcs",41,high_fb
+514,"orange, west orange, orange high, orange county, wohs",15,high_fb
+515,"gmhs, gms, heibel, organize star, opportunity synergize",3,high_fb
+516,"northwood, memorisation, northwoods, northwood great, love northwood",10,high_fb
+517,"hoosac, horeb, ceiling, challenged elite, horeb offers",3,high_fb
+518,"johnson, jonesboro, jonesboro high, principal johnson, mrs johnson",14,high_fb
+519,"latin, latin class, new latin, latin teacher, think little",8,high_fb
+520,"loyola, ignatius, st ignatius, attending loyola, brothers",4,high_fb
+521,"triton, tri, transfeering say, athlete 600, june crowded",4,high_fb
+524,"richmond, richmond academy, richmond senior, new richmond, richmond high",10,high_fb
+525,"charlotte, schools charlotte, academics relatively, fueling toxic, influence coming",5,high_fb
+526,"tigers, tiger, oscar smith, oscar, proud tiger",13,high_fb
+527,"principle, school principle, tlc, trains excellent, student apprehensive",4,high_fb
+528,"perry, perry hall, perry schools, perry meridian, dulaney",14,high_fb
+529,"grandview, grand ledge, attended grand, ledge, did grandview",2,high_fb
+531,"hp, hphs, hpa, highland park, hphs year",7,high_fb
+532,"moscow, russian, moscow high, ap students, yeshiva",4,high_fb
+534,"orchard, quince orchard, quince, orchard park, north potomac",7,high_fb
+535,"sheridan, sheridan high, sheridan private, com rank, number 261",2,high_fb
+536,"oprf, opelika, oprf great, opa, ophir",8,high_fb
+537,"neuqua, nea, north olmsted, nehs, olmsted",6,high_fb
+538,"delphi, berwick, allot, come time, continusly approving",4,high_fb
+539,"anza, experiance, anza great, rumors numerous, enthuisiastic",2,high_fb
+542,"cooper, cooper school, lubbock, cooper great, cooper city",10,high_fb
+543,"dewey, skinner, john dewey, dewey high, dewey great",11,high_fb
+544,"standards arbor, principle ends, wasn provide, view wasn, terrible standards",1,high_fb
+545,"italian, adminstrator scrolling, aren angry, scrolling cell, implemented administrators",2,high_fb
+546,"nhhs, nha, experiences nhhs, alumnus nhhs, nhhs experience",10,high_fb
+547,"parker, parker does, terry parker, terry, year parker",3,high_fb
+549,"beacon, kids beacon, school beacon, plenty kids, beacon academy",10,high_fb
+550,"benito high, benito, san benito, rms, college attedning",2,high_fb
+551,"belleville, edwardsville high, belleview, edwardsville, belle",4,high_fb
+552,"np, nphs, programs rising, rising api, unparalleled people",3,high_fb
+553,"internet cellphones, supervisor disrespectful, administrators disaffected, disaffected staff, daytime custodian",4,high_fb
+554,"boone, daniel boone, bridgeport, daniel, boone county",21,high_fb
+555,"ehs, ehs offers, graduated ehs, ehs great, ehca",26,high_fb
+556,"international, global, regarding pledge, global field, bachelor program",9,high_fb
+557,"panther, panthers, panther panther, panthers school, panther school",15,high_fb
+558,"excelsior, try youll, unlike excelsior, ok unlike, excelsior medical",4,high_fb
+559,"magnolia, magnolia high, complete loved, passable place, important mustangs",5,high_fb
+561,"pass kids, turkey, turkey research, mediocre theyou, level turkey",1,high_fb
+562,"api, valley citrus, surpassed redlands, redlands, redlands east",6,high_fb
+564,"years ppisd, ppisd involved, junior prhs, ridge glory, shot experience",2,high_fb
+565,"rocky, rockys, rocky point, rocky hill, rocky school",5,high_fb
+566,"heights, castle, ahhs, old heights, new castle",8,high_fb
+568,"pilgrim, poverty warwick, quality pilgrim, think pilgrim, received sixties",2,high_fb
+569,"cape, cape fear, cfa, fear, cape henry",11,high_fb
+570,"sas, sas program, school sas, english 28, 28 soon",3,high_fb
+571,"excellent excellent, condor family, especially celebrate, excellent connetquot, connetquot rest",4,high_fb
+573,"rogers, rogers child, friends good, rogers high, ratio rogers",8,high_fb
+574,"highest neighboring, kg high, attending kg, performance happy, happy performance",1,high_fb
+575,"common core, common, core, indoctrination, course mid",3,high_fb
+576,"spring average, overcrowding build, spring excellent, average suburban, problem overcrowding",1,high_fb
+579,"seton, zero ethnic, strong faither, faither students, factor zero",2,high_fb
+580,"geneva, romeoville high, geneva high, geneva school, romeoville",3,high_fb
+581,"waterford, dana, kettering, aliso, apartment",4,high_fb
+582,"addison trail, addison, hyde, trail high, washington post",3,high_fb
+583,"allen, allen high, allen park, love allen, allen worst",17,high_fb
+584,"elizabeth, st elizabeth, mixture young, comes unlike, elizabeth mayor",1,high_fb
+586,"omhs, om, omni, howard county, provided owings",5,high_fb
+588,"gangs, gang, school gangs, drugs, gangs drugs",30,high_fb
+589,"red, red lion, lion, come multitude, life approximately",2,high_fb
+590,"webster, fulla, turn webster, school fulla, fulla dub",1,high_fb
+592,"mitchell, base accusations, lts changes, loved judge, bad mitchell",4,high_fb
+593,"montgomery, school montgomery, montgomery school, montgomery county, montgomery known",16,high_fb
+594,"helpful making, newtown, zoo recommend, section kind, minutes login",9,high_fb
+595,"verde, palo verde, palo, inclusiveness unique, results performing",2,high_fb
+598,"sierra, sierra high, stallions chance, student sierra, stallions",3,high_fb
+599,"start jury, bates academy, academy 2013, bates, jury",1,high_fb
+600,"seneca, sanford, terry sanford, terry, byrd",17,high_fb
+601,"bengal, disappointing, school disappointing, disappointing school, disappointed",10,high_fb
+602,"francis adams, bond district, adams high, charles francis, doing tried",1,high_fb
+604,"nova, attended nova, defiantly, waste child, nova high",10,high_fb
+605,"shreveport, louisiana, shreve, byrd, louisiana school",7,high_fb
+606,"pk, used pk, sr freshmen, pk think, attend clay",1,high_fb
+607,"stevenson, ucs, stevenson elementary, student stevenson, stevenson high",10,high_fb
+608,"sunrise, setka, mr setka, david svorinic, svorinic",2,high_fb
+610,"st augustine, augustine, chorus aice, augustine impressed, augustine high",1,high_fb
+612,"hampton, hampton high, wade hampton, wade, new hampton",10,high_fb
+614,"ll kudos, miller best, curriculum rate, kudos administration, tough curriculum",1,high_fb
+615,"alameda, alamo, alamance, alamosa, staff alameda",10,high_fb
+616,"blair, blair high, ib, british, programme",21,high_fb
+617,"sequoia, sequoia great, really worth, carlos family, enroll sequoia",5,high_fb
+618,"elgin, calhoun, u46, elgin middle, tense",5,high_fb
+620,"harrison, harrison high, landon, harrison central, west harrison",20,high_fb
+621,"aspen, aspen high, aspen schools, high aspen, best 15",2,high_fb
+622,"comutity teacher, comutity, rarly good, repainted sign, saw repainted",5,high_fb
+624,"northwest, northwest high, northwest hs, cabarrus high, northwest cabarrus",23,high_fb
+625,"bolsa, bolingbrook, point boro, bolsa grande, bolingbrook high",9,high_fb
+627,"mesa, mira mesa, mira, mesa high, stowers",8,high_fb
+628,"canterbury, state championships, ferris features, championships academic, amounts profanity",1,high_fb
+629,"corner thank, mdi high, thank cphs, difficult treat, mdusd love",3,high_fb
+630,"okmulgee, pcn, oklahoma, scholars, okemos",12,high_fb
+631,"ma, mahopac, mamhs, stanford year, year approximately",5,high_fb
+632,"churchill, winston, winston school, winston churchill, churchill high",13,high_fb
+633,"xavier, xavier high, xavier say, life xavier, brotherhood",9,high_fb
+634,"princeton, princeton high, phs, phs phs, school princeton",11,high_fb
+635,"kent, kentwood, kent meridian, kihs, kent district",10,high_fb
+636,"tma, computer journalism, coming ipm, offerings subject, boys cool",1,high_fb
+637,"langley, mclean high, mclean, overcrowded langley, track asians",2,high_fb
+639,"disappointed pioneer, imagined contact, like disappointed, experience imagined, information like",1,high_fb
+640,"hazel, longwood, collingswood, hazelwood, moral doing",4,high_fb
+641,"demographics disappointing, bethesda schools, school bethesda, based demographics, scores based",1,high_fb
+642,"loara, went uci, lodi high, loma, lodi",4,high_fb
+643,"big best, thinking looking, grades fun, date grades, looking innovative",3,high_fb
+644,"springfield, springfield high, springfield great, springfield township, township high",11,high_fb
+645,"klein, klein oak, oak, stanton, school klein",40,high_fb
+647,"foster, foster son, foster high, journalism, uil event",6,high_fb
+648,"barnesville schools, intellectual teachers, went success, community anti, barnesville",1,high_fb
+649,"hamden high, hamden, school hamden, hamlin, great clubs",6,high_fb
+650,"cherokee, cherokee high, cherokee county, love cherokee, college cherokee",14,high_fb
+652,"holmes, john holmes, holmes high, john, holmes great",15,high_fb
+653,"knights, nimitz, niwot, wealthy bad, nimitz solid",8,high_fb
+655,"thanks ls, sudbury worth, live sudbury, ls going, hired hear",1,high_fb
+656,"gaithersburg, gaithersburg high, whitesburg, wickenburg, mrs rada",17,high_fb
+659,"rvc, rvcs, rvhs, rv, oceanside",5,high_fb
+661,"political, politics, indoctrination, opinions, teaching political",19,high_fb
+662,"wildwood, wildwood middle, man soo, far wildwood, negative wmhs",3,high_fb
+663,"gt, gt program, muc effort, colloqlium classes, bubble similar",1,high_fb
+665,"taft, taft high, taft taft, taft gets, school taft",11,high_fb
+666,"judson, parkway, currently judson, parkway north, nebraska",5,high_fb
+667,"wonderful earth, rural setting, school rural, earth school, rural",1,high_fb
+668,"staar, staar test, staar eoc, exams, exam",2,high_fb
+669,"mormon, lds, mormons, lds people, lds faith",12,high_fb
+670,"iowa, moines, des moines, des, iowa falls",11,high_fb
+672,"aice, aice program, ais, school aice, aice diploma",8,high_fb
+674,"columbus, whetstone, columbus city, coaching access, society teen",5,high_fb
+677,"dawson, dawson county, boards extra, center serving, serving dawson",1,high_fb
+678,"science, science research, science program, disipline, science department",10,high_fb
+680,"teach japenese, pass serving, jafsh school, jafsh, cares tardies",2,high_fb
+682,"fulton, fulton high, class easier, easier school, fulton county",6,high_fb
+683,"carolina, south carolina, greensboro, carolina school, north carolina",9,high_fb
+684,"irving, nimitz, irvington, irving nimitz, nimitz best",4,high_fb
+685,"harding, went harding, harding really, ezell, love harding",5,high_fb
+686,"henderson, henderson great, school henderson, pssas athletics, henderson years",7,high_fb
+687,"decent problems, stuff room, excellent change, great major, problems excellent",5,high_fb
+688,"robinson, robinson secondary, robinson great, robinson best, love robinson",9,high_fb
+689,"laguna, hawks, laguna hawks, dale excell, students pertaining",3,high_fb
+690,"florence, florence high, florence middle, fhs, alabama",13,high_fb
+693,"lockers, locker, barely useable, cheap barely, textbooks person",4,high_fb
+694,"poor, terrible leadership, follow informed, andy kovach, lackluster inadequate",7,high_fb
+695,"tonka, rep, extremes rich, starting sending, sending pregnant",1,high_fb
+696,"pghs, pg, graduated pghs, pg county, inlcuding science",5,high_fb
+697,"pointe, south pointe, south, pointe high, rock hill",8,high_fb
+700,"shore, north shore, shore fabulous, selection focus, shore hs",3,high_fb
+701,"tucker, tucker high, pierce, experience tucker, grader tucker",5,high_fb
+702,"caldwell, hibriten, school geniually, geniually cares, james caldwell",3,high_fb
+705,"oakdale, moved oakdale, oakdale great, oakdale school, like oakdale",1,high_fb
+707,"district, school district, grandchild sophmore, organization consider, spectacular district",10,high_fb
+710,"broadmoor, southmoore, broadmoor lacks, educationally uneventful, love southmoore",2,high_fb
+711,"southwest, southwestern, experience southwest, southwest great, southwest wonderful",10,high_fb
+712,"happy hs, comfortable far, son feeling, far make, feeling comfortable",1,high_fb
+713,"silverton high, fun theres, silverton, big like, theres lot",1,high_fb
+714,"swain, attend sww, swain high, joke began, simply mainly",2,high_fb
+716,"food, pepperoni, gross, wheat, kind pizza",7,high_fb
+717,"alta, alta vista, alta high, acedemic, vista",4,high_fb
+719,"recent removal, occur troubled, hopefully recent, superintendent significant, program mills",1,high_fb
+720,"indiana, indy, schools indiana, indianapolis, ips",12,high_fb
+721,"arch, challenging arch, respectful women, marketing ample, absolutely granted",1,high_fb
+722,"butler, butler high, teachers butler, astor, butler school",7,high_fb
+725,"peoria, president peoria, championships told, coaches president, board sports",2,high_fb
+726,"fremont, fremont high, schools fremont, fremont great, class selection",7,high_fb
+727,"st johns, johns, johns offers, offers program, st",2,high_fb
+728,"fairmont, kettering fairmont, work expereince, enjoyed fairmont, recommend kettering",1,high_fb
+730,"westlake, westlake high, thousand oaks, thousand, oaks high",8,high_fb
+731,"cyber, conestoga valley, conestoga, cyber school, cyber doing",2,high_fb
+732,"boarding, eh basically, rank lot, graduating stopped, scholarships ect",1,high_fb
+733,"vwcs, vwcs adopted, youth career, expand progressive, positive cotninue",1,high_fb
+734,"chandler, chandler high, gotten participate, rest planning, chandler center",3,high_fb
+735,"fights, barringer, fight, school fights, fight school",12,high_fb
+736,"colfax, colfax high, invest thankful, special town, colfax couldn",3,high_fb
+737,"don eat, eat, account negative, cards children, food",4,high_fb
+739,"hstat, telecommunications, tele, hs, hsa",6,high_fb
+740,"lebanon, lebanon high, mt lebanon, new lebanon, lhs",19,high_fb
+742,"clover, cloverleaf, clover hill, cloverdale, cloverhill",11,high_fb
+747,"looks individually, desires learning, supportive meet, manner supports, large highly",2,high_fb
+748,"homeschool, homeschooling, cosmetology, better homeschooling, school homeschool",9,high_fb
+749,"fairfax, fairfax high, fairfax county, ap teachers, schools fairfax",7,high_fb
+750,"einstein, einstein academy, vac, alfred, attending einstein",5,high_fb
+751,"harbor, number committed, harborfields teachers, family harbor, 00 high",4,high_fb
+752,"falcons, falcon, falcons fly, fly high, fly",9,high_fb
+753,"preston, ashbrook, pile, leave outgoing, preston decided",2,high_fb
+755,"terra, terra nova, tn, design internationally, retiring thank",1,high_fb
+756,"bpa anaheim, barber afforded, dream lovemisd, 4th java, 5th computer",1,high_fb
+758,"seminole, seminole high, seminole county, health academy, students seminole",16,high_fb
+759,"roberts, owen roberts, owen, matriculate, roberts wonderful",3,high_fb
+760,"webb, webb city, wchs, webb school, best webb",6,high_fb
+761,"jesuit, jesuit great, loyola, jesuit education, jesuit prepared",7,high_fb
+762,"dublin, dublin high, upper dublin, dublin schools, galway",18,high_fb
+763,"ward, ward melville, melville, melville provides, melville wide",2,high_fb
+764,"powell, powell high, rezoning, graduated powell, troublemakers",4,high_fb
+766,"cottonwood, cottownood, cottonwood high, 9th grader, kids cottonwood",6,high_fb
+767,"entitled easy, wants lives, graham, offer motivated, graham high",1,high_fb
+768,"helena, st helena, greatschools vice, books academically, department shiny",1,high_fb
+769,"sbhs, animatronics, cardinal city, sbms, sba",6,high_fb
+770,"chapel hill, chapel, hill, hill high, chhs",29,high_fb
+771,"rosemont, rosemont high, big blue, rosebank, love rosemont",12,high_fb
+772,"williams, williamstown, laneborough, mathematics mount, activities wehs",3,high_fb
+774,"wauconda, waggener, waccamaw, wacs, student wauconda",10,high_fb
+775,"504, 504 plan, plan, guidance counselor, son 504",8,high_fb
+776,"hammond, school hammond, kerr, grades hcpss, known hammond",5,high_fb
+777,"denver, colorado, denver academy, colorado school, pom",9,high_fb
+781,"ea, ascension, staff ea, parish kid, ea big",1,high_fb
+782,"glendale, glendale high, ghs, glendale strong, student glendale",6,high_fb
+783,"skyline, skyline high, school skyline, graduated skyline, skyline offers",12,high_fb
+784,"davidson, davidson high, north davidson, school davidson, ndhs",5,high_fb
+785,"hudson, greenport, hudson greenport, industries, displaced small",7,high_fb
+787,"nda don, principal sacrificed, current bump, sacrificed children, children nda",1,high_fb
+788,"el dorado, dorado, eldorado, el, el monte",6,high_fb
+789,"reed, burley, greely, william reed, experience reed",4,high_fb
+791,"shiloh, south gwinnett, gwinnett, atl, shiloh hills",10,high_fb
+792,"milwaukee, dsha, south milwaukee, milwaukee lutheran, dsha great",6,high_fb
+794,"hopkins, hopkinsville, cchs, glamorous things, general regarding",3,high_fb
+795,"windsor, east windsor, new britain, britain, saturday carnivals",2,high_fb
+796,"serra, serrano, serra high, junipero, junipero serra",9,high_fb
+797,"ee, works theres, sitha love, pride thats, pasion grades",1,high_fb
+798,"kempner, worry ground, great muslims, zoned absolutely, kempner zoned",1,high_fb
+799,"monte vista, monte, vista, increase goal, doing weighing",2,high_fb
+800,"pasadena, phs, school pasadena, average education, pasadena district",3,high_fb
+801,"walton, cobb, walton high, years walton, school walton",18,high_fb
+802,"memorial, memorial high, memorial hs, school sbisd, sbisd",8,high_fb
+804,"tc, alexandria, williams, tc williams, university",57,high_fb
+805,"sherwood, went sherwood, sherwood great, jocks pact, towson great",5,high_fb
+806,"suburban council, bshs, school suburban, strand, choice curricular",2,high_fb
+807,"sg, dimand, vps yelling, freshmen htis, sg vps",3,high_fb
+808,"doral, responses choice, courses esembler, choosing mount, supportive enrolled",1,high_fb
+809,"favoritism, teachers favoritism, children seek, favoritism large, favoritism enforce",8,high_fb
+810,"experience woodstock, woodstock great, students entertained, great liked, woodstock",1,high_fb
+811,"russellville, russellville high, russell, individuals care, education russellville",6,high_fb
+812,"km, kmta, kms, ocasionally best, fighting ocasionally",2,high_fb
+813,"extremely positive, positive, positive school, outcomes major, quad positive",8,high_fb
+814,"leo, st leo, leo elementary, leo don, ren leo",4,high_fb
+815,"memphis, school memphis, horn lake, white station, optional program",4,high_fb
+816,"leading succeeding, ready inspite, inspite size, graduates leading, fergus high",1,high_fb
+817,"praise different, cultures pretty, competent counseling, hardworking good, respect praise",6,high_fb
+819,"wlhs positive, counsellors experience, year wlhs, positive experience, excellent counsellors",5,high_fb
+820,"bellaire, bella, bella vista, bellaire high, vista",10,high_fb
+821,"representative culture, challenging representative, culture preparing, armstrong, armstrong high",1,high_fb
+823,"preschool lab, lab class, lab, preparation attending, went lab",2,high_fb
+824,"flanagan, ramsey, murphy, patrolled love, ramsey high",3,high_fb
+829,"roswell, rne, roswell high, milton, roswell north",8,high_fb
+830,"gulfport, gulfport high, gulf, gulfport school, ghs",19,high_fb
+831,"rbhs, rbc, rbs, rb, rbcs",11,high_fb
+832,"aoit, east high, east, software animation, technology owe",1,high_fb
+833,"platt tech, attend platt, tech doing, platt, really staff",1,high_fb
+834,"bixby, 6a, 6a school, bixby definitely, bixbys",4,high_fb
+835,"murray, murray high, ap concurrent, concurrent enrollment, hill murray",4,high_fb
+836,"cougars, cougar, nm, cougars say, cougars amazing",7,high_fb
+838,"paso, el paso, el, eastlake, school el",11,high_fb
+839,"macarthur, schultz, visible tp, mac interested, sophomore macarthur",4,high_fb
+840,"travis, lake travis, lake, bust little, travis schools",3,high_fb
+841,"belmont, lives belmont, belmont child, belmont graduate, trying belmont",2,high_fb
+842,"dekalb, dekalb county, say dekalb, dekalb school, school dekalb",10,high_fb
+846,"warren, warrendale, warren township, warren great, almond campus",13,high_fb
+847,"fort, fortis, fdhs offers, fort family, referrals fort",6,high_fb
+848,"hickory, hickory high, burnet, burnet cisd, attending hickory",8,high_fb
+849,"asb, involve push, doesnt push, care skyhawks, know faculties",1,high_fb
+850,"ta, enjoy moment, braves, vocational, new shops",7,high_fb
+852,"cox, cox high, lot drugs, attended cox, cox excellent",4,high_fb
+853,"utah, cottonwood, school utah, utah school, years cottonwood",5,high_fb
+855,"turner, newburgh, newburgh schools, newman smith, newman",6,high_fb
+856,"cumberland, cumberland high, cumberland county, chs offers, cumberland academy",7,high_fb
+858,"lhs, lhs great, lmhs, lghs, think lhs",32,high_fb
+859,"fantastic need, need plan, future highly, plan future, believe read",3,high_fb
+860,"evans high, evans, complaints asked, ehs important, seriously ehs",1,high_fb
+861,"lansing, east lansing, wealthier families, lansing christian, wealthier",6,high_fb
+862,"sequoyah, sequoyah read, exposes great, oriented graduated, sequoyah college",1,high_fb
+863,"difficulties openly, invite graduate, similarly bought, hapless similarly, bought wealthy",2,high_fb
+864,"tree, marked tree, mmarked tree, mmarked, tree went",2,high_fb
+865,"reagan, ronald reagan, ronald, reagan high, reagan does",13,high_fb
+866,"whitman, severna park, severna, walt whitman, walt",5,high_fb
+869,"mcnair, ronald mcnair, assignments encountered, barone running, fernando titus",3,high_fb
+870,"farrar school, entire bondurant, bondurant farrar, bondurant, aspects ve",3,high_fb
+871,"shelton, overhauled fresh, rated amity, fairfield student, amity trumbull",2,high_fb
+872,"nurse, healthy tells, lay 10, resources fees, unprofessional tax",3,high_fb
+873,"spartans, sparta, spartan, moberly, spartan high",8,high_fb
+874,"richland, loveland, richland northeast, loveland high, richland hs",17,high_fb
+876,"santiago, chiles, santiago high, attended santiago, football coach",10,high_fb
+877,"midland, chemic, cabell midland, cabell, dow",3,high_fb
+878,"ohs, oha, attending ohs, ohs amazing, love ohs",21,high_fb
+880,"harlem, student athletes, talents feelings, feelings teams, kids boylan",1,high_fb
+882,"bowne, students bowne, bowne high, barnette, bowers",2,high_fb
+885,"dallas, east bernard, dallas high, bernard, bernard looking",4,high_fb
+886,"philadelphia, preety, gwhs, philly, school philadelphia",2,high_fb
+890,"harvard, towson, going harvard, harvard university, harvard mit",8,high_fb
+891,"valle high, valle, vallejo, del valle, del",5,high_fb
+894,"jonesboro, jones, thrive tough, help jonesboro, paycheck instill",1,high_fb
+895,"population enjoy, grateful lhs, notch rotc, desirable live, love increasing",4,high_fb
+896,"morristown, morristown west, morris, morristown latest, program morristown",3,high_fb
+899,"sota, soar, education sota, directly sota, resulted developing",5,high_fb
+900,"ashland, ashland high, oxbow, deciding ashland, ahs",6,high_fb
+901,"marlborough, maury, assabet learned, consequently work, couselors nashoba",1,high_fb
+904,"westfield, source instruction, time westfield, went westfield, westfield school",8,high_fb
+905,"san antonio, antonio, judson, san, jay high",5,high_fb
+906,"vikings, viking, dixon, vikings love, calfornia",6,high_fb
+907,"officer harrington, harrington, weston, actually returned, stolen officer",2,high_fb
+908,"curriculars facilities, say lwc, pwc administration, lwc prepared, complaint terribly",2,high_fb
+909,"ice running, bathrooms cochroaches, cochroaches, cochroaches ice, improve cafeteria",1,high_fb
+912,"andrews, andrews high, graduated andrews, best andrews, hpc",12,high_fb
+914,"loves happy, child loves, loves, happy, child",1,high_fb
+915,"beaver, xenia, beaverton, beaverton high, western beaver",4,high_fb
+916,"troy, troy high, graduated troy, troy center, troy amazing",17,high_fb
+917,"calabasas, calabash, calabasas high, calabasas residents, way skin",7,high_fb
+918,"meridian, cato meridian, junior meridian, owe raised, certification pathways",3,high_fb
+920,"attended aurora, 12 received, aurora public, aurora, schools 12",1,high_fb
+922,"cardinal, cardinals, tvhs, thestuff, white gooooo",5,high_fb
+923,"memorial honor, happy memorial, memorial came, memorial, student memorial",1,high_fb
+925,"fishers, fishers ratings, slapped ignored, elitist meeting, district 3500",1,high_fb
+926,"greenville, greenville high, greenville middle, middle academy, ghs",8,high_fb
+927,"nhs, norwalk, graduated nhs, student nhs, nhs great",31,high_fb
+929,"shasta, shasta high, mt shasta, sha, did strugle",3,high_fb
+930,"redwood, redwood great, redwood high, redwood day, love redwood",6,high_fb
+934,"high point, point, hpc, point central, brooke point",9,high_fb
+937,"elkins, elkhorn, elk, elkins high, elkhorn area",13,high_fb
+938,"advocate strong, socially admittedly, focused large, teachers nshs, admittedly achievement",1,high_fb
+940,"boils lucky, sons coral, went scores, decent afraid, important older",1,high_fb
+942,"palmetto, palmetto high, palmetto great, aice, southridge",22,high_fb
+944,"truman, trumansburg, truman high, graduated truman, truman hs",7,high_fb
+945,"topeka, topeka high, school topeka, topeka collegiate, department best",7,high_fb
+946,"did embraced, hhh reviews, attending hhh, outdated paying, grandparent florida",4,high_fb
+947,"milford, good professors, milford high, school typical, middle popular",3,high_fb
+948,"homestead, homesteads drug, popular thankful, cops popular, homestead challenging",2,high_fb
+950,"bellevue, school bellevue, bellevue school, bellevue right, building midst",5,high_fb
